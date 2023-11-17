@@ -1,6 +1,6 @@
 # Table of contents
 
-* [MyWay Route Planner - Knowledge Base - Home](README.md)
+* [MyWay Knowledge Base - Home](README.md)
 * [What is MyWay Route Planner?](what-is-myway-route-planner/README.md)
   * [Does MyWay work in my area?](what-is-myway-route-planner/does-myway-work-in-my-area.md)
   * [How much does MyWay Route Planner cost?](what-is-myway-route-planner/how-much-does-myway-route-planner-cost.md)
