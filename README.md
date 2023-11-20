@@ -4,7 +4,7 @@ description: >-
   what can possibly go wrong.
 ---
 
-# Home
+# MyWay Knowledge Base - Home
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>How to use MyWay Route Planner</td><td></td><td></td><td></td><td><a href="guides/how-to-use-myway-route-planner.md">how-to-use-myway-route-planner.md</a></td></tr><tr><td>Optimization Settings</td><td></td><td></td><td></td><td><a href="guides/understand-optimisation-settings.md">understand-optimisation-settings.md</a></td></tr><tr><td>Managing your Routes</td><td></td><td></td><td></td><td><a href="guides/managing-your-routes.md">managing-your-routes.md</a></td></tr><tr><td>Stop Settings</td><td></td><td></td><td></td><td><a href="guides/understanding-stop-settings.md">understanding-stop-settings.md</a></td></tr><tr><td>Navigation Settings</td><td></td><td></td><td></td><td><a href="guides/understand-navigation-settings.md">understand-navigation-settings.md</a></td></tr><tr><td>Contact Us</td><td></td><td></td><td></td><td><a href="how-to-contact-us.md">how-to-contact-us.md</a></td></tr></tbody></table>
 
@@ -84,6 +84,10 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 {% content-ref url="guides/proof-of-delivery.md" %}
 [proof-of-delivery.md](guides/proof-of-delivery.md)
+{% endcontent-ref %}
+
+{% content-ref url="guides/planning-multi-day-routes.md" %}
+[planning-multi-day-routes.md](guides/planning-multi-day-routes.md)
 {% endcontent-ref %}
 
 ***

@@ -46,6 +46,8 @@ Please remember that the "Optimization for Distance" setting can ignore stop set
 _When you add stops, please pay attention to the warnings and errors MyWay is showing you. For example, if the app believes the stop is incorrect or placed in the wrong place (like another country), it will show you an orange exclamation mark next to the stop. If you get any errors, please check_ [_our article that explains what they mean and how to get them sorted_](../faq/why-some-of-my-points-are-marked-as-incorrect-or-path-not-found-or-unexpected-error.md)_._
 {% endhint %}
 
+MyWay Route Planner also supports multi-day trips. If you want to know how to build them, please [check this article](planning-multi-day-routes.md).
+
 ## Optimize Routes
 
 [Optimization options](understand-optimisation-settings.md) like the "Current" card mean the stop order will stay as you added them (the app will not optimize the stop order), and the "Optimized" card means the stop order will be optimized.&#x20;

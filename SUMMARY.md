@@ -21,6 +21,7 @@
 * [How to import XLSX files from other apps?](guides/how-to-import-xlsx-files-from-other-apps.md)
 * [Export your route and share it with others](guides/export-your-route-and-share-it-with-others.md)
 * [Proof of Delivery](guides/proof-of-delivery.md)
+* [Planning Multi-Day Routes](guides/planning-multi-day-routes.md)
 
 ## FAQ
 
