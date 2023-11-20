@@ -48,7 +48,9 @@ _When you add stops, please pay attention to the warnings and errors MyWay is sh
 
 MyWay Route Planner also supports multi-day routes. If you want to know how to build them, please [check this article](planning-multi-day-routes.md).
 
-## Optimize Routes
+When you are done with all route params and all stops added, you need to click on a blue button with two arrows on the bottom right side of the screen. After you do that, the route will be sent to the route builder, and you will be presented with Optimization Options.
+
+## Optimization Options (Build and Optimize your route)
 
 [Optimization options](understand-optimisation-settings.md) like the "Current" card mean the stop order will stay as you added them (the app will not optimize the stop order), and the "Optimized" card means the stop order will be optimized.&#x20;
 
@@ -59,12 +61,26 @@ Sometimes, an optimized route traveling time or distance can be more significant
 {% endhint %}
 
 {% hint style="warning" %}
-In some cases, like tight time windows or messed stop's priorities, there is a possibility that the algorithm can't find the best order. Sometimes, it will also be the case for your "Current" route. In this case, the app will show you a warning and will suggest you modify some of those stops (or simply skip them). We also know that some apps "build your route anyway" and show you those missed stops after the fact. We decided to show you this so you decide what to do before it's too late.
+In some cases, like tight time windows or messed stop's priorities, there is a possibility that the algorithm can't find the best order that satisfies all parameters. Sometimes, the app can't even build your (Current) order as per many issues with stops. In this case, the app will show you a warning and will suggest you modify some of those stops (or simply skip them). It will show you late arrivals and issues.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/74A77C35-0F36-4866-802C-16FC97F742CB.PNG" alt="" width="188"><figcaption><p>Optimization Issue</p></figcaption></figure>
+<div>
 
-After you pick route type (Current or Optimized), the app will ask you to click the "Let's go" button. and if you are finished with your route planning, you can do that, or you can continue adding stops and changing stop parameters and having some routes built for you as a reference. After you press "Let's go," the app will recalculate all route time and parameters, taking the newest data into account (like time windows, traffic, etc.)
+<figure><img src="../.gitbook/assets/5F8EB0C0-74FA-4E04-9E17-9091301ECD1A.PNG" alt="" width="188"><figcaption><p>Late Arrival</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/74A77C35-0F36-4866-802C-16FC97F742CB.PNG" alt="" width="188"><figcaption><p>Optimization Warning</p></figcaption></figure>
+
+</div>
+
+{% hint style="info" %}
+Our users also told us that some apps "build your route anyway" and show you those missed stops after the fact. It creates a feeling that everything is okay until it's not. We show you this so you can decide what to do before it's too late.
+{% endhint %}
+
+### Confirm your Route
+
+After you pick the route type (Current or Optimized), the app will ask you to click the "Let's go" button. and if you are finished with your route planning, you can do that, or you can continue adding stops and changing stop parameters and having some routes built for you as a reference. After you press "Let's go," the app will recalculate all route time and parameters, taking the newest data into account (like time windows, traffic, etc.). You also can close the Le'ts go button or simply continue building your route afterwards. When you finish making changes, click the blue button with an arrow on the bottom right side.
 
 {% hint style="info" %}
 If you build a route for the future, we recommend pressing the "Let's go" button exactly when you leave for your route so it will start your route exactly when you go for it.&#x20;
