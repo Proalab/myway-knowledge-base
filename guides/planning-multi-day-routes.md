@@ -16,10 +16,10 @@ However, when you plan a multi-day route, you must be aware of a few things you 
 
 ### Time Windows
 
-The next thing is the Time Window. The Time Window setting does not have a concept of the day but simply a period From - To. We have a pretty smart algorithm that predicts if the time window belongs to another day (if you plan a multi-day route), but in a nutshell, you can use the rule of 4 hours to understand the app logic. If you plan the route and set time windows 4 hours later than your start time, then it will almost certainly be pushed to another day.
+The next thing is the Time Window. The Time Window setting does not have a concept of the day but simply a period From - To. We have a pretty smart algorithm that predicts if the time window belongs to another day (if you plan a multi-day route), but in a nutshell, you can use the rule of 4 hours to understand the app logic. If you plan the route and set time windows at the latest time, 4 hours later than your start time, then it will almost certainly be pushed to another day.
 
 {% hint style="info" %}
-If your route starting time is 10 am and the time window for some stops is set From 04 am - To 06 am, the app will assume that the time window is set for tomorrow. It will calculate the time difference between the route start time and the latest time, and if the time is greater than 4 hours, it will move the time window to another day.
+If your route starting time is 10 am and the time window for some stops is set Earliest(From) 04 am - Latest(To) 06 am, the app will assume that the time window is set for tomorrow. It will calculate the time difference between the route start time and the latest time, and if the time is greater than 4 hours, it will move the time window to another day. There is much more logic, but this rule always works.
 {% endhint %}
 
 ### Time Zones
