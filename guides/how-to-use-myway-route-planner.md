@@ -70,7 +70,7 @@ In some cases, like tight time windows or messed stop's priorities, there is a p
 
  
 
-<figure><img src="../.gitbook/assets/74A77C35-0F36-4866-802C-16FC97F742CB.PNG" alt="" width="188"><figcaption><p>Optimization Warning</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/6604EF22-6539-452A-BF72-E17CF903FA08.PNG" alt="" width="188"><figcaption><p>Optimization Warning</p></figcaption></figure>
 
 </div>
 
