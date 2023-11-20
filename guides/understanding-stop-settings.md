@@ -53,6 +53,8 @@ Please make sure you don't set priority for more than 2 stops. When every stop i
 
 Use Time Windows when you need to be at a stop before, after, or between specific times. **It's not recommended to have time windows for all stops or have them narrowed down to 1-2 hours (the best practice is considered between 3-5 hours)**
 
+Time Windows might behave differently when you plan a multi-day route. To understand the difference, please [check this article](planning-multi-day-routes.md#time-windows).
+
 {% hint style="warning" %}
 Please keep in mind that in some cases, when you have a time window for the majority of stops, it is simply impossible to satisfy every time window constraint. In this case, MyWay will ignore some time windows and build you the most efficient route possible based on that ignorance. MyWay will notify you which stops are outside of the time windows so you can prioritize them manually.
 

@@ -1,4 +1,4 @@
-# Planning Multi-Day Routes
+# Planning Multi-Day routes
 
 MyWay Route Planner, like no other apps on the market, supports multi-day routes, road trips, and travels and has many settings that can help you build, follow, and understand routes better.
 
