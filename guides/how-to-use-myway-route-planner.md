@@ -55,10 +55,16 @@ MyWay Route Planner also supports multi-day routes. If you want to know how to b
 ![Choose optimization type.](../.gitbook/assets/7BED01AC-A777-44AC-A05A-71EE5F247974.PNG)
 
 {% hint style="warning" %}
-Sometimes, an optimized route traveling time or distance can be more significant or take more time than the route without optimization. It happens because optimization considers all stop parameters. [Parameters like "time windows," "priority," and "service time" will affect your route's overall time and distance](understanding-stop-settings.md). Don't worry. Our algorithm built the most efficient route possible. It just may look like it is not. If you want more about this, please check our [article that explains how the route optimization algorithm works](../faq/the-route-myway-produced-doesnt-look-correct.md).
+Sometimes, an optimized route traveling time or distance can be more significant or take more time than the route without optimization. It happens because optimization considers all stop parameters. [Parameters like "time windows," "priority," and "service time" will affect your route's overall time and distance](understanding-stop-settings.md). Don't worry. Our algorithm built the most efficient route possible, considering all these parameters. It just may look like it is less efficient as the Current order simply ignores them. If you want more about this, please check our [article that explains how the route optimization algorithm works](../faq/the-route-myway-produced-doesnt-look-correct.md).
 {% endhint %}
 
-At this stage, the app will ask you to click the "Let's go" button, and if you are finished with your route planning, you can do that, or you can continue adding stops and changing stop parameters and having some routes built for you as a reference. After you press "Let's go," the app will recalculate all route time and parameters, taking the newest data into account (like time windows, traffic, etc.)
+{% hint style="warning" %}
+In some cases, like tight time windows or messed stop's priorities, there is a possibility that the algorithm can't find the best order. Sometimes, it will also be the case for your "Current" route. In this case, the app will show you a warning and will suggest you modify some of those stops (or simply skip them). We also know that some apps "build your route anyway" and show you those missed stops after the fact. We decided to show you this so you decide what to do before it's too late.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/74A77C35-0F36-4866-802C-16FC97F742CB.PNG" alt="" width="188"><figcaption><p>Optimization Issue</p></figcaption></figure>
+
+After you pick route type (Current or Optimized), the app will ask you to click the "Let's go" button. and if you are finished with your route planning, you can do that, or you can continue adding stops and changing stop parameters and having some routes built for you as a reference. After you press "Let's go," the app will recalculate all route time and parameters, taking the newest data into account (like time windows, traffic, etc.)
 
 {% hint style="info" %}
 If you build a route for the future, we recommend pressing the "Let's go" button exactly when you leave for your route so it will start your route exactly when you go for it.&#x20;
