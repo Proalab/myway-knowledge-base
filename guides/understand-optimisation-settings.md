@@ -60,3 +60,11 @@ This setting is not visible in the app but might have two options:&#x20;
 {% hint style="info" %}
 The **"My location" option turned off (when the checkbox is not checked) is not recommended**, as it might affect route distance and time estimation accuracy. It also will affect application work and functionality. It might be helpful if there is no access to your current location or if your current location will break the route (for example, you are far away from your stops, in another country, on the island, etc.). Still, we don't recommend using it to block app access to your location data on a permanent basis.
 {% endhint %}
+
+## Route Reverse
+
+MyWay also supports route reverse when you need to flip the route (for example, you have only the start location and want to start collecting parcels from the farthest stop, coming back to start). This might be useful when your route is narrow and lies in one direction (like a sector). You can flip your route by going to the route menu (3 dots blue button) > More > Reverse Route. After that, we recommend picking "Current" as your optimization option to keep your route the way you build it.
+
+{% hint style="warning" %}
+Please keep in mind that the "Current" option, as well as the "Reverse Route" option, will ignore stop time windows, ASAP flag, and all other stop settings that will be taken into account when you pick the "Optimized" option. The "Current" and "Reverse" options are for users who prefer to follow their routes. You can still optimize route > go to edit mode > change it to your taste > and pick "Current" afterward to make a combo between optimized and current, though.
+{% endhint %}
