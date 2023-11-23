@@ -20,6 +20,10 @@ MyWay Route Planner, like no other app on the market, supports two Route Optimis
 You also can build a route, optimize it first, and modify it to your liking (shuffle stops, add new stops. and then pick ["Update Route"](understand-optimisation-settings.md#route-update-and-reoptimize) to actualize ETA's)
 {% endhint %}
 
+## Optimize Finish Time or Optimize Travel Time
+
+MyWay uses intelligent algorithms to build a route optimal for your needs (settings you pick), but it's not always possible to find the best route without sacrificing specific parameters. That's why your options are important and can greatly influence the final route.  MyWay has two mods that can help you get the optimal route for Finish Time or Travel Time, depending on your departure date. When you need to reduce overall travel time, you can set departure at any time. We recommend setting a specific Departure At when you need to optimize for Finish Time. Even though this setting greatly influences the optimization type, don't worry; your route will be optimal; it simply prioritizes one over another.
+
 ## Route Update and Reoptimize
 
 In some cases, your route needs to be Updated or Reoptimized. Some reasons why it might be required or good to do:
