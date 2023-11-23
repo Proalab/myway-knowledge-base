@@ -22,7 +22,7 @@ You also can build a route, optimize it first, and modify it to your liking (shu
 
 ## Optimize for Finish Time or Optimize for Overall Travel Time
 
-MyWay uses intelligent algorithms to build a route optimal for your needs (settings you pick), but it's not always possible to find the best route without sacrificing specific parameters. That's why your options are important and can greatly influence the final route.  MyWay has two mods that can help you get the optimal route for Finish Time or Travel Time, depending on your departure date. When you need to reduce overall travel time, you can set departure at any time. We recommend setting a specific Departure At when you need to optimize for Finish Time. Even though this setting greatly influences the optimization type, don't worry; your route will be optimal; it simply prioritizes one over another.
+When you use [Optimization by Time](how-to-use-myway-route-planner.md#optimization-mode) mode, MyWay uses intelligent algorithms to build a route optimal for your needs (settings you pick), but it's not always possible to find the best route without sacrificing specific parameters. That's why your options are important and can greatly influence the final route.  MyWay has two mods that can help you get the optimal route for Finish Time or Travel Time, depending on your departure date. When you need to reduce overall travel time, you can set departure at any time. We recommend setting a specific Departure At when you need to optimize for Finish Time. Even though this setting greatly influences the optimization type, don't worry; your route will be optimal; it simply prioritizes one over another.
 
 ## Route Update and Reoptimize
 
