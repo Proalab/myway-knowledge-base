@@ -4,6 +4,7 @@
 * [What is MyWay Route Planner?](what-is-myway-route-planner/README.md)
   * [Does MyWay work in my area?](what-is-myway-route-planner/does-myway-work-in-my-area.md)
   * [How much does MyWay Route Planner cost?](what-is-myway-route-planner/how-much-does-myway-route-planner-cost.md)
+  * [What languages MyWay supports?](what-is-myway-route-planner/what-languages-myway-supports.md)
 * [How many addresses can I add to a route?](how-many-addresses-can-i-add-to-a-route.md)
 * [How to contact us?](how-to-contact-us.md)
 * [Service Status](service-status.md)
