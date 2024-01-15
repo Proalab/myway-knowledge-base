@@ -7,13 +7,13 @@ MyWay Route Planner is currently translated to:
 * French
 * Italian
 * Spanish
-* Portugese (Brazil)
+* Portuguese (Brazil)
 * Turkish
+* Ukrainian
 * Russian
 
-We are also working on official transaltions into:
+We are also working on official translations into:
 
-* Ukrainian
 * Arabic
 * Hebrew
 * Hindi
@@ -21,12 +21,12 @@ We are also working on official transaltions into:
 * Malay
 * Thai
 
-If you see some mistakes or want to suggest improvements, you can do it easily by signing up to Crowdin and suggest the changes at [https://crowdin.com/project/myway-route-planner](https://crowdin.com/project/myway-route-planner).\
+If you see some mistakes or want to suggest improvements, you can do it easily by signing up to Crowdin and suggesting the changes at [https://crowdin.com/project/myway-route-planner](https://crowdin.com/project/myway-route-planner).\
 \
 If MyWay is not yet translated in your language, but you want to help us with translation please talk to us by email at help@mywayroute.com so we can set you up.
 
 {% hint style="success" %}
-We reward anyone who help a lot with free subscriptions for themselves, their friends and family.
+We reward anyone who helps a lot with free subscriptions for themselves, their friends and family.
 {% endhint %}
 
 ### [**How to help**](https://help.nextdns.io/t/q6hmv0s/translations#how-to-help) <a href="#how-to-help" id="how-to-help"></a>
