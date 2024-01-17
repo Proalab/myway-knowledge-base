@@ -28,6 +28,10 @@ description: >-
 [how-many-addresses-can-i-add-to-a-route.md](how-many-addresses-can-i-add-to-a-route.md)
 {% endcontent-ref %}
 
+{% content-ref url="what-is-myway-route-planner/what-languages-myway-supports.md" %}
+[what-languages-myway-supports.md](what-is-myway-route-planner/what-languages-myway-supports.md)
+{% endcontent-ref %}
+
 {% content-ref url="how-to-contact-us.md" %}
 [how-to-contact-us.md](how-to-contact-us.md)
 {% endcontent-ref %}
