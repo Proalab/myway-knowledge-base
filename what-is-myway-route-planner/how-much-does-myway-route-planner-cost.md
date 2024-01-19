@@ -4,11 +4,11 @@ description: Why do I have to pay for MyWay Route Planner?
 
 # How much does MyWay Route Planner cost?
 
-For new users, we offer a plan that allows you to optimize up to 20 stops per route absolutely for free. If you need more than 20 stops per route, you can start your 7-day free trial to try out the full version of MyWay. A full version of MyWay Route Planner helps optimize more stops and provides better optimization algorithms.
+For new users, we offer a plan that allows you to optimize up to 20 stops (locations/addresses) per route absolutely for free. If you need more than 20 stops (locations/addresses) per route, you can start your 7-day free trial to try out the full version of MyWay. A full version of MyWay Route Planner helps optimize more stops and provides better optimization algorithms.
 
 #### Why do I have to pay?
 
-We want to keep MyWay Route Planner free of charge, but in our modern world, it is not possible. Currently, we carry a significant cost to support the app infrastructure and pay for 3rd party services. Your data is not a source of our income, so we rely on a subscription mode to grow. We want everyone to have access to route optimization tools, so we decided to offer 20 stops per route for free, and our price is the most affordable on the market. Most of our competitors do not provide any free optimizations, and [some provide only between 5 and 10 stops for free](https://mywayroute.com/myway-route-planner-vs-alternatives).
+We want to keep MyWay Route Planner free of charge, but in our modern world, it is not possible. Currently, we carry a significant cost to support the app infrastructure and pay for 3rd party services. Your data is not a source of our income, so we rely on a subscription mode to grow. We want everyone to have access to route optimization tools, so we decided to offer 20 stops (locations/addresses) per route for free, and our price is the most affordable on the market. Most of our competitors do not provide any free optimizations, and [some provide only between 5 and 10 stops for free](https://mywayroute.com/myway-route-planner-vs-alternatives).
 
 #### Premium Options
 

@@ -2,7 +2,7 @@
 
 ## **You reached stops limit**
 
-MyWay Route Planner supports up to 200 stops (icluding done, scheduled, and missed) + start and finish locations. Please make sure you are not out of the limit and overall number of all stops are 200 or less.
+MyWay Route Planner supports up to 200 stops(including done, scheduled, and missed) + start and finish locations. Please make sure you are not out of the limit and that the overall number of all stops is 200 or less.
 
 ## **Path not Found**
 
