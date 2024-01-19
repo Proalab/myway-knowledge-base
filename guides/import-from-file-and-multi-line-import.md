@@ -26,6 +26,6 @@ The actual order of fields and column titles do not matter, but the format of th
 Column names for addresses can be "address," "Full Address," "FullAddress," etc., but the format should be the text that geocoding services can recognize.
 {% endhint %}
 
-We recommend using our format to keep it simple and consistent and reduce possible errors.
+**We recommend using our format to keep it simple and consistent and reduce possible errors.** Please check it below:
 
 {% file src="../.gitbook/assets/myway_example.xlsx" %}

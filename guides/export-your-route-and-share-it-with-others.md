@@ -13,13 +13,19 @@ You can export your route from MyWay Route Planner at any moment. To be able to 
 
 ## Basic Export
 
-If you need to export a file like .CSV, .XLS, .PDF, .HTML, etc. you need to pick the "Export" option. That option is useful if you simply need to pass information about your route to someone or save it for later. If you are planning to import that list later, we recommend saving it either into either .CSV or .XLS. If you need some sort of route report .PDF will work better for that matter.
+If you need to export your route to a file like .CSV, .XLS, .PDF, etc. you need to pick the "Export" or "Export Route" option. That option is useful if you simply need to pass information about your route to someone or save it for later. If you are planning to import that list later, we recommend saving it either into either .CSV or .XLS. If you need some sort of route report .PDF will work better for that matter.
 
-<figure><img src="../.gitbook/assets/CEF6D154-8978-416B-8039-2C98DC85431D.PNG" alt="" width="188"><figcaption><p>Export file options</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-19 at 12.33.21.jpeg" alt="" width="188"><figcaption><p>Export file options</p></figcaption></figure>
+
+## Manifest (Web Link)
+
+You can export your route to Manifest (Web Link). This option is available when you pick the "Export" or "Export Route" option from the menu. Manifest will allow those who don't have the app yet to see your route and access it from Web or Phone. Also, Manifest can be a "print-friendly" option for you if you need to print your route on paper.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-19 at 12.37.14 PM.png" alt=""><figcaption><p>Route Manifest</p></figcaption></figure>
 
 ## Share Route Copy
 
-If you want to share your route with someone else (like your driver, colleagues, etc.) we recommend the "Share Route Copy" option. That option will create a route link that you can pass to anyone by messenger, email, etc. When that person opens that link on their mobile device if MyWay is installed it will suggest importing that route straight away, and if the app is not installed the link will redirect the user to the page they can download MyWay from.
+If you want to share your route with someone else (like your driver, colleagues, etc.) we recommend the "Share Route Copy" option. That option will create a route link that you can pass to anyone via messenger, email, SMS, etc. When a person opens that link on their mobile device, if MyWay is installed, it will suggest importing that route to the MyWay App straight away, and if the app is not installed the link will redirect the user to the web page they can download MyWay from.
 
 <div>
 
@@ -31,10 +37,10 @@ If you want to share your route with someone else (like your driver, colleagues,
 
 </div>
 
-When you share the route by link, the link is going to be available for 30 days only. After that we will delete that route data from our server so please make sure the drive is received and processed by the person you share it with.
+When you share the route by link, the route link will be active for 30 days only. After that, we will delete that route data from our server, so please make sure the drive is received and processed by the person you share it with. We delete routes as per our privacy policy and to make sure all data belongs to you and no one else.
 
 {% hint style="warning" %}
-Please keep in mind that by sharing routes with others you might unintentionally share some sensitive data.&#x20;
+Please keep in mind that by sharing routes with others, you might unintentionally share some sensitive data.&#x20;
 
-When you use the "Export" > .CSV, .XLS method, or "Share Route Copy" method, we do not share any stop statuses (like proof of delivery, signatures, etc.). The only way to export a report with this data is the "Export" > .PDF option (as it server the purpose of "Visit/Delivery Report". Also, we don't store any information on our servers. If you want to learn more about where we store data, please check[ this article](../faq/your-privacy-and-where-we-store-your-data.md).
+Please make sure that the file you share does not have sensitive data, and clear the data if necessary. Different export options provide different data exports. You can always find the format you need, or simply clean some fileds you don't need (like example from .XLS format).
 {% endhint %}

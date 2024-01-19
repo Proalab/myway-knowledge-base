@@ -30,4 +30,8 @@ Also, some Nav apps find the address based on your location, so if the Nav app f
 
 MyWay Route Planner also has a "Reveal" feature onboard. This feature allows you to see your location without starting Navigation. It might be handy when you need to see a picture of your final destination or want to use "Street View." To see the "Reveal" button, you need to start your route > and click the "i" icon next to the "Done" button > Then you will see an address with Navigate, Reveal, and Share buttons (check the screenshot below)
 
+{% hint style="info" %}
+This feature is only available after you have built and launched your route. Click on the stop blank space to see Stop Parameters screen and Address block with Reveal button.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/B9F39B6F-9BE4-4A5A-9CEC-6F73354A9868.PNG" alt="" width="188"><figcaption><p>Address Navigation Options</p></figcaption></figure>

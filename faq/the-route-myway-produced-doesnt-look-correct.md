@@ -26,7 +26,7 @@ When the app builds a route keeping your order, it ignores all time windows. In 
 
 ### **Optimization type**
 
-Optimization type is one of the most fundamental settings that affect route optimization. There are two options available. Optimization by time (more efficient) and optimization by distance.&#x20;
+[Optimization type](../guides/understand-optimisation-settings.md) is one of the most fundamental settings that affect route optimization. There are two options available. Optimization by time (more efficient) and optimization by distance.&#x20;
 
 Clearly, the “best route” means different things to different people. For most people, the best route would be the fastest one. For some, though, it may be the shortest path. And some may prefer a trip that uses highways or avoids tolls and tunnels. Besides, the fastest or shortest route may not always be the most efficient. For instance, the quickest route might have many left turns, and the shortest mileage route may drive through heavy traffic. In both these route options, your fuel consumption will go up significantly. Also, what if the fastest route is three minutes faster but several miles longer? Is it still an efficient one? What if the shortest path allows you to drive 5 miles less but makes you go through two tolls? Is it an efficient one? Pick the one you believe will serve you better or keep Optimization by time by default.
 
@@ -58,7 +58,11 @@ Examples:
 
 ### **Vehicle Type**
 
-Vehicle Type is the last but not least setting that affects the optimized route. If you drive "car," it's pretty straightforward, and you don't need to change anything. However, if you are a van or truck driver, the optimization algorithm will try to avoid small roads and penalize intersections. The algorithm also knows which areas are not allowed for truck drivers (like tunnels, low bridges, or restricted roads) and will avoid that, so your route will look longer but will be suitable for your specific vehicle type. Also, pick "truck" as a vehicle type only when you drive a big truck, not a small one. For the van option, stick to "van" or even a "car." If, after changing your vehicle type, you see some issues, please check [this article](why-some-of-my-points-are-marked-as-incorrect-or-path-not-found-or-unexpected-error.md).
+[Vehicle Type](../guides/understand-vehicle-settings.md) is the last but not least setting that affects the optimized route. If you drive "car," it's pretty straightforward, and you don't need to change anything. However, if you are a van or truck driver, the optimization algorithm will try to avoid small roads and penalize intersections. The algorithm also knows which areas are not allowed for truck drivers (like tunnels, low bridges, or restricted roads) and will avoid that, so your route will look longer but will be suitable for your specific vehicle type. Also, pick "truck" as a vehicle type only when you drive a big truck, not a small one. For the van option, stick to "van" or even a "car." If, after changing your vehicle type, you see some issues, please check [this article](why-some-of-my-points-are-marked-as-incorrect-or-path-not-found-or-unexpected-error.md).
+
+### Service Time
+
+Service Time grately affects overall route time and can play significant role when you build your route. [Please make sure you set correct service time ](what-service-time-should-you-choose.md)when you plan your route.
 
 ## My route goes "forward/backward" direction from what I need.
 
