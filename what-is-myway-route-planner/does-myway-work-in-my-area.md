@@ -12,11 +12,14 @@ We work in most countries across the globe, but here's an overview of the countr
 * UK
 * Canada
 * Australia&#x20;
+* New Zealand
 * Brazil
 * Germany&#x20;
 * France
+* Italy
+* Netherlands
 * Europe
-* New Zealand
-* all other countries across the globe...
+* APAC
+* all other countries around the globe (175 countries to be exact)&#x20;
 
 We have users in every part of the globe, so it does not matter where you are - we can help you build efficient routes.

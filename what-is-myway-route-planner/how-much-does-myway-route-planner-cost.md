@@ -4,7 +4,7 @@ description: Why do I have to pay for MyWay Route Planner?
 
 # How much does MyWay Route Planner cost?
 
-For new users, we offer a plan that allows you to optimize up to 20 stops (locations/addresses) per route absolutely for free. If you need more than 20 stops (locations/addresses) per route, you can start your 7-day free trial to try out the full version of MyWay. A full version of MyWay Route Planner helps optimize more stops and provides better optimization algorithms.
+For new users, we offer a plan that allows you to optimize up to 20 stops (locations/addresses) per route absolutely for free. If you need more than 20, you can start your 7-day free trial to try out the full version of MyWay. A full version of MyWay Route Planner helps optimize more stops and provides better optimization algorithms.
 
 #### Why do I have to pay?
 
