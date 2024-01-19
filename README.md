@@ -120,8 +120,8 @@ Read our FAQ to understand how MyWay works:
 [what-service-time-should-you-choose.md](faq/what-service-time-should-you-choose.md)
 {% endcontent-ref %}
 
-{% content-ref url="faq/setting-up-correct-time-rate-and-mileage-rates.md" %}
-[setting-up-correct-time-rate-and-mileage-rates.md](faq/setting-up-correct-time-rate-and-mileage-rates.md)
+{% content-ref url="faq/setting-up-correct-time-rate-and-mileage-rates-for-business-users.md" %}
+[setting-up-correct-time-rate-and-mileage-rates-for-business-users.md](faq/setting-up-correct-time-rate-and-mileage-rates-for-business-users.md)
 {% endcontent-ref %}
 
 {% content-ref url="faq/what-if-the-app-is-crashing.md" %}
