@@ -61,7 +61,7 @@ Sometimes, an optimized route traveling time or distance can be more significant
 {% endhint %}
 
 {% hint style="warning" %}
-It will show you late arrivals and issues so you can make informed decisions about what to do with them.In some cases, like tight time windows or messed stop's priorities, there is a possibility that the algorithm can't find the best order that satisfies all parameters. Sometimes, the app can't even build your (Current) order as there are many issues with stops. In this case, the app will show you a warning and will suggest you modify some of those stops (or simply skip them). It will show you late arrivals and issues so you can make informed decision about what to do with your stops.
+MyWay will show you late arrivals and [issues](../faq/why-some-of-my-points-are-marked-as-incorrect-or-path-not-found-or-unexpected-error.md#stops-with-issues) so you can make informed decisions about what to do with them.In some cases, like tight time windows or messed stop's priorities, there is a possibility that the algorithm can't find the best order that satisfies all parameters. Sometimes, the app can't even build your (Current) order as there are many issues with stops. In this case, the app will show you a warning and will suggest you modify some of those stops (or simply skip them). It will show you late arrivals and issues so you can make informed decision about what to do with your stops.
 {% endhint %}
 
 <div>

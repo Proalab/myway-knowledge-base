@@ -10,6 +10,12 @@ With access to the most up-to-date maps, addresses, and places databases from Go
 
 The route optimization algorithms build a route based on hundreds of parameters and take all stop settings (like stop priorities and time windows) into account. Those algorithms also consider specific route settings like allowing u-turns, roadside, etc. as well as road conditions, vehicle capacity constraints, left turns, tolls, and tunnels. All those settings combined may significantly affect an optimized route, and we recommend sticking to default settings (Any Road Side, Snap Location to the Road, and Allow U-turns) if you want to get the "most optimal route ever". However, [sometimes changing some of those settings to your specific needs might serve you better](the-route-myway-produced-doesnt-look-correct.md#options-that-affect-route-optimization.). Even if it increases the route distance, it can provide you with much convenience in return.
 
+## ETAs do not look correct
+
+There are many reasons why ETAs can be a little off from actual arrival time. The most common are: you set incorrect (too short or too long) service time, traffic conditions changed after the route was built, and the navigation app sends you on the wrong route that is longer/shorter.
+
+You can request a new ETA calculation by[ updating your route](../guides/how-to-use-myway-route-planner.md#update-and-actualize-route). If you do that, MyWay will recalculate all ETAs by taking the latest weather, traffic conditions, and stop orders into account. We also recommend doing route updates when you modify your route to actualize it and update ETAs.
+
 ## Why does my route not look "optimal"?
 
 In some cases, you might feel like the route built is not optimal, and you see some "improvements," like visiting a few stops without going back to the vehicle or simply making a u-turn where traffic signals do not recommend it. One of the reasons why you might see that is that you did not choose all settings to your liking in the first place. Let's say you did not allow the app to make u-turns, but in reality, you are okay with them. We recommend setting your route setting as close to your reality as possible. In this case, the app provides you with much better results.

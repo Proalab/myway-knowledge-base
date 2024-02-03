@@ -26,8 +26,8 @@
 
 ## FAQ
 
-* [Why some of my points are marked as incorrect or "Path not Found" or "Unexpected error"?](faq/why-some-of-my-points-are-marked-as-incorrect-or-path-not-found-or-unexpected-error.md)
 * [The route MyWay produced doesn't look correct?](faq/the-route-myway-produced-doesnt-look-correct.md)
+* [Why some of my points are marked as incorrect or "Path not Found" or "Unexpected error"?](faq/why-some-of-my-points-are-marked-as-incorrect-or-path-not-found-or-unexpected-error.md)
 * [Setting up correct Time Rate and Mileage Rates (for Business Users)](faq/setting-up-correct-time-rate-and-mileage-rates-for-business-users.md)
 * [I can't find an address](faq/i-cant-find-an-address.md)
 * [Using MyWay without an internet connection (Offline Mode)](faq/using-myway-without-an-internet-connection-offline-mode.md)

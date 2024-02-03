@@ -100,12 +100,12 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Read our FAQ to understand how MyWay works:
 
-{% content-ref url="faq/why-some-of-my-points-are-marked-as-incorrect-or-path-not-found-or-unexpected-error.md" %}
-[why-some-of-my-points-are-marked-as-incorrect-or-path-not-found-or-unexpected-error.md](faq/why-some-of-my-points-are-marked-as-incorrect-or-path-not-found-or-unexpected-error.md)
-{% endcontent-ref %}
-
 {% content-ref url="faq/the-route-myway-produced-doesnt-look-correct.md" %}
 [the-route-myway-produced-doesnt-look-correct.md](faq/the-route-myway-produced-doesnt-look-correct.md)
+{% endcontent-ref %}
+
+{% content-ref url="faq/why-some-of-my-points-are-marked-as-incorrect-or-path-not-found-or-unexpected-error.md" %}
+[why-some-of-my-points-are-marked-as-incorrect-or-path-not-found-or-unexpected-error.md](faq/why-some-of-my-points-are-marked-as-incorrect-or-path-not-found-or-unexpected-error.md)
 {% endcontent-ref %}
 
 {% content-ref url="faq/i-cant-find-an-address.md" %}

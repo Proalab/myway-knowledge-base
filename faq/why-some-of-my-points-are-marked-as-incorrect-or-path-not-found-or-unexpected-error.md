@@ -1,6 +1,10 @@
 # Why some of my points are marked as incorrect or "Path not Found" or "Unexpected error"?
 
-## **You reached stop limit**
+## **Stops with Issues**
+
+MyWay Route Planner has an intelligent system that recognizes issues related to stops and can mark some of the stops like stops with issues. There are many reasons why a stop can be marked as a stop with issues. The most common are: stop can\t be reached by public road (it can happen because [vehicle type](why-some-of-my-points-are-marked-as-incorrect-or-path-not-found-or-unexpected-error.md#vehicle-type-issue), or simply no road access), no ability to satisfy [time windows](../guides/understanding-stop-settings.md#time-windows) for a stop (because of tight schedule, or many stops with time windows), because the stop is in a different country, on the island, in the forest. All those issues will be shown by MyWay on the [optimization screen](../guides/how-to-use-myway-route-planner.md#optimization-mode) so you can make a decision on what to do with them.&#x20;
+
+## **You reached stops limit**
 
 MyWay Route Planner supports up to 200 stops (including done, scheduled, and missed) + start and finish locations. Please make sure you are not out of the limit and that the overall number of all stops is 200 or less.
 
