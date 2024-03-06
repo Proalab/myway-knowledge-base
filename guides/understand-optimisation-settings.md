@@ -62,7 +62,7 @@ This setting is not visible in the app but might have two options:&#x20;
 <figure><img src="../.gitbook/assets/DE6D4CA8-762B-4D0F-B659-28AE19C00EEF.PNG" alt="" width="188"><figcaption><p>My Location settings in App Layers</p></figcaption></figure>
 
 {% hint style="info" %}
-The **"My location" option turned off (when the checkbox is not checked) is not recommended**, as it might affect route distance and time estimation accuracy. It also will affect application work and functionality. It might be helpful if there is no access to your current location or if your current location will break the route (for example, you are far away from your stops, in another country, on the island, etc.). Still, we don't recommend using it to block app access to your location data on a permanent basis.
+The **"My location" option turned off (when the checkbox is not checked) is not recommended**, as it might affect route distance and time estimation accuracy. It also will affect application work and functionality. **It might be helpful if there is no access to your current location or if your current location will break the route** (for example, you are far away from your stops, in another country, on the island, etc.). Still, we don't recommend using it to block app access to your location data on a permanent basis.
 {% endhint %}
 
 ## Route Reverse

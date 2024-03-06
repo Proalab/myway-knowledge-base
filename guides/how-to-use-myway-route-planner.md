@@ -110,7 +110,7 @@ The "Done" button lets you close a stop and activate the next one. In case of "p
 
 Click on a stop to see additional parameters and to add some notes, skip stops, etc.
 
-### Location and Fitting Modes
+### Fitting Modes
 
 MyWay has three major route representation modes:
 
@@ -134,9 +134,15 @@ To activate the desired mode, click the button above the "current location butto
 
 </div>
 
-Also, you can hide your current location to make it easy to work with the route. It's handy when you build and manage routes outside of your area. To hide your location, go to layers (top right button below the main menu) and uncheck the "My Location" checkbox. When you have "My location" on, "Fit the whole route" mode will include your location and all route stops. When "My Location" is off, only your stops in the fitting mode will be included. Also, ["My location" affects the optimization setting](understand-optimisation-settings.md#start-from).
+
+
+### Your Location
+
+You can hide your current location to make it easy to work with the route. It's handy when you build and manage routes outside of your area. To hide your location, go to layers (top right button below the main menu) and uncheck the "My Location" checkbox. When you have "My location" on, "Fit the whole route" mode will include your location and all route stops. When "My Location" is off, only your stops in the fitting mode will be included.&#x20;
 
 <figure><img src="../.gitbook/assets/DE6D4CA8-762B-4D0F-B659-28AE19C00EEF.PNG" alt="" width="188"><figcaption><p>My location checkbox in the Layers Screen</p></figcaption></figure>
+
+When you follow your route and want' to ["Update"](how-to-use-myway-route-planner.md#update-and-actualize-route) it to actualize ETAs, if access to your location is ON, MyWay will take your location as an "intermediate starting" point. That will greatly improve ETA calculation and will actually build you a much more accurate route. However, this can cause issues when your location is in a different country or can't be accessed by public roads. We recommend checking [Optimisation Settings ](understand-optimisation-settings.md#starting-location)to see how location can affect your routes.
 
 ### Update and Actualize Route
 
