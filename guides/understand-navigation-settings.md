@@ -8,6 +8,10 @@ MyWay supports many Navigation apps like Apple Maps, Google Maps, Waze, Organic 
 
 Also, MyWay supports two primary navigation types: Navigation by Address and Navigation by GPS Coordinates. Navigation Settings will determine what data will be transferred from MyWay to the Navigation App of your choice and will affect navigation accuracy in your Navigation App.
 
+{% hint style="info" %}
+Navigation by GPS coordinates provides better precision and is more accurate. However, navigation by address might be more accurate if your stop is in a high-density area.
+{% endhint %}
+
 ## Navigation Options
 
 <figure><img src="../.gitbook/assets/E7217D3B-79BC-4F25-831C-7359EBDD8C44.PNG" alt="" width="188"><figcaption><p>Nav Apps and Nav Options</p></figcaption></figure>
@@ -18,7 +22,7 @@ Navigation by GPS coordinates provides better precision and is more accurate. In
 
 ### **Navigation by Address**
 
-Navigation by Address is less accurate because MyWay will pass the stop's address to the Navigation App, and the Navigation App will attempt to find this address in the addresses database. This type might be more accurate if your stop is in a high-density area or your Navigator can't build a route to your stop. If your address does not contain a house number, MyWay will pass coordinates to the Nav App as per a broad amount of results, and the Nav App can return.
+Navigation by Address is less accurate because MyWay will pass the stop's address to the Navigation App, and the Navigation App will attempt to find this address in the addresses database. This type might be more accurate if your stop is in a high-density area or your Navigator can't build a route to your stop. If your address does not contain a house number, MyWay will pass coordinates to the Nav App as per a broad number of results, and the Nav App can return.
 
 {% hint style="info" %}
 Some Nav Apps like Waze do not support Navigation by Address and can operate only in Nav by GPS coordinates mode. \
