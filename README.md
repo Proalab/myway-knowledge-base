@@ -28,6 +28,10 @@ description: >-
 [how-many-addresses-can-i-add-to-a-route.md](how-many-addresses-can-i-add-to-a-route.md)
 {% endcontent-ref %}
 
+{% content-ref url="is-there-any-difference-in-functionality-ios-app-and-android-app.md" %}
+[is-there-any-difference-in-functionality-ios-app-and-android-app.md](is-there-any-difference-in-functionality-ios-app-and-android-app.md)
+{% endcontent-ref %}
+
 {% content-ref url="what-is-myway-route-planner/what-languages-myway-supports.md" %}
 [what-languages-myway-supports.md](what-is-myway-route-planner/what-languages-myway-supports.md)
 {% endcontent-ref %}
