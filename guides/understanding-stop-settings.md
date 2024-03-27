@@ -8,7 +8,7 @@ To make sure your route matches your visit/delivery instructions or real-world s
 
 * Priority
 * Time Window
-* Service Time (Stop Duration)
+* Time at Stop (Service Time, Stop Duration)
 
 Also, there are some other settings that can help you to classify each stop in your list, like:
 
@@ -61,7 +61,7 @@ Please keep in mind that in some cases, when you have a time window for the majo
 Also, time windows are going to be ignored entirely if you choose route optimization for distance. The only mode that supports time windows is "optimization by time." Also, time windows will be ignored if you decide to follow your route in your (current) order. To learn more about Optimisation Settings and options, check [this article](understand-optimisation-settings.md).
 {% endhint %}
 
-### Service Time (Stop Duration)
+### Time at Stop (Service Time, Stop Duration)
 
 To calculate accurate ETAs, MyWay needs to know how much time you'll spend at each stop. This is the amount of time between stopping your car for the visit/delivery and leaving again for the next stop.
 
