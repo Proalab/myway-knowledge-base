@@ -1,6 +1,8 @@
 # What is MyWay Route Planner?
 
-**MyWay Route Planner** is a route planner that **builds the most efficient routes.** It optimizes a sequence of stops in your route that helps you to save time and money on fuel.
+**MyWay Route Planner** **builds the most efficient routes**. MyWay Apps optimize a sequence of stops in your route, helping you save time and money on fuel.
+
+The primary purpose of the MyWay Route Planner is to save you time and money by reducing the need for manual route planning and minimizing mileage traveled. Our route planning software is specifically designed to cut down on route planning time and efficiently plan routes with multiple locations in seconds.
 
 MyWay Route Planner uses the best on-the-market technologies and is seriously optimized for operation efficiency. MyWay builds routes based on traffic conditions with the most up-to-date maps, addresses, and places database from Google Maps, Mapbox, Here, and OpenStreetMap combined into a single route planner.
 
