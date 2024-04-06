@@ -12,9 +12,14 @@ MyWay Route Planner is a very straightforward planner that will help you to buil
 
 All you need to do is add your first stop (and as many stops as you want), your Start Location, and End Location (optional). The route must have a Start Location, but the End Location is optional. To add a stop, you can either click the "Add Stop" button, check the screenshot above, or the magnifier button at the top left corner of the app.
 
-There are multiple sources you can add addresses from, like basic "address search," "map," ["places,"](managing-your-contacts-and-places.md#places) ["contacts,"](managing-your-contacts-and-places.md#contacts) ["list,"](import-from-file-and-multi-line-import.md) ["file,"](import-from-file-and-multi-line-import.md) ["from external link,"](export-your-route-and-share-it-with-others.md#share-route-copy) and "photo." Check the screenshot below to see what the "Add Stop" process looks like.
+There are multiple sources you can add addresses from, like basic "address search," "map," ["places,"](managing-your-contacts-and-places.md#places) ["contacts,"](managing-your-contacts-and-places.md#contacts) ["list,"](import-from-file-and-multi-line-import.md) ["file,"](import-from-file-and-multi-line-import.md) ["from external link,"](export-your-route-and-share-it-with-others.md#share-route-copy) "photo", and "dictation (audio input)." Check the screenshot below to see what the "Add Stop" process looks like.
 
 <figure><img src="../.gitbook/assets/IMG_05721C672DDD-1.jpeg" alt="" width="188"><figcaption><p>Add Stop options</p></figcaption></figure>
+
+{% hint style="info" %}
+If you don't see a photo icon in search input, it means your iPhone or iOS does not support photo input. \
+If you don't see dictation input (microphone icon), you might want to turn on dictation in iOS settings - [https://support.apple.com/en-au/guide/iphone/iph2c0651d2/ios](https://support.apple.com/en-au/guide/iphone/iph2c0651d2/ios)
+{% endhint %}
 
 ### Route Parameters (Route Settings)
 
