@@ -178,8 +178,8 @@ What to do if you have issues with your subscription:
 [use-myway-on-multiple-devices.md](subscription-management/use-myway-on-multiple-devices.md)
 {% endcontent-ref %}
 
-{% content-ref url="subscription-management/does-app-support-family-sharing-on-ios.md" %}
-[does-app-support-family-sharing-on-ios.md](subscription-management/does-app-support-family-sharing-on-ios.md)
+{% content-ref url="subscription-management/does-app-support-family-sharing-in-ios.md" %}
+[does-app-support-family-sharing-in-ios.md](subscription-management/does-app-support-family-sharing-in-ios.md)
 {% endcontent-ref %}
 
 {% content-ref url="subscription-management/ive-been-double-charged.md" %}

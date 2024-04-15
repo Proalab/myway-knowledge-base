@@ -4,22 +4,21 @@ description: This page will explain how you can export, and share your route wit
 
 # Export your route and share it with others
 
-You can export your route from MyWay Route Planner at any moment. To be able to do so, you need to click on the 3 dots button next to the route name, and there you have two options:
+You can export your route from MyWay Route Planner at any moment. To be able to do so, you need to click on the 3 dots button next to the route name,  there going to be Export & Share menu item (like on the screenshot below):
 
-* [Basic Export](export-your-route-and-share-it-with-others.md#basic-export)
-* [Share Route Copy](export-your-route-and-share-it-with-others.md#share-route-copy)
+<figure><img src="../.gitbook/assets/A4054287-D17D-43B1-963D-DB821808CE10.PNG" alt="" width="188"><figcaption><p>Export and Share route copy</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/IMG_05F8E9781A75-1.jpeg" alt="" width="188"><figcaption><p>Export and Share route copy</p></figcaption></figure>
+## Files Export
 
-## Basic Export
+You can pick a specific option if you need to export your route to a file like CSV, XLS, PDF, etc. That option is useful if you need to pass information about your route to someone, save it for later, or provide a report (PDF). **If you are planning to use it for later (for import stops), we recommend saving it into either CSV or XLS. If you need some route report, PDF will work better.**
 
-If you need to export your route to a file like .CSV, .XLS, .PDF, etc. you need to pick the "Export" or "Export Route" option. That option is useful if you simply need to pass information about your route to someone or save it for later. If you are planning to import that list later, we recommend saving it either into either .CSV or .XLS. If you need some sort of route report .PDF will work better for that matter.
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-15 at 09.44.47.jpeg" alt="" width="188"><figcaption><p>Export  options</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-01-19 at 12.33.21.jpeg" alt="" width="188"><figcaption><p>Export file options</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-15 at 9.55.16 AM.png" alt="" width="563"><figcaption><p>PDF Report Example</p></figcaption></figure>
 
-## Manifest (Web Link)
+## Get Manifest (Web Link)
 
-You can export your route to Manifest (Web Link). This option is available when you pick the "Export" or "Export Route" option from the menu. Manifest will allow those who don't have the app yet to see your route and access it from Web or Phone. Also, Manifest can be a "print-friendly" option for you if you need to print your route on paper.
+You can export your route to Manifest (Web Link). Get Manifest (see screenshot above) will allow those who don't have the app yet to see your route and access it from the Web, Tablet, or Phone. Also, Manifest can be a "print-friendly" option for you if you need to print your route on paper and have that paper as a reference.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-01-19 at 12.37.14 PM.png" alt=""><figcaption><p>Route Manifest</p></figcaption></figure>
 
@@ -29,7 +28,7 @@ If you want to share your route with someone else (like your driver, colleagues,
 
 <div>
 
-<figure><img src="../.gitbook/assets/772A26DE-66AE-4624-9E56-829529439E09.PNG" alt="" width="188"><figcaption><p>Share Route Copy Setting</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-15 at 09.44.47.jpeg" alt="" width="188"><figcaption><p>Share Route Copy</p></figcaption></figure>
 
  
 
@@ -37,7 +36,7 @@ If you want to share your route with someone else (like your driver, colleagues,
 
 </div>
 
-When you share the route by link, the route link will be active for 30 days only. After that, we will delete that route data from our server, so please make sure the drive is received and processed by the person you share it with. We delete routes as per our privacy policy and to make sure all data belongs to you and no one else.
+When you share the route by link, the route link will be active for 30 days only. After that, we will delete that route data from our server, so please make sure the route is received and processed by the person you share it with. We delete routes as per our privacy policy and to make sure all data belongs to you and no one else.
 
 {% hint style="warning" %}
 Please keep in mind that by sharing routes with others, you might unintentionally share some sensitive data.&#x20;

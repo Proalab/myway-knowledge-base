@@ -29,5 +29,3 @@ If your route starting time is 10 am and the time window for some stops is set E
 
 There is much more logic, but these rules always work.
 {% endhint %}
-
-1.

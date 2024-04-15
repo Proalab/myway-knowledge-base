@@ -36,9 +36,9 @@ All routes are stored in the Routes section, which can be accessed from the main
 
 </div>
 
-Each route in Routes section has its own menu, and what you can do with a route depends on the route status. To be able to access the route menu, you can click on the three dots button next to the route name (above the map and on the right side of the route name). You can Edit saved Routes, Duplicate them, Download route reports, and do a lot of other things.
+Each route in Routes section has its own menu, and what you can do with a route depends on the route status. To be able to access the route menu, you can click on the three dots button next to the route name (above the map and on the right side of the route name). You can Edit saved Routes, Duplicate them, Download route reports, and do many other things.
 
-<figure><img src="../.gitbook/assets/IMG_F8D6493E3D5D-1.jpeg" alt="" width="188"><figcaption><p>Route menu in Routes Section</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-15 at 09.38.16.jpeg" alt="" width="188"><figcaption><p>Route menu in Routes Section</p></figcaption></figure>
 
 {% hint style="info" %}
 Keep in mind that all data except shared routes are going to stay on your device. If you want to know more about when we store your data, please check [this article](../faq/your-privacy-and-where-we-store-your-data.md).
@@ -46,14 +46,12 @@ Keep in mind that all data except shared routes are going to stay on your device
 
 ## Duplicate route and Copy Stops
 
-<figure><img src="../.gitbook/assets/IMG_4A2FA27C311F-1.jpeg" alt="" width="188"><figcaption><p>Route Options</p></figcaption></figure>
-
 ### Route Duplicate
 
 Our app allows you to make a complete duplicate of the previous route for your needs. To do that, you go to Routes section > find the route you want to duplicate > click the 3 dots button next to its name > Duplicate. In this case, the route will be copied with all its parameters (like vehicle type, start location, etc.), and a new route will be created.
 
 ### Copy Stops
 
-Copy Stops menu can be found in the same menu when you complete your route. It will allow you to quickly bring some stops from the previous route to a new one without taking previous route parameters into a new route. All stops you decide to copy will be copied to the schedule section with their parameters saved.
+The Copy Stops menu can be found in the same menu when you complete your route. It allows you to quickly transfer some stops from the previous route to a new one without incorporating previous route parameters into the new route. All stops you decide to copy will be copied to the schedule section with their parameters saved.
 
 <figure><img src="../.gitbook/assets/IMG_4A2FA27C311F-2.jpeg" alt="" width="188"><figcaption><p>Copy Stops options</p></figcaption></figure>

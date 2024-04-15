@@ -19,6 +19,6 @@ If the first option doesn't work, please delete and reinstall the app to resolve
 
 Please be aware that sharing a subscription between Android and iOS is impossible. For example, if you started a subscription on Android, you won't be able to access the full version of MyWay Route Planner on your iPhone unless you start a separate subscription on iPhone (and pay for a subscription on both Android and iPhone). We wish we could do cross-platform subscription sharing, but it's not possible due to platform limitations.
 
-If you want to [share your subscription with family members](does-app-support-family-sharing-on-ios.md).
+If you want to [share your subscription with family members](does-app-support-family-sharing-in-ios.md).
 
 Please be aware that if you try to restore a subscription, but the subscription is not restored, it means you don't have an active subscription for this account. Please make sure you are using the same AppleID Account on both devices.

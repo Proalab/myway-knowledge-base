@@ -12,6 +12,8 @@ When you set the "Success" status, you can add a Photo, Signature, and Details o
 
 When you set the "Failed" status, you can specify the reason or add your own reason to the list.
 
+You also can uncheck the arrived status if you need success or failure only. In this case, the app will not consider the stop as visited, and that will affect the overall distance traveled.
+
 <div>
 
 <figure><img src="../.gitbook/assets/49208D35-496B-433F-A062-1EC4903BDC4A.PNG" alt=""><figcaption><p>only Arrived status in set</p></figcaption></figure>
