@@ -47,6 +47,6 @@
 * [How to cancel your MyWay subscription?](subscription-management/how-to-cancel-your-myway-subscription.md)
 * [How can I get a refund?](subscription-management/how-can-i-get-a-refund.md)
 * [Use MyWay on multiple devices](subscription-management/use-myway-on-multiple-devices.md)
-* [Does app support Family Sharing in iOS?](subscription-management/does-app-support-family-sharing-in-ios.md)
+* [Does the app support Family Sharing in iOS?](subscription-management/does-the-app-support-family-sharing-in-ios.md)
 * [I've been double charged](subscription-management/ive-been-double-charged.md)
 * [Special pricing for non-profit organizations and volunteers](subscription-management/special-pricing-for-non-profit-organizations-and-volunteers.md)

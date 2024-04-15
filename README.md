@@ -6,7 +6,7 @@ description: >-
 
 # MyWay Knowledge Base - Home
 
-<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>How to use MyWay Route Planner</strong></td><td></td><td></td><td><a href="guides/how-to-use-myway-route-planner.md">how-to-use-myway-route-planner.md</a></td></tr><tr><td><strong>Optimization Settings</strong></td><td></td><td></td><td><a href="guides/understand-optimisation-settings.md">understand-optimisation-settings.md</a></td></tr><tr><td><strong>Managing your routes</strong></td><td></td><td></td><td><a href="guides/managing-your-routes.md">managing-your-routes.md</a></td></tr><tr><td><strong>Stop Settings</strong></td><td></td><td></td><td><a href="guides/understanding-stop-settings.md">understanding-stop-settings.md</a></td></tr><tr><td><strong>Navigation Settings</strong></td><td></td><td></td><td><a href="guides/understand-navigation-settings.md">understand-navigation-settings.md</a></td></tr><tr><td><strong>Contact Us</strong></td><td></td><td></td><td><a href="how-to-contact-us.md">how-to-contact-us.md</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>How to use MyWay Route Planner</strong></td><td></td><td></td><td><a href="guides/how-to-use-myway-route-planner.md">how-to-use-myway-route-planner.md</a></td></tr><tr><td><strong>Optimization Settings</strong></td><td></td><td></td><td><a href="guides/understand-optimisation-settings.md">understand-optimisation-settings.md</a></td></tr><tr><td><strong>Stop Settings</strong></td><td></td><td></td><td><a href="guides/understanding-stop-settings.md">understanding-stop-settings.md</a></td></tr><tr><td><strong>Navigation Settings</strong></td><td></td><td></td><td><a href="guides/understand-navigation-settings.md">understand-navigation-settings.md</a></td></tr><tr><td><strong>Managing your routes</strong></td><td></td><td></td><td><a href="guides/managing-your-routes.md">managing-your-routes.md</a></td></tr><tr><td><strong>Import Routes</strong></td><td></td><td></td><td><a href="guides/import-from-file-and-multi-line-import.md">import-from-file-and-multi-line-import.md</a></td></tr><tr><td><strong>Export Route &#x26; Share with others</strong></td><td></td><td></td><td><a href="guides/export-your-route-and-share-it-with-others.md">export-your-route-and-share-it-with-others.md</a></td></tr><tr><td><strong>Contacts &#x26; Places</strong></td><td></td><td></td><td><a href="guides/managing-your-contacts-and-places.md">managing-your-contacts-and-places.md</a></td></tr><tr><td><strong>Contact Us</strong></td><td></td><td></td><td><a href="how-to-contact-us.md">how-to-contact-us.md</a></td></tr></tbody></table>
 
 ***
 
@@ -178,8 +178,8 @@ What to do if you have issues with your subscription:
 [use-myway-on-multiple-devices.md](subscription-management/use-myway-on-multiple-devices.md)
 {% endcontent-ref %}
 
-{% content-ref url="subscription-management/does-app-support-family-sharing-in-ios.md" %}
-[does-app-support-family-sharing-in-ios.md](subscription-management/does-app-support-family-sharing-in-ios.md)
+{% content-ref url="subscription-management/does-the-app-support-family-sharing-in-ios.md" %}
+[does-the-app-support-family-sharing-in-ios.md](subscription-management/does-the-app-support-family-sharing-in-ios.md)
 {% endcontent-ref %}
 
 {% content-ref url="subscription-management/ive-been-double-charged.md" %}
