@@ -16,6 +16,14 @@ These features can save you a lot of time and hassle, as you can add many stops 
 
 </div>
 
+### Multiline Import
+
+Please paste each address in a separate line and click the Search button. The app will then try to recognize the address. After that, you can edit the recognized address or click the "Select All" button on the bottom right side (or pick a specific address by clicking on it), and then click the "Done" button to add stops to the list.
+
+### Import from File
+
+If you pick the File option, please download the file example (example.xlsx) to see how the file for import should look like. Then, after you have prepared your data, you can upload the file to the app by clicking the "Browse Files" button, finding file your need on your phone and process it it the app.
+
 ### Import from file - file Example
 
 You can use the file below if you need an example of a .xlsx file that can be imported into MyWay Route Planner.
