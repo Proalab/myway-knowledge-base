@@ -16,6 +16,10 @@ There are multiple sources you can add addresses from, like basic "address searc
 
 <figure><img src="../.gitbook/assets/IMG_05721C672DDD-1.jpeg" alt="" width="188"><figcaption><p>Add Stop options</p></figcaption></figure>
 
+{% hint style="success" %}
+If you want to add multiple stops at once please add them by using the + button, if you want to see where is that stop on the map first please click on the address in a list (on the left side from the + button)
+{% endhint %}
+
 {% hint style="info" %}
 If you don't see a photo icon in search input, it means your iPhone or iOS does not support photo input. \
 If you don't see dictation input (microphone icon), you might want to turn on dictation in iOS settings - [https://support.apple.com/en-au/guide/iphone/iph2c0651d2/ios](https://support.apple.com/en-au/guide/iphone/iph2c0651d2/ios)
