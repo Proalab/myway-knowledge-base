@@ -4,13 +4,20 @@ description: This page will explain how you can export, and share your route wit
 
 # Export your route and share it with others
 
-You can export your route from MyWay Route Planner at any moment. To be able to do so, you need to click on the 3 dots button next to the route name,  there going to be Export & Share menu item (like on the screenshot below):
+You can export your route from MyWay Route Planner at any moment. To be able to do so, you need to click on the 3 dots button next to the route name,  there going to be an Export & Share menu item (like on the screenshot below):
 
 <figure><img src="../.gitbook/assets/A4054287-D17D-43B1-963D-DB821808CE10.PNG" alt="" width="188"><figcaption><p>Export and Share route copy</p></figcaption></figure>
 
+
+
+MyWay has two different "branches" that will determine what you get as a result of sharing:
+
+1. [Reports](export-your-route-and-share-it-with-others.md#files-export) (XSLS, CSV, GPX, PDF) will provide you with a report on your route. The amount of data available will depend on route status and data added to stops (closure status, proof photo, etc.)
+2. [Manifest](export-your-route-and-share-it-with-others.md#get-manifest-web-link) & [Route Copy](export-your-route-and-share-it-with-others.md#share-route-copy). These two will create a copy of your route with no status data (like delivery status and proof) so you can share it with others. They can be shared and opened as a web link.
+
 ## Files Export
 
-You can pick a specific option if you need to export your route to a file like CSV, XLS, PDF, etc. That option is useful if you need to pass information about your route to someone, save it for later, or provide a report (PDF). **If you are planning to use it for later (for import stops), we recommend saving it into either CSV or XLS. If you need some route report, PDF will work better.**
+You can pick a specific option if you need to export your route to a file like CSV, XLS, PDF, etc. That option is useful if you need to pass information about your route to someone, save it for later, or provide a report (PDF). **If you are planning to use it for later (for import stops), we recommend saving it into either CSV or XLS. If you need some route reports, PDF will work better.**
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-04-15 at 09.44.47.jpeg" alt="" width="188"><figcaption><p>Export  options</p></figcaption></figure>
 
@@ -41,5 +48,5 @@ When you share the route by link, the route link will be active for 30 days only
 {% hint style="warning" %}
 Please keep in mind that by sharing routes with others, you might unintentionally share some sensitive data.&#x20;
 
-Please make sure that the file you share does not have sensitive data, and clear the data if necessary. Different export options provide different data exports. You can always find the format you need, or simply clean some fileds you don't need (like example from .XLS format).
+Please make sure that the file you share does not have sensitive data, and clear the data if necessary. Different export options provide different data exports. You can always find the format you need, or simply clean some fields you don't need (like example from .XLS format).
 {% endhint %}
