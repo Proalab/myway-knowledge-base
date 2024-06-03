@@ -24,6 +24,12 @@ Please paste each address in a separate line and click the Search button. The ap
 
 If you pick the File option, please download the file example (example.xlsx) to see how the file for import should look like. Then, after you have prepared your data, you can upload the file to the app by clicking the "Browse Files" button, finding file your need on your phone and process it it the app.
 
+{% hint style="info" %}
+Before you pick a file, you have to send it to your phone either by email, a messenger of your choice, or AirDrop from your computer. Please refer to How-To in the internet related to the option you pick.
+
+Also, you can use[ import from another ](how-to-import-xlsx-files-from-other-apps.md)app option when you have a file on your your phone.
+{% endhint %}
+
 ### Import from file - file Example
 
 You can use the file below if you need an example of a .xlsx file that can be imported into MyWay Route Planner.
