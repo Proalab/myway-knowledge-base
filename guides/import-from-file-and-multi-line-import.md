@@ -1,6 +1,6 @@
 # Import from file and multi-line import
 
-MyWay Route Planner allows you to save time and import stops from multi-line imports, from files, from other [apps](how-to-import-xlsx-files-from-other-apps.md), and even through links.
+MyWay Route Planner allows you to save time and import stops from multi-line imports, from files (.XSLS, .CSV), from other [apps](how-to-import-xlsx-files-from-other-apps.md), and even through links.
 
 <figure><img src="../.gitbook/assets/B8239E66-ACD9-4D1E-8F34-FDEF6872F09D (1).png" alt="" width="188"><figcaption><p>Two ways to add stops to the route</p></figcaption></figure>
 
@@ -22,7 +22,7 @@ Please paste each address in a separate line and click the Search button. The ap
 
 ### Import from File
 
-If you pick the File option, please download the file example (example.xlsx) to see how the file for import should look like. Then, after you have prepared your data, you can upload the file to the app by clicking the "Browse Files" button, finding file your need on your phone and process it it the app.
+If you pick the File option, please download the file example (example.xlsx) to see how the file for import should look like. We do accept .XLSX files and .CSV, and the order of columns is not important as we use some smart algorithms to check the data provided and assign it to specific fields in the app, but if you need guidance or something is not going as expected please check file example. Then, after you have prepared your data, you can upload the file to the app by clicking the "Browse Files" button, finding the file you need on your phone, and processing it in the app.
 
 {% hint style="info" %}
 Before you pick a file, you have to send it to your phone either by email, a messenger of your choice, or AirDrop from your computer. Please refer to How-To in the internet related to the option you pick.
