@@ -27,7 +27,7 @@ If you don't see dictation input (microphone icon), you might want to turn on di
 
 ### Route Parameters (Route Settings)
 
-After you add all necessary stops at the bottom of the Main Screen, you can find route settings like [Vehicle Type](understand-vehicle-settings.md), Departure Time, [Avoid options](how-to-use-myway-route-planner.md#avoid-options), Road Side, and [Optimization Mode (Time/Distance)](how-to-use-myway-route-planner.md#optimization-mode). After you add all your stops and choose suitable parameters, you need to click the big blue button on the bottom right side, and the app will provide you with a few route options (similar to what Nav apps do).&#x20;
+After you add all necessary stops at the bottom of the Main Screen in Route Editing Mode, you can find route settings like [Vehicle Type](understand-vehicle-settings.md), Departure Time, [Avoid options](how-to-use-myway-route-planner.md#avoid-options), Road Side, and [Optimization Mode (Time/Distance)](how-to-use-myway-route-planner.md#optimization-mode). After you add all your stops and choose suitable parameters, you need to click the big blue button on the bottom right side, and the app will provide you with a few route options (similar to what Nav apps do).&#x20;
 
 All route parameters are very important and can dramatically change your route look, and we recommend taking some time to experiment with them. At the end, you will get a route that exactly looks how you want it set up for your specific needs.
 
@@ -42,6 +42,10 @@ Optimization by Distance is a use case that can shorten your route by sacrificin
 ### Avoid Options
 
 Avoiding is the simple way to exclude some specific parts of the route, like highways, ferries, etc., from the final route. Note that those route elements, like highways, are sometimes required to complete a route, so it's not guaranteed that all chosen elements (like highways) will be excluded entirely.
+
+{% hint style="warning" %}
+Please keep in mind that you need to set avoid settings in your Navigation Apps the same way you set them in MyWay. Some Nav apps can not receive these settings from an external app, so the Nav app will ignore these when you pass the route to the Nav app.
+{% endhint %}
 
 ### Stop's Settings
 
