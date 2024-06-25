@@ -55,3 +55,9 @@ Our app allows you to make a complete duplicate of the previous route for your n
 The Copy Stops menu can be found in the same menu when you complete your route. It allows you to quickly transfer some stops from the previous route to a new one without incorporating previous route parameters into the new route. All stops you decide to copy will be copied to the schedule section with their parameters saved.
 
 <figure><img src="../.gitbook/assets/IMG_4A2FA27C311F-2.jpeg" alt="" width="188"><figcaption><p>Copy Stops options</p></figcaption></figure>
+
+
+
+{% hint style="success" %}
+Pro Tip: When you complete your route (and ideally, you want to complete routes even if there are unfinished stops - not marked with arrived/success/failed statuses), the app will show you completion graphs, and there is going to be a "copy stops" button. If you choose that, you will see the same option as in the screenshot above and can create a new route with missed stops with the click of one button.
+{% endhint %}
