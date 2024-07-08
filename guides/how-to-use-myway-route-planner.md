@@ -27,11 +27,15 @@ If you don't see a photo icon in search input, it means your iPhone or iOS does 
 If you don't see dictation input (microphone icon), you might want to turn on dictation in iOS settings - [https://support.apple.com/en-au/guide/iphone/iph2c0651d2/ios](https://support.apple.com/en-au/guide/iphone/iph2c0651d2/ios)
 {% endhint %}
 
-### Route Parameters (Route Settings)
+## Route Parameters (Route Settings)
 
 After you add all necessary stops at the bottom of the Main Screen in Route Editing Mode, you can find route settings like [Vehicle Type](understand-vehicle-settings.md), Departure Time, [Avoid options](how-to-use-myway-route-planner.md#avoid-options), Road Side, and [Optimization Mode (Time/Distance)](how-to-use-myway-route-planner.md#optimization-mode). After you add all your stops and choose suitable parameters, you need to click the big blue button on the bottom right side, and the app will provide you with a few route options (similar to what Nav apps do).&#x20;
 
 All route parameters are very important and can dramatically change your route look, and we recommend taking some time to experiment with them. At the end, you will get a route that exactly looks how you want it set up for your specific needs.
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-08 at 13.56.00.jpeg" alt="" width="188"><figcaption><p>Route Parameters</p></figcaption></figure>
 
 ### Optimization Mode
 
@@ -49,7 +53,7 @@ Avoiding is the simple way to exclude some specific parts of the route, like hig
 Please keep in mind that you need to set avoid settings in your Navigation Apps the same way you set them in MyWay. Some Nav apps can not receive these settings from an external app, so the Nav app will ignore these when you pass the route to the Nav app.
 {% endhint %}
 
-### Stop's Settings
+## Stop's Settings
 
 Yeach stop has[ stop parameters like time windows, priority, notes, color, etc](understanding-stop-settings.md). To change stop settings, click on the stop added to the route.
 
@@ -66,6 +70,10 @@ MyWay Route Planner also supports multi-day routes. If you want to know how to b
 When you are done with all route parameters and all stops added, you need to click on a blue button with two arrows on the bottom right side of the screen. After you do that, the route will be sent to the route builder, and you will be presented with Optimization Options.
 
 ## Optimization Options (Build and Optimize your route)
+
+After you added all stops and set route parameters you can build the route and pick optimization option. To build the route simply press blue button with 2 arrows on the bottom right side. After you do that MyWay will build routes and allow you to choose from two options.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-08 at 14.02.19.jpeg" alt="" width="188"><figcaption></figcaption></figure>
 
 [Optimization options](understand-optimisation-settings.md) like the "Current" card mean the stop order will stay as you added them (the app will not optimize the stop order), and the "Optimized" card means the stop order will be optimized.&#x20;
 
