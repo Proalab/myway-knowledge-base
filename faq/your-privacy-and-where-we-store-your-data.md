@@ -12,6 +12,10 @@ All routes you have created or finished are stored on your device in local stora
 
 If you are an iOS user, you can turn on iCloud synchronization, and the app will save all your favorites and routes into your iCloud storage. Please ensure you have enough storage on iCloud, as some routes can use a significant amount of space (especially those with proof of deliveries, signatures, etc.).
 
+{% hint style="warning" %}
+Unfortenently, due to some changes in Apple iCloud APIs, iCloud sync does not work for some users. We are currently working on solution and hope it will be in place in October 2024. We are sorry for inconvinience.
+{% endhint %}
+
 Your data and your privacy have been and always will be our primary concerns. Therefore, we take privacy seriously and do not sell or share your data with other companies.
 
 ## Sensetive Data
