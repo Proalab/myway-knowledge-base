@@ -8,7 +8,7 @@ With access to the most up-to-date maps, addresses, and places databases from Go
 
 ## Problem description <a href="#vehicleroutingproblemdescription" id="vehicleroutingproblemdescription"></a>
 
-The route optimization algorithms build a route based on hundreds of parameters and take all stop settings (like stop priorities and time windows) into account. Those algorithms also consider specific route settings like allowing u-turns, roadside, etc. as well as road conditions, vehicle capacity constraints, left turns, tolls, and tunnels. All those settings combined may significantly affect an optimized route, and we recommend sticking to default settings (Any Road Side, Snap Location to the Road, and Allow U-turns) if you want to get the "most optimal route ever". However, [sometimes changing some of those settings to your specific needs might serve you better](the-route-myway-produced-doesnt-look-correct.md#options-that-affect-route-optimization.). Even if it increases the route distance, it can provide you with much convenience in return.
+The route optimization algorithms build a route based on hundreds of parameters and take all stop settings (like stop priorities and time windows) into account. Those algorithms also consider specific route settings like allowing u-turns, roadside, etc. as well as road conditions, vehicle capacity constraints, left turns, tolls, tunnels, traffic, and even weather conditions. All those settings combined may significantly affect an optimized route, and we recommend sticking to default settings (Any Road Side, Snap Location to the Road, and Allow U-turns) if you want to get the "most optimal route ever". However, [sometimes changing some of those settings to your specific needs might serve you better](the-route-myway-produced-doesnt-look-correct.md#options-that-affect-route-optimization.). Even if it increases the route distance, it can provide you with much convenience in return.
 
 ## ETAs do not look correct
 
@@ -18,15 +18,17 @@ You can request a new ETA calculation by[ updating your route](../guides/how-to-
 
 ## Why does my route not look "optimal"?
 
-In some cases, you might feel like the route built is not optimal, and you see some "improvements," like visiting a few stops without going back to the vehicle or simply making a u-turn where traffic signals do not recommend it. One of the reasons why you might see that is that you did not choose all settings to your liking in the first place. Let's say you did not allow the app to make u-turns, but in reality, you are okay with them. We recommend setting your route setting as close to your reality as possible. In this case, the app provides you with much better results.
+In some cases, you might feel like the route built is not optimal, and you see some "improvements," like visiting a few stops without going back to the vehicle or simply making a u-turn where traffic signals do not recommend it. One of the reasons why you might see that is that you did not choose all settings to your liking in the first place. Let's say you did not allow the app to make u-turns, but in reality, you are okay with u-turns. We recommend setting your route setting as close to your reality as possible. In this case, the app provides you with much better results.
 
-### Why does the app make me return to the areas I have visited
+### Why does the app make me return to the areas I have visited?
 
-The most efficient route will most likely have a clover shape. That's why, in some cases, you'll end up returning to the same neighborhoods in one route. It might look bizarre from the first point of view. It happens because of three parameters in the app settings: Optimization type, Allow U-turns, and Road Side (Any Road Side by default). By changing these settings, you can find the best possible result in optimization that works for you.
+The most efficient route will most likely have a clover shape. That's why, in some cases, you'll end up returning to the same neighborhoods in one route. It might look bizarre from the first point of view. Sometimes we see an opportunity to do a u-turn, run across the street and drop the box, or drive just a little different way to make it more efficient. The reality is that usually takes more time, introduces risk factors, and reduces convenience. You might think that you won a few minutes, but that win comes with many downsides and in most cases did not save you time at all.&#x20;
+
+The reason that the route looks like a clover shape is because of three parameters in the app settings: Optimization type, Allow U-turns, and Road Side (Any Road Side by default). By changing these settings, you can find the best possible result in optimization that works for you, significantly reduces risk, improves convenience, and will not break road law.
 
 ### Why not optimized route (in my current order) take less time than the optimized one?
 
-When the app builds a route keeping your order, it ignores all time windows. In case you build a route without optimization, your route really can take less time, but you will not meet stop requirements, so the rate of unsuccessful visits/deliveries is going to be very high.
+When the app builds a route keeping your order, it ignores all time windows and constraints. In case you build a route without optimization, your route really can take less time, but you will not meet stop requirements, so the rate of unsuccessful visits/deliveries is going to be very high.
 
 ## Settings that affect route optimization.
 
@@ -64,11 +66,11 @@ Examples:
 
 ### **Vehicle Type**
 
-[Vehicle Type](../guides/understand-vehicle-settings.md) is the last but not least setting that affects the optimized route. If you drive "car," it's pretty straightforward, and you don't need to change anything. However, if you are a van or truck driver, the optimization algorithm will try to avoid small roads and penalize intersections. The algorithm also knows which areas are not allowed for truck drivers (like tunnels, low bridges, or restricted roads) and will avoid that, so your route will look longer but will be suitable for your specific vehicle type. Also, pick "truck" as a vehicle type only when you drive a big truck, not a small one. For the van option, stick to "van" or even a "car." If, after changing your vehicle type, you see some issues, please check [this article](why-some-of-my-points-are-marked-as-incorrect-or-path-not-found-or-unexpected-error.md).
+[Vehicle Type](../guides/understand-vehicle-settings.md) is the last but not least setting that affects the optimized route. If you drive a "car," it's pretty straightforward, and you don't need to change anything. However, if you are a van or truck driver, the optimization algorithm will try to avoid small roads and penalize intersections. The algorithm also knows which areas are not allowed for truck drivers (like tunnels, low bridges, or restricted roads) and will avoid that, so your route will look longer but will be suitable for your specific vehicle type. Also, pick "truck" as a vehicle type only when you drive a big truck, not a small one. For the van option, stick to "van" or even a "car." If, after changing your vehicle type, you see some issues, please check [this article](why-some-of-my-points-are-marked-as-incorrect-path-not-found-or-unexpected-error.md).
 
 ### Service Time
 
-Service Time grately affects overall route time and can play significant role when you build your route. [Please make sure you set correct service time ](what-service-time-should-you-choose.md)when you plan your route.
+Service Time greatly affects overall route time and can play a significant role when you build your route. [Please make sure you set the correct service time ](what-service-time-should-you-choose.md)when you plan your route.
 
 ## My route goes "forward/backward" direction from what I need.
 
@@ -81,6 +83,4 @@ In MyWay Route Planner, click on a menu icon in the top right. Then go to "Route
 Also, you can report lousy optimization when you have an active route. Please click on the three dots at the top left side when you have an active route and choose the option. "Report an Issue". Write down a message to us, and we will try to fix optimization for you.
 
 The app can optimize full-loop routes and even routes without an endpoint. We work with thousands of drivers across the globe to make sure the optimization works as efficiently as possible.&#x20;
-
-####
 

@@ -23,3 +23,7 @@ We work in most countries across the globe, but here's an overview of the countr
 * all other countries around the globe (175 countries to be exact)&#x20;
 
 We have users in every part of the globe, so it does not matter where you are - we can help you build efficient routes.
+
+{% hint style="success" %}
+To better support countries across the world MyWay has a feature that no route planner has. MyWay provides the [ability to change the address geocoding provider](../i-cant-find-an-address.md). So if you you know that some provider works better in your area you can set it in the app settings.
+{% endhint %}

@@ -28,6 +28,6 @@ You also can uncheck the arrived status if you need success or failure only. In 
 
 </div>
 
-You also can quick pick "Proof of Delivery" status from route following mode by swiping stop to the right (see screenshot below) and picking desired status.
+You also can quickly pick the "Proof of Delivery" status from route following mode by swiping stop to the right (see screenshot below) and picking the desired status.
 
 <figure><img src="../.gitbook/assets/IMG_FCF01AAA71F7-1.jpeg" alt="" width="188"><figcaption><p>Proof of Delivery status by swipe</p></figcaption></figure>

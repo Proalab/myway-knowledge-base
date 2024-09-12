@@ -4,7 +4,7 @@ description: Route modes, stop parameters, optimization modes, etc.
 
 # How to use MyWay Route Planner
 
-MyWay Route Planner is a very straightforward planner that will help you to build your routes in seconds. After downloading the app from [Apple AppStore](https://apps.apple.com/us/app/delivery-route-planner-myway/id1557014712) or Google Play Market, you need to open it, and the first thing you see is the app's main screen.
+MyWay Route Planner is a very straightforward planner that will help you build your routes in seconds. After downloading the app from [Apple AppStore](https://apps.apple.com/us/app/delivery-route-planner-myway/id1557014712) or [Google Play Market,](https://play.google.com/store/apps/details?id=com.proalab.mywayapp) you need to open it, and the first thing you see is the app's main screen.
 
 ## Build and Edit Routes
 
@@ -12,7 +12,7 @@ MyWay Route Planner is a very straightforward planner that will help you to buil
 
 All you need to do is add your first stop (and as many stops as you want), your Start Location, and End Location (optional). The route must have a Start Location, but the End Location is optional. To add a stop, you can either click the "Add Stop" button, check the screenshot above, or the magnifier button at the top left corner of the app.
 
-There are multiple sources you can add addresses from, like basic "address search," "map," ["places,"](managing-your-contacts-and-places.md#places) ["contacts,"](managing-your-contacts-and-places.md#contacts) ["list,"](import-from-file-and-multi-line-import.md) ["file,"](import-from-file-and-multi-line-import.md) ["from external link,"](export-your-route-and-share-it-with-others.md#share-route-copy) "photo", and "dictation (audio input)." Check the screenshot below to see what the "Add Stop" process looks like.
+There are multiple sources you can add addresses from, like basic "address search," "map," ["places,"](managing-your-contacts-and-places.md#places) ["contacts,"](managing-your-contacts-and-places.md#contacts) ["list,"](import-from-file-and-multi-line-import.md) ["file,"](import-from-file-and-multi-line-import.md) ["from an external link,"](export-your-route-and-share-it-with-others.md#share-route-copy) "photo", and "dictation (audio input)." Check the screenshot below to see what the "Add Stop" process looks like.
 
 <figure><img src="../.gitbook/assets/IMG_05721C672DDD-1.jpeg" alt="" width="188"><figcaption><p>Add Stop options</p></figcaption></figure>
 
@@ -25,6 +25,10 @@ If you don't see a photo icon in search input, it means your iPhone or iOS does 
 
 \
 If you don't see dictation input (microphone icon), you might want to turn on dictation in iOS settings - [https://support.apple.com/en-au/guide/iphone/iph2c0651d2/ios](https://support.apple.com/en-au/guide/iphone/iph2c0651d2/ios)
+{% endhint %}
+
+{% hint style="info" %}
+Some addresses may be missing from the search. If this is the case we recommend adding more details to the search address filed and if it does not help to change a geocoding provider. MyWay is the first and only app on the market that supports multiple address geocoding providers. [You can change it in the app settings.](../i-cant-find-an-address.md#changing-data-provider-address-geocoding-service)
 {% endhint %}
 
 ## Route Parameters (Route Settings)
@@ -43,7 +47,7 @@ All route parameters are very important and can dramatically change your route l
 
 Optimization by Time is preferable in 90% of cases. Optimization by Time is how most Navigation Apps build your routes, and the route provided can be a little longer from a distance perspective but much more efficient from a fuel economy perspective and driver convenience. Route optimized by time usually has fewer cross-turns, fewer traffic lights, and fewer route changes.
 
-Optimization by Distance is a use case that can shorten your route by sacrificing convenience and time. Route optimized by distance usually has more cross-turns, traffic lights, and route changes. In most of cases, this distance saved does not justify convenience sacrifice but can be helpful for those drivers who know places very well.
+Optimization by Distance is a use case that can shorten your route by sacrificing convenience and time. Route optimized by distance usually has more cross-turns, traffic lights, and route changes. In most cases, this distance saved does not justify convenience sacrifice but can be helpful for those drivers who know places very well.
 
 ### Avoid Options
 
@@ -58,11 +62,11 @@ Please keep in mind that you need to set avoid settings in your Navigation Apps 
 Yeach stop has[ stop parameters like time windows, priority, notes, color, etc](understanding-stop-settings.md). To change stop settings, click on the stop added to the route.
 
 {% hint style="info" %}
-Please remember that the "Optimization for Distance" setting can ignore stop settings like priority and time windows. The only option that supports time windows and priority setting is fully "Optimization for Time."
+Please remember that the "Optimization for Distance" setting can ignore stop settings like priority and time windows. The only option that supports time windows and priority setting in full is "Optimization for Time."
 {% endhint %}
 
 {% hint style="danger" %}
-_When you add stops, please pay attention to the warnings and errors MyWay is showing you. For example, if the app believes the stop is incorrect or placed in the wrong place (like another country), it will show you an orange exclamation mark next to the stop. If you get any errors, please check_ [_our article that explains what they mean and how to get them sorted_](../faq/why-some-of-my-points-are-marked-as-incorrect-or-path-not-found-or-unexpected-error.md)_._
+_When you add stops, please pay attention to the warnings and errors MyWay is showing you. For example, if the app believes the stop is incorrect or placed in the wrong place (like another country), it will show you an orange exclamation mark next to the stop. If you get any errors, please check_ [_our article that explains what they mean and how to get them sorted_](../faq/why-some-of-my-points-are-marked-as-incorrect-path-not-found-or-unexpected-error.md)_._
 {% endhint %}
 
 MyWay Route Planner also supports multi-day routes. If you want to know how to build them, please [check this article](planning-multi-day-routes.md).
@@ -71,7 +75,7 @@ When you are done with all route parameters and all stops added, you need to cli
 
 ## Optimization Options (Build and Optimize your route)
 
-After you added all stops and set route parameters you can build the route and pick optimization option. To build the route simply press blue button with 2 arrows on the bottom right side. After you do that MyWay will build routes and allow you to choose from two options.
+After you add all stops and set route parameters you can build the route and pick the optimization option. To build the route simply press the blue button with 2 arrows on the bottom right side. After you do that MyWay will build routes and allow you to choose from two options.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-07-08 at 14.02.19.jpeg" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -80,11 +84,11 @@ After you added all stops and set route parameters you can build the route and p
 ![Choose optimization type.](../.gitbook/assets/7BED01AC-A777-44AC-A05A-71EE5F247974.PNG)
 
 {% hint style="warning" %}
-Sometimes, an optimized route traveling time or distance can be more significant or take more time than the route without optimization. It happens because optimization considers all stop parameters. [Parameters like "time windows," "priority," and "service time" will affect your route's overall time and distance](understanding-stop-settings.md). Don't worry. Our **algorithm built the most efficient route possible, considering all these parameters**. It just may look like it is less efficient as the Current order, as the Current order simply ignores all parameters. If you want more about this, please check our [article that explains how the route optimization algorithm works](../faq/the-route-myway-produced-doesnt-look-correct.md).
+Sometimes, an optimized route traveling time or distance can be more significant or take more time than the route without optimization. It happens because optimization considers all stop parameters. [Parameters like "time windows," "priority," and "service time" will affect your route's overall time and distance](understanding-stop-settings.md)Don't worry. Our **algorithm built the most efficient route possible, considering all these parameters**. It just may look like it is less efficient than the current order, as the current order simply ignores all parameters. If you want more about this, please check our [article that explains how the route optimization algorithm works](../faq/the-route-myway-produced-doesnt-look-correct.md).
 {% endhint %}
 
 {% hint style="warning" %}
-MyWay will show you late arrivals and [issues](../faq/why-some-of-my-points-are-marked-as-incorrect-or-path-not-found-or-unexpected-error.md#stops-with-issues) so you can make informed decisions about what to do with them.In some cases, like tight time windows or messed stop's priorities, there is a possibility that the algorithm can't find the best order that satisfies all parameters. Sometimes, the app can't even build your (Current) order as there are many issues with stops. In this case, the app will show you a warning and will suggest you modify some of those stops (or simply skip them). It will show you late arrivals and issues so you can make informed decision about what to do with your stops.
+MyWay will show you late arrivals and [issues](../faq/why-some-of-my-points-are-marked-as-incorrect-path-not-found-or-unexpected-error.md#stops-with-issues) so you can make informed decisions about what to do with them. In some cases, like tight time windows or messed stop priorities, there is a possibility that the algorithm can't find the best order that satisfies all parameters. Sometimes, the app can't even build your (Current) order as there are many issues with stops. In this case, the app will show you a warning and will suggest you modify some of those stops (or simply skip them). It will show you late arrivals and issues so you can make informed decisions about what to do with your stops.
 {% endhint %}
 
 <div>
@@ -103,7 +107,7 @@ Our users also told us that some apps "build your route anyway" and show you tho
 
 ### Confirm your Route
 
-After you pick the route type (Current or Optimized), the app will ask you to click the "Let's go" button. and if you are finished with your route planning, you can do that, or you can continue adding stops and changing stop parameters and having some routes built for you as a reference. After you press "Let's go," the app will recalculate all route time and parameters, taking the newest data into account (like time windows, traffic, etc.). You also can close the Le'ts go button or simply continue building your route afterwards. When you finish making changes, click the blue button with an arrow on the bottom right side.
+After you pick the route type (Current or Optimized), the app will ask you to click the "Let's go" button. and if you are finished with your route planning, you can do that, or you can continue adding stops and changing stop parameters and having some routes built for you as a reference. After you press "Let's go," the app will recalculate all route time and parameters, taking the newest data into account (like time windows, traffic, etc.). You also can close the "Let's Go" button or simply continue building your route afterward. When you finish making changes, click the blue button with an arrow on the bottom right side.
 
 {% hint style="info" %}
 If you build a route for the future, we recommend pressing the "Let's go" button exactly when you leave for your route so it will start your route exactly when you go for it.&#x20;
@@ -127,7 +131,7 @@ Choose your preferred option and click the "Start Route" button, and the app wil
 
 </div>
 
-If you need to change a [Navigation style](understand-navigation-settings.md) (navigate by address/coordinates), click on the 3 dots button next to "Nav" button. The app will show you a modal window to change navigation mode and the final destination navigation app (Google Maps, Apple Maps, Waze, etc.)
+If you need to change a [Navigation style](understand-navigation-settings.md) (navigate by address/coordinates), click on the 3 dots button next to the "Nav" button. The app will show you a modal window to change navigation mode and the final destination navigation app (Google Maps, Apple Maps, Waze, etc.)
 
 The "Done" button lets you close a stop and activate the next one. In case of "proof of delivery turned on" in App Settings, it will open your Proof Of Delivery Screen. You can read more about [Proof of Delivery](proof-of-delivery.md) here.
 
@@ -165,11 +169,11 @@ You can hide your current location to make it easy to work with the route. It's 
 
 <figure><img src="../.gitbook/assets/DE6D4CA8-762B-4D0F-B659-28AE19C00EEF.PNG" alt="" width="188"><figcaption><p>My location checkbox in the Layers Screen</p></figcaption></figure>
 
-When you follow your route and want' to ["Update"](how-to-use-myway-route-planner.md#update-and-actualize-route) it to actualize ETAs, if access to your location is ON, MyWay will take your location as an "intermediate starting" point. That will greatly improve ETA calculation and will actually build you a much more accurate route. However, this can cause issues when your location is in a different country or can't be accessed by public roads. We recommend checking [Optimisation Settings ](understand-optimisation-settings.md#starting-location)to see how location can affect your routes.
+When you follow your route and want' to ["Update"](how-to-use-myway-route-planner.md#update-and-actualize-route) it to actualize ETAs, if access to your location is ON, MyWay will take your location as an "intermediate starting" point. That will greatly improve ETA calculation and will build you a much more accurate route. However, this can cause issues when your location is in a different country or can't be accessed by public roads. We recommend checking [Optimisation Settings ](understand-optimisation-settings.md#starting-location)to see how location can affect your routes.
 
 ### Update and Actualize Route
 
-If you see that you are running late or have changed your route, you can update all ETA's and stop order. You can do that by pressing the 3 dots menu button (in the route header) and picking "Update Route" option or do complete Reoptimization. [Read more about those options](understand-optimisation-settings.md#route-update-and-reoptimize).
+If you see that you are running late or have changed your route, you can update all ETA's and stop order. You can do that by pressing the 3 dots menu button (in the route header) and picking the "Update Route" option or do complete Reoptimization. [Read more about those options](understand-optimisation-settings.md#route-update-and-reoptimize).
 
 ## Video Guide
 
