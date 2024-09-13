@@ -25,14 +25,14 @@ Please paste each address in a separate line and click the Search button. The ap
 If you pick the File option, please download the file example (example.xlsx) to see how the import file should look. We do accept .XLSX files and .CSV. The order of columns is not important as we use some smart algorithms to validate the data provided and assign correct data to specific fields based on data formats (if you need guidance or something is not going as expected, please check the file example to see the data formats we use). Then, after you have prepared your data, you can upload the file to the app by clicking the "Browse Files" button, finding the file you need on your phone, and processing it in the app.
 
 {% hint style="info" %}
-Before you pick a file, you have to send it to your phone either by email, a messenger of your choice, or AirDrop from your computer. Please refer to How-To in the internet related to the option you pick.
+Before you pick a file, you have to send it to your phone either by email, a messenger of your choice, or AirDrop from your computer. Please refer to How-To instructions on the internet related to the option you pick.
 
-Also, you can use [import from another app](how-to-import-xlsx-files-from-other-apps.md) option when you have a file on your your phone.
+Also, you can use the [import from another app](how-to-import-xlsx-files-from-other-apps.md) option when you have a file on your phone.
 {% endhint %}
 
 ### Import from file - file Example
 
-You can use the file below if you need an example of a .XLSS file that can be imported into MyWay Route Planner.
+You can use the file below if you need an example of a .XLSX file that can be imported into MyWay Route Planner.
 
 {% hint style="info" %}
 The actual order of fields and column titles do not matter, but the format of the data does. Like example:&#x20;
@@ -40,6 +40,6 @@ The actual order of fields and column titles do not matter, but the format of th
 Column names for addresses can be "address," "Full Address," "FullAddress," etc., but the format should be the text that geocoding services can recognize.
 {% endhint %}
 
-**We recommend using our example file and building your files based on it to reduce possible errors.** Please check example file below:
+**We recommend using our example file and building your files based on it to reduce possible errors.** Please check the example file below:
 
 {% file src="../.gitbook/assets/myway_example.xlsx" %}
