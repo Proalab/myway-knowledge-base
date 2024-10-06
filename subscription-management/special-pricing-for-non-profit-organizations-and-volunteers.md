@@ -11,5 +11,7 @@ We might ask you for proof, as we have many requests like this. We want to be su
 {% endhint %}
 
 {% hint style="info" %}
-We provide special pricing as a promocode promotion and must follow Apple AppStore and Google Play rules in that regard. To redeem promocode in Android [please follow the instruction](https://support.google.com/googleplay/answer/3422659?hl=en\&co=GENIE.Platform%3DAndroid).
+We provide special pricing as a promocode promotion, must follow Apple AppStore and Google Play rules and limited by platform abilities so promotions are not equal.
+
+To redeem promocode in Android [please follow the instruction](https://support.google.com/googleplay/answer/3422659?hl=en\&co=GENIE.Platform%3DAndroid).
 {% endhint %}
