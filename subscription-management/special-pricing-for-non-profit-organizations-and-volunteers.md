@@ -9,3 +9,7 @@ We love people who are passionate about helping others. If you have a non-profit
 {% hint style="info" %}
 We might ask you for proof, as we have many requests like this. We want to be sure we are not giving discounted access to everybody but only those who deserve it. After all, if we give everyone free access, we can't play our part and help communities ourselves.
 {% endhint %}
+
+{% hint style="info" %}
+We provide special pricing as a promocode promotion and must follow Apple AppStore and Google Play rules in that regard. To redeem promocode in Android [please follow the instruction](https://support.google.com/googleplay/answer/3422659?hl=en\&co=GENIE.Platform%3DAndroid).
+{% endhint %}
