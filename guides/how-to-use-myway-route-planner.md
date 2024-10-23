@@ -173,7 +173,15 @@ When you follow your route and want' to ["Update"](how-to-use-myway-route-planne
 
 ### Update and Actualize Route
 
-If you see that you are running late or have changed your route, you can update all ETA's and stop order. You can do that by pressing the 3 dots menu button (in the route header) and picking the "Update Route" option or do complete Reoptimization. [Read more about those options](understand-optimisation-settings.md#route-update-and-reoptimize).
+If you see that you are running late or have changed your route, you can update all ETA's and stop the order. You can do that by pressing the 3 dots menu button (in the route header) and picking the "Update Route" option or do complete Reoptimization. [Read more about those options](understand-optimisation-settings.md#route-update-and-reoptimize).
+
+### Changing the route after you started it
+
+One of the greatest MyWay features that separates it from every other route planner is the ability to change the route after you start a route. You can change your route using either of two techniques:\
+\
+If you simply need to add one or two stops you can do that by using the top left search icon (with a magnifier glass), searching for a new stop, clicking on it, and picking the "add to route" option. The app will set it to the closest location that is already on the route. You can drag & drop location with the long press on the stop and then apply changes by clicking a blue button with arrows on the bottom right. Pick "update" and the app will actualize all ETAs.\
+\
+The second option is to go back to the edit mode. Click the three dots button in the route subheader, pick "edit route", and add stops by using the top left search icon (with a magnifier glass), or with the "add stop" menu, You can drag & drop location with the long press on the stop and then apply changes by clicking a blue button with arrows on the bottom right. Either pick "current order" to keep the order you set, or "optimized" for the app to build you the most optimal route. This approach is better to use if you have to make multiple changes to your route.
 
 ## Video Guide
 
