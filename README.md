@@ -86,10 +86,6 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [import-from-file-and-multi-line-import.md](guides/import-from-file-and-multi-line-import.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/how-to-import-xlsx-files-from-other-apps.md" %}
-[how-to-import-xlsx-files-from-other-apps.md](guides/how-to-import-xlsx-files-from-other-apps.md)
-{% endcontent-ref %}
-
 {% content-ref url="guides/export-your-route-and-share-it-with-others.md" %}
 [export-your-route-and-share-it-with-others.md](guides/export-your-route-and-share-it-with-others.md)
 {% endcontent-ref %}
