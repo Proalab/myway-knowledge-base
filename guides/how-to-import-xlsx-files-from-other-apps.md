@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # How to import XLSX files from other apps?
 
 1\. Open the application from which you want to import the file, for example, Mail app. Then find the file you want to import and tap on it.
