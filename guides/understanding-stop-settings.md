@@ -66,3 +66,15 @@ Also, time windows are going to be ignored entirely if you choose route optimiza
 To calculate accurate ETAs, MyWay needs to know how much time you'll spend at each stop. This is the amount of time between stopping your car for the visit/delivery and leaving again for the next stop.
 
 If you know a specific stop will take more or less time, you can use this option to add the correct duration. Each stop can have its own stop duration. **Try setting up stop duration as accurately as possible. If it's off by even 1 or 2 minutes, it can greatly impact your ETAs.** Please check [our article on suggested stop durations](../faq/what-service-time-should-you-choose.md).
+
+## Start and Finish Settings
+
+The Start and Finish locations are not treated as regular stops, so they don't have the same parameters. However, you can save these locations for future routes to save time.
+
+To do this:
+
+1. Add a Start or Finish location to your route.
+2. Click on that location.
+3. Select "Save as Default" to save it for future use.
+
+This way, when you create a new route, your saved Start and Finish locations will already be set, and you won’t need to add them again.

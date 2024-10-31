@@ -10,7 +10,7 @@ MyWay Route Planner is a very straightforward planner that will help you build y
 
 <figure><img src="../.gitbook/assets/31E7C164-62C4-4D63-BF39-61DC41908108.PNG" alt="" width="188"><figcaption><p>MyWay Route Planner Main Screen (Route Edit Mode)</p></figcaption></figure>
 
-All you need to do is add your first stop (and as many stops as you want), your Start Location, and End Location (optional). The route must have a Start Location, but the End Location is optional. To add a stop, you can either click the "Add Stop" button, check the screenshot above, or the magnifier button at the top left corner of the app.
+All you need to do is add your first stop (and as many stops as you want), your Start Location, and End Location (optional). The route must have a Start Location, but the End Location is optional. To add a stop, you can either click the "Add Stop" button, check the screenshot above, or the magnifier button at the top left corner of the app. You also can [save Start and Finish](understanding-stop-settings.md#start-and-finish-settings) locations as a default for future routes.
 
 There are multiple sources you can add addresses from, like basic "address search," "map," ["places,"](managing-your-contacts-and-places.md#places) ["contacts,"](managing-your-contacts-and-places.md#contacts) ["list,"](import-from-file-and-multi-line-import.md) ["file,"](import-from-file-and-multi-line-import.md) ["from an external link,"](export-your-route-and-share-it-with-others.md#share-route-copy) "photo", and "dictation (audio input)." Check the screenshot below to see what the "Add Stop" process looks like.
 
