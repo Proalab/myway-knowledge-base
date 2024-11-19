@@ -10,6 +10,10 @@ All purchases on iPhones or iPads go through Apple App Store and purchases on An
 
 You can find more information about supported payment methods and information about [Apple Pay here](https://support.apple.com/en-us/HT201469).
 
+If you need to change a payment method in Apple AppStore here is the article that explains it in details [https://support.apple.com/en-us/118293](https://support.apple.com/en-us/118293)
+
 ### Google Play Store (Android) <a href="#h_596faec68a" id="h_596faec68a"></a>
 
-You can find more information about supported payment methods on [Google Pay here](https://support.google.com/googleplay/answer/2651410?co=GENIE.CountryCode%3DUnited+States\&hl=en). Make sure to change the website to your region.\
+You can find more information about supported payment methods on [Google Pay here](https://support.google.com/googleplay/answer/2651410?co=GENIE.CountryCode%3DUnited+States\&hl=en). Make sure to change the website to your region.
+
+If you need to change a payment method in Google Play Store here is the article that explains it in details [https://support.google.com/googleplay/answer/4646404?hl=en\&co=GENIE.Platform%3DAndroid](https://support.google.com/googleplay/answer/4646404?hl=en\&co=GENIE.Platform%3DAndroid)
