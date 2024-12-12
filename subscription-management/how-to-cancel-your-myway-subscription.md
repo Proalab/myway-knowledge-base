@@ -1,5 +1,7 @@
 ---
-description: Learn about how to cancel your subscription on iPhone and iPad devices
+description: >-
+  Learn about how to cancel your subscription on iPhone/iPad devices or Android
+  devices
 ---
 
 # How to cancel your MyWay subscription?

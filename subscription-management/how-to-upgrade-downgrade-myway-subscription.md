@@ -1,7 +1,7 @@
 ---
 description: >-
-  Learn about how to upgrade/downgrade your subscription on iPhone and iPad
-  devices
+  Learn about how to upgrade/downgrade your subscription on iOS platform or
+  Android platform
 ---
 
 # How to upgrade/downgrade MyWay subscription?
