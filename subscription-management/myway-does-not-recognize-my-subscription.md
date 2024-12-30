@@ -17,8 +17,8 @@ If the first option doesn't work, please delete and reinstall the app to resolve
 * Delete the app and reinstall it to resolve the issue.
 * When downloading the app, make sure you use the same Google Play account you originally used to subscribe to MyWay. To change accounts on the Google Play Store, [follow these instructions](https://support.google.com/googleplay/answer/2521798?hl=en).
 
-Please be aware that sharing a subscription between Android and iOS is impossible. For example, if you started a subscription on Android, you won't be able to access the full version of MyWay Route Planner on your iPhone unless you start a separate subscription on iPhone (and pay for a subscription on both Android and iPhone). We wish we could do cross-platform subscription sharing, but it's not possible due to platform limitations.
-
-If you want to [share your subscription with family members](does-the-app-support-family-sharing-in-ios.md).
+{% hint style="warning" %}
+Please be aware that sharing a subscription between Android and iOS is impossible. For example, if you started a subscription on Android, you won't be able to access the full version of MyWay Route Planner on your iPhone unless you start a separate subscription on iPhone (and pay for a sesubscription on both Android and iPhone). The inability to transfer subscriptions between platforms (iOS and Android) is not our decision. Apple and Google explicitly state in their policies that such transfers are not allowed and strictly enforce this restriction.
+{% endhint %}
 
 Please be aware that if you try to restore a subscription, but the subscription is not restored, it means you don't have an active subscription for this account. Please make sure you are using the same AppleID Account on both devices.
