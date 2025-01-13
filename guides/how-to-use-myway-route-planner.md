@@ -18,24 +18,26 @@ There are multiple sources you can add addresses from, like basic "address searc
 
 <figure><img src="../.gitbook/assets/IMG_05721C672DDD-1.jpeg" alt="" width="188"><figcaption><p>Add Stop options</p></figcaption></figure>
 
-{% hint style="info" %}
-**For IOS**
+{% tabs %}
+{% tab title="iOS - Photo and Voice Input" %}
+**IOS**
 
 **Photo Input -** If you don't see a photo icon in search input, it means your iPhone or iOS does not support photo input - [https://support.apple.com/en-au/guide/iphone/aside/iph691752bc0/17.0/ios/17.0](https://support.apple.com/en-au/guide/iphone/aside/iph691752bc0/17.0/ios/17.0) or does not support your language - [https://www.apple.com/ios/feature-availability/#live-text-live-text](https://www.apple.com/ios/feature-availability/#live-text-live-text)
 
 \
 **Voice Input -** If you don't see dictation input (microphone icon), you might want to turn on dictation in iOS settings - [https://support.apple.com/en-au/guide/iphone/iph2c0651d2/ios](https://support.apple.com/en-au/guide/iphone/iph2c0651d2/ios)
+{% endtab %}
 
-
-
-**For Android:**
+{% tab title="Android  - Photo and Voice Input" %}
+**Android:**
 
 **Photo Input -** Android currently does not support photo search input, but we will be adding that feature in the future.&#x20;
 
 
 
 **Voice Input -** If you don't see dictation input (microphone icon), please follow this instruction to turn it on - [https://support.google.com/gboard/answer/2781851?hl=en\&co=GENIE.Platform%3DAndroid](https://support.google.com/gboard/answer/2781851?hl=en\&co=GENIE.Platform%3DAndroid) also some manufacturers have a different way to turn it on, please refer to your phone manual.
-{% endhint %}
+{% endtab %}
+{% endtabs %}
 
 If you want to add multiple stops at once please add them by using the "+" button, if you want to see where is that stop on the map first please click on the address in a list (on the left side from the + button).
 
