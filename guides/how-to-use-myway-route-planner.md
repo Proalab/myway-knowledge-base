@@ -8,26 +8,38 @@ MyWay Route Planner is a very straightforward planner that will help you build y
 
 ## Build and Edit Routes
 
+### Add Stops
+
 <figure><img src="../.gitbook/assets/31E7C164-62C4-4D63-BF39-61DC41908108.PNG" alt="" width="188"><figcaption><p>Main Screen (Route Edit Mode)</p></figcaption></figure>
 
-All you need to do is add your first stop (and as many stops as you want), your Start Location, and End Location (optional). The route must have a Start Location, but the End Location is optional. To add a stop, you can either click the "Add Stop" button, check the screenshot above, or the magnifier button at the top left corner of the app. You also can [save Start and Finish](understanding-stop-settings.md#start-and-finish-settings) locations as a default for future routes.
+All you need to do is add your first stop (and as many stops as you want), your Start Location, and End Location (optional). The route must have a Start Location, but the End Location is optional. **To add a stop, you can either click the "Add Stop" button, check the screenshot above, or the magnifier button at the top left corner of the app.** You also can [save Start and Finish](understanding-stop-settings.md#start-and-finish-settings) locations as a default for future routes.
 
 There are multiple sources you can add addresses from, like basic "address search," "map," ["places,"](managing-your-contacts-and-places.md#places) ["contacts,"](managing-your-contacts-and-places.md#contacts) ["list,"](import-from-file-and-multi-line-import.md) ["file,"](import-from-file-and-multi-line-import.md) ["from an external link,"](export-your-route-and-share-it-with-others.md#share-route-copy) "photo", and "dictation (audio input)." Check the screenshot below to see what the "Add Stop" process looks like.
 
 <figure><img src="../.gitbook/assets/IMG_05721C672DDD-1.jpeg" alt="" width="188"><figcaption><p>Add Stop options</p></figcaption></figure>
 
-{% hint style="success" %}
-If you want to add multiple stops at once please add them by using the + button, if you want to see where is that stop on the map first please click on the address in a list (on the left side from the + button)
-{% endhint %}
-
 {% hint style="info" %}
-If you don't see a photo icon in search input, it means your iPhone or iOS does not support photo input - [https://support.apple.com/en-au/guide/iphone/aside/iph691752bc0/17.0/ios/17.0](https://support.apple.com/en-au/guide/iphone/aside/iph691752bc0/17.0/ios/17.0) or does not support your language - [https://www.apple.com/ios/feature-availability/#live-text-live-text](https://www.apple.com/ios/feature-availability/#live-text-live-text)
+**For IOS**
+
+**Photo Input -** If you don't see a photo icon in search input, it means your iPhone or iOS does not support photo input - [https://support.apple.com/en-au/guide/iphone/aside/iph691752bc0/17.0/ios/17.0](https://support.apple.com/en-au/guide/iphone/aside/iph691752bc0/17.0/ios/17.0) or does not support your language - [https://www.apple.com/ios/feature-availability/#live-text-live-text](https://www.apple.com/ios/feature-availability/#live-text-live-text)
 
 \
-If you don't see dictation input (microphone icon), you might want to turn on dictation in iOS settings - [https://support.apple.com/en-au/guide/iphone/iph2c0651d2/ios](https://support.apple.com/en-au/guide/iphone/iph2c0651d2/ios)
+**Voice Input -** If you don't see dictation input (microphone icon), you might want to turn on dictation in iOS settings - [https://support.apple.com/en-au/guide/iphone/iph2c0651d2/ios](https://support.apple.com/en-au/guide/iphone/iph2c0651d2/ios)
+
+
+
+**For Android:**
+
+**Photo Input -** Android currently does not support photo search input, but we will be adding that feature in the future.&#x20;
+
+
+
+**Voice Input -** If you don't see dictation input (microphone icon), please follow this instruction to turn it on - [https://support.google.com/gboard/answer/2781851?hl=en\&co=GENIE.Platform%3DAndroid](https://support.google.com/gboard/answer/2781851?hl=en\&co=GENIE.Platform%3DAndroid) also some manufacturers have a different way to turn it on, please refer to your phone manual.
 {% endhint %}
 
-{% hint style="info" %}
+If you want to add multiple stops at once please add them by using the "+" button, if you want to see where is that stop on the map first please click on the address in a list (on the left side from the + button).
+
+{% hint style="warning" %}
 Some addresses may be missing from the search. If this is the case we recommend adding more details to the search address filed and if it does not help to change a geocoding provider. MyWay is the first and only app on the market that supports multiple address geocoding providers. [You can change it in the app settings.](../i-cant-find-an-address.md#changing-data-provider-address-geocoding-service)
 {% endhint %}
 
