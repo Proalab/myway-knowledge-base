@@ -1,5 +1,7 @@
 ---
-description: Visit Tracking, Proof of Visit, Proof of Delivery
+description: >-
+  Visit tracking, Visit Confirmation, Proof of Visit, Delivery Status, Delivery
+  Confirmation.
 ---
 
 # Proof of Delivery
