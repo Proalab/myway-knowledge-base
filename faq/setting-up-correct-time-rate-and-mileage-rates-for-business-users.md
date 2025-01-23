@@ -1,4 +1,8 @@
-# Setting up correct Time Rate and Mileage Rates
+---
+hidden: true
+---
+
+# Setting up correct Time Rate and Mileage Rates (for Business Users)
 
 MyWay Route Planner has outstanding analytics that can provide you with valuable insights, but it's essential to set it up with correct data. For example, it can show you how much money you saved by using an app and can be used to calculate the cost for claiming expenses, for analytics purposes, as a performance report, or for any other purposes.&#x20;
 

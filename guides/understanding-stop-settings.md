@@ -6,9 +6,9 @@ description: How to use Priority, Time Window, and Stop Duration
 
 To make sure your route matches your visit/delivery instructions or real-world situations, MyWay has a couple of options you can set up for any stop:
 
-* Priority
-* Time Window
-* Time at Stop (Service Time, Stop Duration)
+* [Priority](understanding-stop-settings.md#priority-asap-button)
+* [Time Window](understanding-stop-settings.md#time-windows)
+* [Time at Stop (Service Time, Stop Duration)](understanding-stop-settings.md#time-at-stop-service-time-stop-duration)
 
 Also, there are some other settings that can help you to classify each stop in your list, like:
 
@@ -19,15 +19,7 @@ Also, there are some other settings that can help you to classify each stop in y
 * Tags
 * Contact Details
 
-<div>
-
-<figure><img src="../.gitbook/assets/127AE393-2900-4A46-A2A1-7DCF4CB62EF4.PNG" alt="" width="188"><figcaption><p>Stop's Settings - Page 1</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/AAE99062-3D8A-4252-8E04-C90C058260CD.PNG" alt="" width="188"><figcaption><p>Stop's Settings - Page 2</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/127AE393-2900-4A46-A2A1-7DCF4CB62EF4.PNG" alt="" width="188"><figcaption><p>Stop's Settings - Page 1</p></figcaption></figure> <figure><img src="../.gitbook/assets/AAE99062-3D8A-4252-8E04-C90C058260CD.PNG" alt="" width="188"><figcaption><p>Stop's Settings - Page 2</p></figcaption></figure></div>
 
 When the last set of stop settings is visual and does not affect the route optimization algorithm, the **first set of settings does affect optimization algorithms and can dramatically change the stop sequence**. To access those settings, simply tap on the stop you added to the route to see a list of stop settings and parameters.
 

@@ -6,7 +6,7 @@ description: >-
 
 # Understand Optimisation Settings
 
-MyWay Route Planner, like no other app on the market, supports two Route Optimisations. It can build a route the way you want (without optimization for stop sequence efficiency) and with optimization (when the stop sequence is optimized to provide you with the fastest/shortest route). In addition to these two mods, we explain other suboptions below.
+MyWay Route Planner, like no other app on the market, supports two Route Optimisations (with many parameters). You can build a route the way you want it (without optimization, your own order) and with optimization (when the stops sequence is optimized to provide you with the fastest/shortest route). In addition to these two mods, we explain other suboptions below.
 
 ## Optimize/Reoptimize Route settings
 
@@ -16,8 +16,8 @@ MyWay Route Planner, like no other app on the market, supports two Route Optimis
 
 <figure><img src="../.gitbook/assets/7BED01AC-A777-44AC-A05A-71EE5F247974.PNG" alt="" width="188"><figcaption><p>Optimize Only New Stops Setting</p></figcaption></figure>
 
-{% hint style="info" %}
-You also can build a route, optimize it first, and modify it to your liking (shuffle stops, add new stops. and then pick ["Update Route"](understand-optimisation-settings.md#route-update-and-reoptimize) to actualize ETA's)
+{% hint style="success" %}
+You also can build a route, optimize it first, go back to edit and modify it to your liking (shuffle stops, add new stops) and then pick ["Update Route"](understand-optimisation-settings.md#route-update-and-reoptimize) to actualize ETA's and order)
 {% endhint %}
 
 ## Optimize for Finish Time or Optimize for Overall Travel Time

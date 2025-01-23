@@ -32,7 +32,7 @@ A non-optimized route ignores time windows and constraints, which can make it se
 
 ### **Vehicle Type**
 
-[Vehicle Type](../guides/understand-vehicle-settings.md) is a very important setting that determines what is available and what is not. If you drive a "car," it's pretty straightforward and it's set by default. However, if you are a van or truck driver, the optimization algorithm will try to avoid small roads and penalize intersections. The algorithm also knows which areas are not allowed for truck drivers (like tunnels, low bridges, or restricted roads) and will avoid that, so your route will look longer but will be suitable for your specific vehicle type. Also, pick "truck" as a vehicle type only when you drive a big truck, not a small one. For the van option, stick to "van" or even a "car." If, after changing your vehicle type, you see some issues, please check [this article](why-some-of-my-points-are-marked-as-incorrect-path-not-found-or-unexpected-error.md).
+[Vehicle Type](../guides/understand-vehicle-settings.md) is a very important setting that determines what is available and what is not. If you drive a "car," it's pretty straightforward and it's set by default. However, if you are a van or truck driver, the optimization algorithm will try to avoid small roads and penalize intersections. The algorithm also knows which areas are not allowed for truck drivers (like tunnels, low bridges, or restricted roads) and will avoid that, so your route will look longer but will be suitable for your specific vehicle type. Also, pick "truck" as a vehicle type only when you drive a big truck, not a small one. For the van option, stick to "van" or even a "car." If, after changing your vehicle type, you see some issues, please check [this article](why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md).
 
 ### **Optimization type**
 
@@ -44,15 +44,7 @@ Clearly, the “best route” means different things to different people. For mo
 
 The app can build more efficient routes if you turn on Allow U-turns settings in the app settings (it's turned off by default). The downside of this is going to be more u-turns, which in most cases are less efficient from the time perspective and less safe if you drive a bigger vehicle. Below, you can see an example of how this setting affects route optimization. On the left option, the app will suggest making a u-turn and on the right one to go through a roundabout.
 
-<div>
-
-<figure><img src="../.gitbook/assets/photo_2022-11-25 20.32.50.jpeg" alt="" width="375"><figcaption><p>Allow U-turns turned ON</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/photo_2022-11-25 20.32.47.jpeg" alt="" width="375"><figcaption><p>Allow U-turns turned OFF</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/photo_2022-11-25 20.32.50.jpeg" alt="" width="375"><figcaption><p>Allow U-turns turned ON</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo_2022-11-25 20.32.47.jpeg" alt="" width="375"><figcaption><p>Allow U-turns turned OFF</p></figcaption></figure></div>
 
 ### **Road Side**
 

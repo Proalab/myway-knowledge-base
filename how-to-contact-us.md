@@ -12,4 +12,4 @@ There are actually many ways of doing this:
 2. You can go to our public website [https://mywayroute.com](https://mywayroute.com) and talk to us via online chat there.
 3. You can drop us an email at support@mywayroute.com. &#x20;
 
-Feel free to use any method which works for you. We will be happy to talk.
+We usually respond quicker in online chats, but feel free to use any method that works for you. We will be happy to talk.

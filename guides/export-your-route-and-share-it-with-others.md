@@ -21,7 +21,7 @@ If you are planning to use it later (for import stops), we recommend saving it i
 If you need to send your route to someone else it's better to use the "[Share Route Copy](export-your-route-and-share-it-with-others.md#share-route-copy)" option instead of files.
 {% endhint %}
 
-## Files Export
+## Files Export (Reports Export)
 
 You can pick a specific option if you need to export your route to a file like CSV, XLS, PDF, etc. That option is useful if you need to pass information about your route to someone, save it for later, or provide a report (PDF).&#x20;
 
@@ -39,15 +39,7 @@ You can export your route to Manifest (Web Link). Get Manifest (see screenshot a
 
 If you want to share your route with someone else (like your driver, colleagues, etc.) we recommend the "Share Route Copy" option. That option will create a route link that you can pass to anyone via messenger, email, SMS, etc. When a person opens that link on their mobile device, if MyWay is installed, it will suggest importing that route to the MyWay App straight away, and if the app is not installed the link will redirect the user to the web page they can download MyWay from.
 
-<div>
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-15 at 09.44.47.jpeg" alt="" width="188"><figcaption><p>Share Route Copy</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/2A688D2D-5187-4066-AFBE-7318152A65F9.PNG" alt="" width="188"><figcaption><p>Route Import Screen</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Screenshot 2024-04-15 at 09.44.47.jpeg" alt="" width="188"><figcaption><p>Share Route Copy</p></figcaption></figure> <figure><img src="../.gitbook/assets/2A688D2D-5187-4066-AFBE-7318152A65F9.PNG" alt="" width="188"><figcaption><p>Route Import Screen</p></figcaption></figure></div>
 
 When you share the route by link, the route link will be active for 30 days only. After that, we will delete that route data from our server, so please make sure the route is received and processed by the person you share it with. We delete routes as per our privacy policy and to make sure all data belongs to you and no one else.
 

@@ -108,8 +108,8 @@ Read our FAQ to understand how MyWay works:
 [the-route-myway-produced-doesnt-look-correct.md](faq/the-route-myway-produced-doesnt-look-correct.md)
 {% endcontent-ref %}
 
-{% content-ref url="faq/why-some-of-my-points-are-marked-as-incorrect-path-not-found-or-unexpected-error.md" %}
-[why-some-of-my-points-are-marked-as-incorrect-path-not-found-or-unexpected-error.md](faq/why-some-of-my-points-are-marked-as-incorrect-path-not-found-or-unexpected-error.md)
+{% content-ref url="faq/why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md" %}
+[why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md](faq/why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md)
 {% endcontent-ref %}
 
 {% content-ref url="faq/using-myway-without-an-internet-connection-offline-mode.md" %}

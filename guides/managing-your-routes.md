@@ -16,31 +16,19 @@ When you are in route mode, to create a new route, all you need to do is click o
 Don't worry, you will not lose your current route or its history. The app automatically saves the current route and all data on your device.
 {% endhint %}
 
-Also, from that menu, you can rename your route, [export](export-your-route-and-share-it-with-others.md) it, and share it with others.
+Also, from that menu, you can rename your route, [export](export-your-route-and-share-it-with-others.md) it, and [share it with others](export-your-route-and-share-it-with-others.md#share-route-copy).
 
 ## Where do you find all your routes?
 
 All routes are stored in the Routes section, which can be accessed from the main menu (that one that has an app setting). Please see the screenshots below. All buttons on screenshots are highlighted in red.
 
-<div>
+<div><figure><img src="../.gitbook/assets/1-39E11978-1FB3-4A0C-81B1-3ECFF5613C2A.png" alt=""><figcaption><p>Main Window</p></figcaption></figure> <figure><img src="../.gitbook/assets/2-744C7152-579C-4FBB-908B-288686B0B05E.png" alt=""><figcaption><p>App Settings</p></figcaption></figure> <figure><img src="../.gitbook/assets/3-82CD99F4-12BE-4F34-87BB-D8F53A507CE7.png" alt=""><figcaption><p>Routes Sections</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/1-39E11978-1FB3-4A0C-81B1-3ECFF5613C2A.png" alt=""><figcaption><p>Main Window</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/2-744C7152-579C-4FBB-908B-288686B0B05E.png" alt=""><figcaption><p>App Settings</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/3-82CD99F4-12BE-4F34-87BB-D8F53A507CE7.png" alt=""><figcaption><p>Routes Sections</p></figcaption></figure>
-
-</div>
-
-Each route in Routes section has its own menu, and what you can do with a route depends on the route status. To be able to access the route menu, you can click on the three dots button next to the route name (above the map and on the right side of the route name). You can Edit saved Routes, Duplicate them, Download route reports, and do many other things.
+Each route in Routes section has its own menu, and what you can do with a route depends on the route status. To be able to access the route menu, you can click on the three dots button next to the route name (above the map and on the right side of the route name). You can Edit saved Routes, Duplicate them, [Download route reports](export-your-route-and-share-it-with-others.md#files-export), and do many other things.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-04-15 at 09.38.16.jpeg" alt="" width="188"><figcaption><p>Route menu in Routes Section</p></figcaption></figure>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Keep in mind that all data except shared routes are going to stay on your device. If you want to know more about when we store your data, please check [this article](../faq/your-privacy-and-where-we-store-your-data.md).
 {% endhint %}
 
