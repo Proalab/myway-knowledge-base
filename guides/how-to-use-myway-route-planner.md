@@ -14,7 +14,7 @@ MyWay Route Planner is a very straightforward planner that will help you build y
 
 All you need to do is add your first stop (and as many stops as you want), your Start Location, and End Location (optional). The route must have a Start Location, but the End Location is optional. **To add a stop, you can either click the "Add Stop" button, check the screenshot above, or the magnifier button at the top left corner of the app.** You also can [save Start and Finish](understanding-stop-settings.md#start-and-finish-settings) locations as a default for future routes.
 
-There are multiple sources you can add addresses from, like basic "address search," "map," ["places,"](managing-your-contacts-and-places.md#places) ["contacts,"](managing-your-contacts-and-places.md#contacts) ["list,"](import-from-file-and-multi-line-import.md) ["file,"](import-from-file-and-multi-line-import.md) ["from an external link,"](export-your-route-and-share-it-with-others.md#share-route-copy) "photo", and "dictation (audio input)." Check the screenshot below to see what the "Add Stop" process looks like.
+**There are multiple sources you can add addresses from, like basic "address search," "map,"** [**"places,"**](managing-your-contacts-and-places.md#places) [**"contacts,"**](managing-your-contacts-and-places.md#contacts) [**"list,"**](import-from-file-and-multi-line-import.md) [**"file,"**](import-from-file-and-multi-line-import.md) [**"from an external link,"**](export-your-route-and-share-it-with-others.md#share-route-copy) **"photo", and "dictation (audio input)."** Check the screenshot below to see what the "Add Stop" process looks like.
 
 <figure><img src="../.gitbook/assets/IMG_05721C672DDD-1.jpeg" alt="" width="188"><figcaption><p>Add Stop options</p></figcaption></figure>
 
@@ -63,7 +63,7 @@ When planning future routes with a “Departure Time” set in advance, you can 
 
 **One of the most important settings that can dramatically change route and its convenience is Optimization Mode.** Optimization Mode has two options: by Time and by Distance. This setting is general and affects optimized routes provided by the app and routes in your order.&#x20;
 
-Optimization by Time is preferable in 90% of cases. Optimization by Time is how most Navigation Apps build your routes, and the route provided can be a little longer from a distance perspective but much more efficient from a fuel economy perspective and driver convenience. Route optimized by time usually has fewer cross-turns, fewer traffic lights, and fewer route changes.
+**Optimization by Time is preferable in 90% of cases.** Optimization by Time is how most Navigation Apps build your routes, and the route provided can be a little longer from a distance perspective but much more efficient from a fuel economy perspective and driver convenience. Route optimized by time usually has fewer cross-turns, fewer traffic lights, and fewer route changes.
 
 Optimization by Distance is a use case that can shorten your route by sacrificing convenience and time. Route optimized by distance usually has more cross-turns, traffic lights, and route changes. In most cases, this distance saved does not justify convenience sacrifice but can be helpful for those drivers who know places very well.
 
@@ -97,7 +97,7 @@ After you add all stops and set route parameters you can build the route and pic
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-07-08 at 14.02.19.jpeg" alt="" width="188"><figcaption></figcaption></figure>
 
-[Optimization options](understand-optimisation-settings.md) like the "Current" card mean the stop order will stay as you added them (the app will not optimize the stop order), and the "Optimized" card means the stop order will be optimized.&#x20;
+[Optimization options](understand-optimisation-settings.md) like the "Current" option mean the stop order will stay as you added them (the app will not optimize the stop order), and the "Optimized" option means the stops order will be optimized for either [fastest or quickest](how-to-use-myway-route-planner.md#optimization-mode).&#x20;
 
 ![Choose optimization type.](../.gitbook/assets/7BED01AC-A777-44AC-A05A-71EE5F247974.PNG)
 
@@ -119,8 +119,8 @@ Our users also told us that some apps "build your route anyway" and show you tho
 
 After you pick the route type (Current or Optimized), the app will ask you to click the "Let's go" button. and if you are finished with your route planning, you can do that, or you can continue adding stops and changing stop parameters and having some routes built for you as a reference. After you press "Let's go," the app will recalculate all route time and parameters, taking the newest data into account (like time windows, traffic, etc.). You also can close the "Let's Go" button or simply continue building your route afterward. When you finish making changes, click the blue button with an arrow on the bottom right side.
 
-{% hint style="info" %}
-If you build a route for the future, we recommend pressing the "Let's go" button exactly when you leave for your route so it will start your route exactly when you go for it.&#x20;
+{% hint style="success" %}
+If you build a route for the future, we recommend pressing the "Let's go" button exactly when you leave for your route so it will start your route exactly when you go for it.
 {% endhint %}
 
 ## Follow Route
@@ -129,7 +129,7 @@ Choose your preferred option and click the "Start Route" button, and the app wil
 
 <div><figure><img src="../.gitbook/assets/1-3F78D9B7-8816-41AE-B59B-0442BD57C441 (1).PNG" alt="" width="188"><figcaption><p>Route - Main View</p></figcaption></figure> <figure><img src="../.gitbook/assets/3-63CB8C78-5601-4EBB-AD5E-B0AB2FC374BA (1).PNG" alt="" width="188"><figcaption><p>Route - List View</p></figcaption></figure> <figure><img src="../.gitbook/assets/2-68B8323C-BBE3-4691-AA24-9753F7EFAFDB (1).PNG" alt="" width="188"><figcaption><p>Route - Map View</p></figcaption></figure></div>
 
-If you need to change a [Navigation style](understand-navigation-settings.md) (navigate by address/coordinates), click on the 3 dots button next to the "Nav" button. The app will show you a modal window to change navigation mode and the final destination navigation app (Google Maps, Apple Maps, Waze, etc.)
+If you need to change a [Navigation style](understand-navigation-settings.md) (navigate by address/coordinates), click on the 3-dots button next to the "Nav" button ("Go" button). The app will show you a modal window to change navigation mode and the final destination navigation app (Google Maps, Apple Maps, Waze, etc.)
 
 The "Done" button lets you close a stop and activate the next one. In case of "proof of delivery turned on" in App Settings, it will open your Proof Of Delivery Screen. You can read more about [Proof of Delivery](proof-of-delivery.md) here.
 

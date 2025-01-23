@@ -8,11 +8,15 @@ MyWay supports many Navigation apps like Apple Maps, Google Maps, Waze, Organic 
 
 Also, MyWay supports two primary navigation types: Navigation by Address and Navigation by GPS Coordinates. Navigation Settings will determine what data will be transferred from MyWay to the Navigation App of your choice and will affect navigation accuracy in your Navigation App.
 
+You can set Navigation Settings by going to the app Main Menu (top right) > Preference > Navigation App. Also you can change it by clicking on 3-dots button next to a "Go" button when you are on route.&#x20;
+
 {% hint style="info" %}
 Navigation by GPS coordinates provides better precision and is more accurate. However, navigation by address might be more accurate if your stop is in a high-density area.
 {% endhint %}
 
 ## Navigation Options
+
+You can set Navigation Options by going to the app Main Menu (top right) > Preference > Navigation Precision. Also you can change it by clicking 3-dots button next to a "Go" button when you are on route.&#x20;
 
 <figure><img src="../.gitbook/assets/E7217D3B-79BC-4F25-831C-7359EBDD8C44.PNG" alt="" width="188"><figcaption><p>Nav Apps and Nav Options</p></figcaption></figure>
 
