@@ -47,12 +47,13 @@ Some addresses may be missing from the search. If this is the case we recommend 
 
 ## Route Parameters (Route Settings)
 
-After you add all necessary stops at the bottom of the Main Screen in Route Editing Mode, you can find route settings like [Vehicle Type](understand-vehicle-settings.md), Departure Time, [Avoid options](how-to-use-myway-route-planner.md#avoid-options), Road Side, and [Optimization Mode (Time/Distance)](how-to-use-myway-route-planner.md#optimization-mode). After you add all your stops and choose suitable parameters, you need to click the big blue button on the bottom right side, and the app will provide you with a few route options (similar to what Nav apps do).&#x20;
+After you add all necessary stops at the bottom of the Main Screen in Route Editing Mode, you can find route settings like [Vehicle Type](understand-vehicle-settings.md), Departure Time, [Avoid options](how-to-use-myway-route-planner.md#avoid-options), Road Side (for all stops in the route, can be: any side of the road, your driving direction side or opposite road side), and [Optimization Mode (Time/Distance)](how-to-use-myway-route-planner.md#optimization-mode). After you add all your stops and choose suitable parameters, you need to click the big blue button on the bottom right side, and the app will provide you with a few route options (similar to what Nav apps do).&#x20;
 
-All route parameters are very important and can dramatically change your route look, and we recommend taking some time to experiment with them. At the end, you will get a route that exactly looks how you want it set up for your specific needs.
+**All route parameters are very important and can dramatically change your route time, distance and it looks**. We recommend taking some time to experiment with them, because there is no one fits all solution. At the end, you will get a route that looks exactly how you want it set up for your specific needs.
 
 {% hint style="info" %}
-When planning future routes with a “Departure Time” set in advance, you can optimize the route and view ETAs. However, avoid clicking the “Start Now” button, as it will recalculate all ETAs to reflect the current time. This ensures you always have accurate ETAs. When you’re ready to begin your journey, click “Start Now” and mark your “Start Location.”
+When planning future routes with a “Departure Time” set in advance, you can optimize the route and view ETAs. However, avoid clicking the “Start Now” button, as it will recalculate all ETAs to reflect the current time. This ensures you always have accurate ETAs exactly when you go on route (click "Start Now" button). \
+Just remember - when you’re ready to begin your route, click “Start Now” and mark your “Start Location.”
 {% endhint %}
 
 
