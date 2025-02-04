@@ -23,7 +23,7 @@ Also, you can use the [import from another app](how-to-import-xlsx-files-from-ot
 {% endhint %}
 
 {% hint style="warning" %}
-If the app started recognizing your addresses wrong, suggesting another state or country please follow the advice from[ this article](../i-cant-find-an-address.md#if-the-app-started-recognizing-your-addresses-wrong-suggesting-another-state-or-country)
+If the app recognizes addresses wrong, suggesting another state or country, please follow the advice from[ this article](../i-cant-find-an-address.md#if-the-app-started-recognizing-your-addresses-wrong-suggesting-another-state-or-country)
 {% endhint %}
 
 ### Import from file - file Example
