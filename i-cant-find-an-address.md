@@ -9,12 +9,26 @@ No data providers build the same. Some data providers work best in one region, a
 <figure><img src=".gitbook/assets/Screenshot 2024-04-15 at 10.05.43.jpeg" alt="" width="188"><figcaption><p>Geocoding Data Provider Options</p></figcaption></figure>
 
 {% hint style="info" %}
-You also can change geocoding provider from address search screen. Just pick "Can't find address options" and try different one.
+You also can change the geocoding provider from the address search screen. Just pick "Can't find address options" and try a different one.
 {% endhint %}
 
 {% hint style="success" %}
-For USA, United Kingdom, Europe, Canada, and Australia we recommend Google, Apple, or Here, for the rest of the countries ArcGis or Here.&#x20;
+For the USA, United Kingdom, Europe, Canada, and Australia we recommend Google, Apple, or Here, for the rest of the countries ArcGis or Here.&#x20;
 {% endhint %}
+
+### If the app started recognizing your addresses wrong, suggesting another state or country?
+
+1\. Geocoding Source – Ensure the app is using the correct geocoding provider. If there were any recent changes, it might be defaulting to a different provider with less accurate results.
+
+2\. Search Context – The app bases searches on the most recently added location. If you previously entered an address in another country, the app might be treating that as your reference point, causing incorrect results.
+
+Steps to Fix:
+
+• Check geocoding provider.
+
+• Try manually adding the first location in the correct area via a basic search before pasting the full list.
+
+• If the issue persists, start a new route restart the app, and add the first address in your area by search.
 
 ### How to report an incorrect address in MyWay Route Planner?
 

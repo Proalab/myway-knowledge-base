@@ -22,6 +22,10 @@ Before you pick a file, you have to send it to your phone either by email, a mes
 Also, you can use the [import from another app](how-to-import-xlsx-files-from-other-apps.md) option when you have a file on your phone.
 {% endhint %}
 
+{% hint style="warning" %}
+If the app started recognizing your addresses wrong, suggesting another state or country please follow the advice from[ this article](../i-cant-find-an-address.md#if-the-app-started-recognizing-your-addresses-wrong-suggesting-another-state-or-country)
+{% endhint %}
+
 ### Import from file - file Example
 
 You can use the file below if you need an example of a .XLSX file that can be imported into MyWay Route Planner.
