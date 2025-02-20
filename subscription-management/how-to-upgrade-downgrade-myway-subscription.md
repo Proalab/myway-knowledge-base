@@ -6,6 +6,9 @@ description: >-
 
 # How to upgrade/downgrade MyWay subscription?
 
+If subscription is not recognised by Apple/Google please follow [this instruction](myway-does-not-recognize-my-subscription.md) before doing any upgrade/downgrade.
+
+\
 If you want to upgrade/downgrade a subscription, you can do this by simply following next steps.
 
 ### **Apple App Store (iPhone, iPad)** <a href="#ios-iphone-or-ipad" id="ios-iphone-or-ipad"></a>
