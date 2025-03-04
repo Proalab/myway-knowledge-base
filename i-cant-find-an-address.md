@@ -1,3 +1,7 @@
+---
+description: or address is wrong
+---
+
 # I can't find an address
 
 MyWay has the most up-to-date database of addresses and places from Google Maps, Mapbox, Here, Apple, TomTom, ArcGis, and OpenStreetMap combined into one route planner. It means we do not rely on data from only one provider. However, it might be the case when an address is not in our database or it's inaccurate. Let's face it - every provider out there works better in some areas and not that great in others.
@@ -25,6 +29,10 @@ The app relies on a geocoding service and uses either your current location or t
 * Check Location Access – Ensure the app has permission to access your location.
 * Verify Geocoding Provider – If there were recent changes, the app might be using a different provider with less accurate results.
 * Set the Correct Search Context – Manually add the first stop in your actual area before pasting the full list.
+
+### If the app navigates you to a wrong address
+
+The app may navigate you to a different address if “navigation by address” is enabled in the Nav Settings. MyWay offers two methods for sending stops to navigation apps like Google Maps, Apple Maps, and Waze. [Check this article to understand the difference between these navigation options](guides/understand-navigation-settings.md#navigation-options).
 
 ### How to report an incorrect address in MyWay Route Planner?
 
