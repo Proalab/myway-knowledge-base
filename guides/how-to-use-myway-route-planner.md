@@ -115,12 +115,18 @@ Our users also told us that some apps "build your route anyway" and show you tho
 
 ### Confirm your Route
 
-After selecting the route type (Current or Optimized), the app will prompt you to click the “Let’s Go” button. If you’re done planning, click it to proceed. Otherwise, you can continue adding stops, adjusting stop parameters, or building additional routes for reference.
+After selecting the route type (Current or Optimized), the app will prompt you to click the “Start Route” button (in some versions can be "Let's Go", etc.). If you’re done planning, click it to proceed. Otherwise, you can continue adding stops, adjusting stop parameters, or building additional routes for reference.
 
-Once you press “Let’s Go”, the app will recalculate the route using the latest data, including time windows, traffic, and other factors. You can also close the “Let’s Go” prompt and keep editing your route. When you’re finished making changes, click the blue button with arrows at the bottom right to finalize your route.
+Once you press “Start Route”, the app will recalculate the route using the latest data, including time windows, traffic, and other factors. You can also close the “Start Route” prompt and keep editing your route. When you’re finished making changes, click the blue button with arrows at the bottom right to finalize your route.
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-01 at 18.23.18.jpeg" alt="" width="188"><figcaption><p>Start Route button</p></figcaption></figure>
 
 {% hint style="success" %}
-If you’re planning a route for the future, press the “Let’s Go” button right when you leave. This ensures the route starts at the correct time, providing accurate ETAs and up-to-date traffic data.
+If you’re planning a route for the future, press the “Start Route” button right when you leave. This ensures the route starts at the correct time, providing accurate ETAs and up-to-date traffic data.
+{% endhint %}
+
+{% hint style="info" %}
+If you want to modify the route after the app builds the stop order, you can still [change the route order—even after it’s built](how-to-use-myway-route-planner.md#changing-the-route-after-route-buit).
 {% endhint %}
 
 ## Follow Route
@@ -169,13 +175,25 @@ When you follow your route and want' to ["Update"](how-to-use-myway-route-planne
 
 If you see that you are running late or have changed your route, you can update all ETA's and stop the order. You can do that by pressing the 3 dots menu button (in the route header) and picking the "Update Route" option or do complete Reoptimization. [Read more about those options](understand-optimisation-settings.md#route-update-and-reoptimize).
 
-### Changing the route after you started it
+## Making route changes after the initial route is built
 
-One of the greatest MyWay features that separates it from every other route planner is the ability to change the route after you start a route. You can change your route using either of two techniques:\
-\
-If you simply need to add one or two stops you can do that by using the top left search icon (with a magnifier glass), searching for a new stop, clicking on it, and picking the "add to route" option. The app will set it to the closest location that is already on the route. You can drag & drop location with the long press on the stop and then apply changes by clicking a blue button with arrows on the bottom right. Pick "update" and the app will actualize all ETAs.\
-\
-The second option is to go back to the edit mode. Click the three dots button in the route subheader, pick "edit route", and add stops by using the top left search icon (with a magnifier glass), or with the "add stop" menu, You can drag & drop location with the long press on the stop and then apply changes by clicking a blue button with arrows on the bottom right. Either pick "current order" to keep the order you set, or "optimized" for the app to build you the most optimal route. This approach is better to use if you have to make multiple changes to your route.
+MyWay lets you make changes even after optimization—before you start the route or while it’s already in progress. Whether it’s a small tweak or a full overhaul, you’re always in control. There are three ways to edit a built or active route:
+
+**Modify Route Before Starting**
+
+If you’ve already optimized and selected an order (either Current or Optimized), but want to make adjustments before starting, tap the arrow button next to “Start Route.” Make your changes, then tap the blue arrows button and pick Current Order to keep your custom stop sequence.
+
+**Modify Route After Starting**
+
+**Quick Add & Reorder:** Need to drop in one or two extra stops? Tap the search icon (magnifying glass), find the stop, and tap “Add to Route.” MyWay will insert it near the closest existing stop. Long-press to drag and reorder. Tap the blue arrows button and hit “Update” to refresh ETAs.
+
+**Full Edit Mode:** For multiple changes, tap the three dots in the route header and select “Edit Route.” Add stops using the search icon or “Add Stop.” Reorder by dragging. Then tap the blue arrows button and pick:
+
+• “Current Order” to keep your manual layout
+
+• “Optimized” to rebuild and get the most efficient route
+
+Use Quick Add for minor updates. Use Edit Mode for bigger revisions. Use the pre-start modification if you need to make quick changes right before heading out.
 
 ## Video Guide
 
