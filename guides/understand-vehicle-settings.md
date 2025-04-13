@@ -50,6 +50,10 @@ However, if you are a van or truck driver, the optimization algorithm will try t
 
 **Description:** The truck option is like a big vehicle specially designed for carrying cargo over long distances, with a speed factor of 80%. It's suitable for transporting very heavy loads, with specific height, width, and length dimensions, and can handle weights between 12000 kg to 40000 kg. This vehicle option favors higher-classification roads, such as motorways and trunks, and checks for truck access, width and height restrictions, and weight limits on the roads.
 
+{% hint style="warning" %}
+If you’re not using a car, make sure your navigation app supports your vehicle type. Apps like Google Maps and Waze don’t accept vehicle parameters from external sources, so you must manually set your vehicle type in their settings. For better accuracy, consider using a navigation app built for your specific vehicle type, like truck-specific nav apps.
+{% endhint %}
+
 ### Bicycle
 
 * **Basic Type:** Bicycle
