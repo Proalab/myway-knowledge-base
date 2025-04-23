@@ -7,7 +7,7 @@
   * [What languages MyWay supports?](what-is-myway-route-planner/what-languages-myway-supports.md)
 * [How many addresses can I add to a route?](how-many-addresses-can-i-add-to-a-route.md)
 * [I can't find an address](i-cant-find-an-address.md)
-* [Is there any difference in functionality iOS app and Android App?](is-there-any-difference-in-functionality-ios-app-and-android-app.md)
+* [Is there any difference in functionality between iOS version and Android version of MyWay?](is-there-any-difference-in-functionality-between-ios-version-and-android-version-of-myway.md)
 * [Service Status](service-status.md)
 * [How to contact us?](how-to-contact-us.md)
 

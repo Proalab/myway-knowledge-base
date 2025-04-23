@@ -32,8 +32,8 @@ description: Learn how to do things in MyWay Route Planner.
 [i-cant-find-an-address.md](i-cant-find-an-address.md)
 {% endcontent-ref %}
 
-{% content-ref url="is-there-any-difference-in-functionality-ios-app-and-android-app.md" %}
-[is-there-any-difference-in-functionality-ios-app-and-android-app.md](is-there-any-difference-in-functionality-ios-app-and-android-app.md)
+{% content-ref url="is-there-any-difference-in-functionality-between-ios-version-and-android-version-of-myway.md" %}
+[is-there-any-difference-in-functionality-between-ios-version-and-android-version-of-myway.md](is-there-any-difference-in-functionality-between-ios-version-and-android-version-of-myway.md)
 {% endcontent-ref %}
 
 {% content-ref url="what-is-myway-route-planner/what-languages-myway-supports.md" %}
