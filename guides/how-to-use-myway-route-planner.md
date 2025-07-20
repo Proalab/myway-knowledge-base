@@ -33,9 +33,7 @@ With MyWay, you can add an address using various sources, including a **basic ad
 {% tab title="Android  - Photo and Voice Input" %}
 **Android:**
 
-**Photo Input -** Android currently does not support photo search input, but we will be adding that feature in the future.&#x20;
-
-
+**Photo Input -** If you don’t see the photo icon next to the search input, it means that the photo input feature is not available on your device (or phone language is not supported).
 
 **Voice Input -** If you don't see dictation input (microphone icon), please follow this instruction to turn it on - [https://support.google.com/gboard/answer/2781851?hl=en\&co=GENIE.Platform%3DAndroid](https://support.google.com/gboard/answer/2781851?hl=en\&co=GENIE.Platform%3DAndroid) also some manufacturers have a different way to turn it on, please refer to your phone manual.
 {% endtab %}
