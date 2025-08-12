@@ -34,7 +34,12 @@ You can use the file below if you need an example of a .XLSX file that can be im
 The actual order of fields and column titles do not matter, but the format of the data does. Like example:&#x20;
 
 Column names for addresses can be "address," "Full Address," "FullAddress," etc., but the format should be the text that geocoding services can recognize.
+
+\
+Keep the column names exactly (if you can) as in the example file to minimize processing issues.
 {% endhint %}
+
+<table data-full-width="false"><thead><tr><th>order number</th><th>name</th><th>address</th><th>latitude</th><th>longitude</th><th>duration</th><th>start time</th><th>end time</th><th>phone</th><th>contact</th><th>notes</th><th>color</th></tr></thead><tbody><tr><td>1020</td><td>Central Park</td><td>830 5th Ave, Central Park, New York</td><td></td><td></td><td>00:10:00</td><td>10:00 AM</td><td>15:00 PM</td><td>1234567890</td><td>John Dow</td><td></td><td></td></tr><tr><td>1022</td><td></td><td>350 5th Ave, Koreatown, New York</td><td></td><td></td><td>00:10:00</td><td></td><td>19:00 PM</td><td></td><td></td><td>Some notes</td><td></td></tr><tr><td>1023</td><td></td><td></td><td>40.6893</td><td>-74.0445</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1024</td><td>Apple Store</td><td>103 Prince St, Soho, New York</td><td></td><td></td><td>00:25:00</td><td></td><td></td><td></td><td></td><td></td><td>red</td></tr></tbody></table>
 
 **We recommend using our example file and building your files based on it to reduce possible errors.** Please check the example file below:
 
