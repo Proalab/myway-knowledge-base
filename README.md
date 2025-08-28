@@ -187,3 +187,13 @@ What to do if you have issues with your subscription:
 {% endcontent-ref %}
 
 ***
+
+## Links
+
+{% embed url="https://www.mywayroute.com" %}
+
+{% embed url="https://mywayroute.statuspage.io" %}
+
+{% embed url="https://apps.apple.com/app/apple-store/id1557014712?ct=FromHelp&mt=8&pt=120907681" %}
+
+{% embed url="https://play.google.com/store/apps/details?id=com.proalab.mywayapp" %}
