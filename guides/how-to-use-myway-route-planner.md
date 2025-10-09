@@ -159,7 +159,7 @@ Tap the button located above the Current Location button (above the "current loc
 
 <div><figure><img src="../.gitbook/assets/2A24D363-BD22-41AA-A331-BB67CC47E999.PNG" alt="" width="188"><figcaption><p>Fit the whole route mode</p></figcaption></figure> <figure><img src="../.gitbook/assets/1D4A6402-CD66-420C-A7A3-9C710B3177EE.PNG" alt="" width="188"><figcaption><p>Fit current route from point A to B mode</p></figcaption></figure> <figure><img src="../.gitbook/assets/649E2BF9-8589-485E-A568-DB2A0792E4BF.PNG" alt="" width="188"><figcaption><p>Show destination mode</p></figcaption></figure></div>
 
-
+In addition to fitting mods, when you start a route (driving or following it), tap the current location icon to make the map follow your position. The location icon appears filled when this mode is active. In this mode, your location stays centered on the map, and if you move the map, it will automatically adjust to keep your position in view. This is especially useful when using the app for navigation.
 
 ### Your Location
 
