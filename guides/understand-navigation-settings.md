@@ -16,25 +16,29 @@ To pass a stop to a Navigation app you need to build your route and start it. Th
 Navigation apps do not support receiving the whole route with a click of a button. Only one stop at a time. It's a navigation app limitation and there is no easy way to address this issue.
 {% endhint %}
 
+## Navigation Apps
+
+Currently, MyWay supports Apple Maps, Google Maps, Waze, HERE WeGo, Organic Maps, MAPS.ME, and Yandex Maps. This is more navigation app integrations than most route planners on the market.
+
+There are hundreds of navigation apps worldwide, and it’s not possible to support every single one directly. If you prefer a different app, tap the three-dot menu next to the "Go" (Nav) button and copy either the coordinates or the address by clicking on it. You can then paste it into any navigation app of your choice. This way, you can use virtually any navigation app with MyWay.
+
+<figure><img src="../.gitbook/assets/E7217D3B-79BC-4F25-831C-7359EBDD8C44.PNG" alt="" width="188"><figcaption><p>Nav Apps and Nav Options</p></figcaption></figure>
+
 ## Navigation types: Coordinates or Address
 
 Also, MyWay supports two primary navigation types: Navigation by Address and Navigation by GPS Coordinates. Navigation Settings will determine what data will be transferred from MyWay to the Navigation App of your choice and will affect navigation accuracy in your Navigation App.
 
-You can set Navigation Settings by going to the app Main Menu (top right) > Preference > Navigation App. Also, you can change it by clicking on the 3-dots button next to a "Go" button when you are on route.&#x20;
+You can change the navigation app or adjust navigation settings by tapping the three-dots button next to the “Go” (Nav) button while on a route.
 
-{% hint style="info" %}
-Navigation by GPS coordinates provides better precision and is more accurate. However, navigation by address might be more accurate if your stop is in a high-density area.
-{% endhint %}
-
-## Navigation Options
-
-You can set Navigation Options by going to the app's Main Menu (top right) > Preference > Navigation Precision. Also, you can change it by clicking the 3-dots button next to a "Go" button when you are on route.&#x20;
-
-<figure><img src="../.gitbook/assets/E7217D3B-79BC-4F25-831C-7359EBDD8C44.PNG" alt="" width="188"><figcaption><p>Nav Apps and Nav Options</p></figcaption></figure>
+You can also manage navigation options via: Main Menu (top right) → Preferences → Navigation Precision.
 
 ### **Navigation by GPS coordinates**&#x20;
 
 Navigation by GPS coordinates provides better precision and is more accurate. In this case, MyWay will pass the stop's GPS coordinates to the navigation app as the destination.
+
+{% hint style="info" %}
+Navigation by GPS coordinates provides better precision and is more accurate. However, navigation by address might be more accurate if your stop is in a high-density area.
+{% endhint %}
 
 ### **Navigation by Address**
 
