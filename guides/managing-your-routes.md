@@ -49,3 +49,7 @@ The Copy Stops menu can be found in the same menu when you complete your route. 
 {% hint style="success" %}
 Pro Tip: When you complete your route (and ideally, you want to complete routes even if there are unfinished stops - not marked with arrived/success/failed statuses), the app will show you completion graphs, and there is going to be a "copy stops" button. If you choose that, you will see the same option as in the screenshot above and can create a new route with missed stops with the click of one button.
 {% endhint %}
+
+## Complete your route
+
+You can complete a route in two ways: either mark all stops as finished (Arrived/Skipped/Success/Failure) and click "Complete Route" at the end, or use the route menu (the three dots next to the stops and "distance left" label in route-following mode).
