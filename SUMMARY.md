@@ -21,7 +21,6 @@
 * [Understanding Stop Settings](guides/understanding-stop-settings.md)
 * [Understand Navigation Settings](guides/understand-navigation-settings.md)
 * [Import from file and multi-line import](guides/import-from-file-and-multi-line-import.md)
-* [How to import XLSX files from other apps?](guides/how-to-import-xlsx-files-from-other-apps.md)
 * [Export your route and share it with others](guides/export-your-route-and-share-it-with-others.md)
 * [Proof of Delivery](guides/proof-of-delivery.md)
 * [Planning Multi-Day routes](guides/planning-multi-day-routes.md)
