@@ -4,7 +4,7 @@ description: Route modes, stop parameters, optimization modes, etc.
 
 # How to use MyWay Route Planner
 
-The primary purpose of the MyWay Route Planner is to save you time and money by reducing the need for manual route planning and minimizing mileage traveled. MyWay Route Planner will help you cut down on route planning time and efficiently plan routes with multiple locations in seconds.&#x20;
+The primary purpose of the MyWay Route Planner is to save you time and money by reducing the need for manual route planning and minimizing mileage traveled.
 
 After downloading the app from [Apple AppStore](https://apps.apple.com/us/app/delivery-route-planner-myway/id1557014712) or [Google Play Market,](https://play.google.com/store/apps/details?id=com.proalab.mywayapp) you need to open it, and the first thing you see is the app's main screen.
 
@@ -22,20 +22,16 @@ With MyWay, you can add an address using various sources, including a **basic ad
 
 {% tabs %}
 {% tab title="iOS - Photo and Voice Input" %}
-**IOS**
-
-**Photo Input -** If you don't see a photo icon in search input, it means your iPhone or iOS does not support photo input - [https://support.apple.com/en-au/guide/iphone/aside/iph691752bc0/17.0/ios/17.0](https://support.apple.com/en-au/guide/iphone/aside/iph691752bc0/17.0/ios/17.0) or does not support your language - [https://www.apple.com/ios/feature-availability/#live-text-live-text](https://www.apple.com/ios/feature-availability/#live-text-live-text)
+**Photo Input -** If you don't see a photo icon in search input, it means your iPhone or iOS does not support photo input ([Apple guide](https://support.apple.com/en-au/guide/iphone/aside/iph691752bc0/17.0/ios/17.0)) or does not support your language ([supported languages](https://www.apple.com/ios/feature-availability/#live-text-live-text)).
 
 \
-**Voice Input -** If you don't see dictation input (microphone icon), you might want to turn on dictation in iOS settings - [https://support.apple.com/en-au/guide/iphone/iph2c0651d2/ios](https://support.apple.com/en-au/guide/iphone/iph2c0651d2/ios)
+**Voice Input -** If you don't see dictation input (microphone icon), you might want to [turn on dictation in iOS settings](https://support.apple.com/en-au/guide/iphone/iph2c0651d2/ios).
 {% endtab %}
 
 {% tab title="Android  - Photo and Voice Input" %}
-**Android:**
-
 **Photo Input -** If you don’t see the photo icon next to the search input, it means that the photo input feature is not available on your device (or phone language is not supported).
 
-**Voice Input -** If you don't see dictation input (microphone icon), please follow this instruction to turn it on - [https://support.google.com/gboard/answer/2781851?hl=en\&co=GENIE.Platform%3DAndroid](https://support.google.com/gboard/answer/2781851?hl=en\&co=GENIE.Platform%3DAndroid) also some manufacturers have a different way to turn it on, please refer to your phone manual.
+**Voice Input -** If you don't see dictation input (microphone icon), please follow [this instruction](https://support.google.com/gboard/answer/2781851?hl=en\&co=GENIE.Platform%3DAndroid) to turn it on. Some manufacturers have a different way to turn it on, please refer to your phone manual.
 {% endtab %}
 {% endtabs %}
 
@@ -49,7 +45,7 @@ Some addresses might not appear in the search results. If this happens, try addi
 
 At the bottom of the Main Screen, you can find route settings like [Vehicle Type](understand-vehicle-settings.md), Departure Time, [Avoid options](how-to-use-myway-route-planner.md#avoid-options), Road Side (for all stops in the route, can be: any side of the road, your driving direction side, or opposite road side), and [Optimization Mode (Time/Distance)](how-to-use-myway-route-planner.md#optimization-mode). These settings are available only when you plan your route, not after you start it.&#x20;
 
-**Route parameters are very important and can dramatically change your route time, distance and it looks**. Take some time to experiment with them, because there is no one-fits-all solution. At the end, you will get a route that looks exactly how you want it set up for your specific needs.
+**Route parameters are very important and can dramatically change your route time, distance and it looks**. Take some time to experiment with them, because there is no one-fits-all solution.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-07-08 at 13.56.00.jpeg" alt="" width="188"><figcaption><p>Route Parameters</p></figcaption></figure>
 
@@ -75,7 +71,7 @@ Keep in mind that you need to set the same avoid settings in your navigation app
 
 ## Stop's Settings
 
-Yeach stop has[ stop parameters like time windows, priority, notes, color, etc](understanding-stop-settings.md). To change stop settings, click on the stop added to the route.
+Each stop has [stop parameters like time windows, priority, notes, color, etc.](understanding-stop-settings.md) To change stop settings, click on the stop added to the route.
 
 {% hint style="info" %}
 Please remember that the "Optimization by Distance" can ignore stop settings like priority and time windows. The only option that supports time windows and priority setting in full is "Optimization by Time."
@@ -102,7 +98,7 @@ Sometimes, an optimized route traveling time or distance can be more significant
 {% endhint %}
 
 {% hint style="info" %}
-MyWay will show you late arrivals and [issues](../faq/why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md#stops-with-issues) so you can make informed decisions about what to do with them. In some cases, like tight time windows or messed stop priorities, there is a possibility that the algorithm can't find the best order that satisfies all parameters. Sometimes, the app can't even build your (Current) order as there are many issues with stops. In this case, the app will show you a warning and will suggest you modify some of those stops (or simply skip them). It will show you late arrivals and issues so you can make informed decisions about what to do with your stops.
+MyWay will show you late arrivals and [issues](../faq/why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md#stops-with-issues) so you can make informed decisions about what to do with them. In some cases, like tight time windows or messed stop priorities, there is a possibility that the algorithm can't find the best order that satisfies all parameters. Sometimes, the app can't even build your (Current) order as there are many issues with stops. In this case, the app will show you a warning and will suggest you modify some of those stops (or simply skip them).
 {% endhint %}
 
 <div><figure><img src="../.gitbook/assets/5F8EB0C0-74FA-4E04-9E17-9091301ECD1A.PNG" alt="" width="188"><figcaption><p>Late Arrival</p></figcaption></figure> <figure><img src="../.gitbook/assets/6604EF22-6539-452A-BF72-E17CF903FA08.PNG" alt="" width="188"><figcaption><p>Optimization Warning</p></figcaption></figure></div>
@@ -115,7 +111,7 @@ Our users also told us that some apps "build your route anyway" and show you tho
 
 After selecting the route type (Current or Optimized), the app will prompt you to click the “Start Route” button (in some versions can be "Let's Go", etc.). If you’re done planning, click it to proceed. Otherwise, you can continue adding stops, adjusting stop parameters, or building additional routes for reference.
 
-Once you press “Start Route”, the app will recalculate the route using the latest data, including time windows, traffic, and other factors. You can also close the “Start Route” prompt and keep editing your route. When you’re finished making changes, click the blue button with arrows at the bottom right to finalize your route.
+Once you press “Start Route”, the app will recalculate the route using the latest data, including time windows, traffic, and other factors.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-01 at 18.23.18.jpeg" alt="" width="188"><figcaption><p>Start Route button</p></figcaption></figure>
 
@@ -141,7 +137,7 @@ Click on a stop to see additional parameters and to add some notes, skip stops, 
 
 ### Fitting Modes
 
-The fitting mode automatically adjusts the map view to highlight the most relevant part of your route. It dynamically shifts focus based on your journey—whether showing the entire route, your next segment, or just the destination. This feature helps keep your navigation clear and relevant, reducing the need for manual zooming or panning.
+The fitting mode automatically adjusts the map view to highlight the most relevant part of your route. It dynamically shifts focus based on your journey—whether showing the entire route, your next segment, or just the destination.
 
 MyWay offers three route display modes:
 
@@ -151,7 +147,7 @@ MyWay offers three route display modes:
 
 **How to Use:**
 
-Tap the button located above the Current Location button (above the "current location button" and just below the map’s zoom controls) to switch between modes.
+Tap the button above the Current Location button (just below the map’s zoom controls) to switch between modes.
 
 **When Planning a Route:** Only Fit the Whole Route is available.
 
@@ -159,7 +155,7 @@ Tap the button located above the Current Location button (above the "current loc
 
 <div><figure><img src="../.gitbook/assets/2A24D363-BD22-41AA-A331-BB67CC47E999.PNG" alt="" width="188"><figcaption><p>Fit the whole route mode</p></figcaption></figure> <figure><img src="../.gitbook/assets/1D4A6402-CD66-420C-A7A3-9C710B3177EE.PNG" alt="" width="188"><figcaption><p>Fit current route from point A to B mode</p></figcaption></figure> <figure><img src="../.gitbook/assets/649E2BF9-8589-485E-A568-DB2A0792E4BF.PNG" alt="" width="188"><figcaption><p>Show destination mode</p></figcaption></figure></div>
 
-In addition to fitting mods, when you start a route (driving or following it), tap the current location icon to make the map follow your position. The location icon appears filled when this mode is active. In this mode, your location stays centered on the map, and if you move the map, it will automatically adjust to keep your position in view. This is especially useful when using the app for navigation.
+In addition to fitting modes, when you start a route (driving or following it), tap the current location icon to make the map follow your position. The location icon appears filled when this mode is active. In this mode, your location stays centered on the map, and if you move the map, it will automatically adjust to keep your position in view.
 
 ### Your Location
 
@@ -167,7 +163,7 @@ You can hide your current location to make it easy to work with the route. It's 
 
 <figure><img src="../.gitbook/assets/DE6D4CA8-762B-4D0F-B659-28AE19C00EEF.PNG" alt="" width="188"><figcaption><p>My location checkbox in the Layers Screen</p></figcaption></figure>
 
-When you follow your route and want' to ["Update"](how-to-use-myway-route-planner.md#update-and-actualize-route) it to actualize ETAs, if access to your location is ON, MyWay will take your location as an "intermediate starting" point. That will greatly improve ETA calculation and will build you a much more accurate route. However, this can cause issues when your location is in a different country or can't be accessed by public roads. We recommend checking [Optimisation Settings ](understand-optimisation-settings.md#starting-location)to see how location can affect your routes.
+When you follow your route and want to ["Update"](how-to-use-myway-route-planner.md#update-and-actualize-route) it to actualize ETAs, if access to your location is ON, MyWay will take your location as an "intermediate starting" point. That will greatly improve ETA calculation and will build you a much more accurate route. However, this can cause issues when your location is in a different country or can't be accessed by public roads. We recommend checking [Optimisation Settings ](understand-optimisation-settings.md#starting-location)to see how location can affect your routes.
 
 ### Update and Actualize Route
 
@@ -190,8 +186,6 @@ If you’ve already optimized and selected an order (either Current or Optimized
 • “Current Order” to keep your manual layout
 
 • “Optimized” to rebuild and get the most efficient route
-
-Use Quick Add for minor updates. Use Edit Mode for bigger revisions. Use the pre-start modification if you need to make quick changes right before heading out.
 
 ## Video Guide
 
