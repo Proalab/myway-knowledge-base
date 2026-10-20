@@ -1,3 +1,3 @@
 # Service Status
 
-MyWay Route Planner has a service status page where you can find information about service uptime, issues, and scheduled maintenance. You can find it [here](https://mywayroute.statuspage.io).&#x20;
+Our [service status page](https://mywayroute.statuspage.io) shows MyWay Route Planner's service uptime, current issues and scheduled maintenance.

@@ -12,53 +12,60 @@ description: >-
 
 ## How optimization works <a href="#vehicleroutingproblemdescription" id="vehicleroutingproblemdescription"></a>
 
-MyWay uses data from Google Maps, Mapbox, HERE, TomTom, Apple Maps, ArcGIS and OpenStreetMap to calculate the most efficient route by simulating thousands of combinations. However, the result might not always match your expectations.
+MyWay uses data from Google Maps, Mapbox, HERE, TomTom, Apple Maps, ArcGIS and OpenStreetMap and simulates thousands of combinations to find the most efficient route. Still, the result might not always match your expectations.
 
-The optimization algorithms consider factors like stop priorities, time windows, vehicle capacity, road conditions, traffic, tolls, u-turns, roadside preferences, left turns, weather, and more. [Some of these settings can be adjusted to suit your needs](the-route-myway-produced-doesnt-look-correct.md#settings-that-affect-route-optimization), while others are fixed or influenced by road layout and limits. Below are common issues and explanations for why they occur.
+The optimization algorithms consider stop priorities, time windows, vehicle capacity, road conditions, traffic, tolls, U-turns, side of road, left turns, weather and more. [You can adjust some of these settings to suit your needs](the-route-myway-produced-doesnt-look-correct.md#settings-that-affect-route-optimization); others are fixed or depend on the road layout and limits. Below are the questions we hear most often and why these things happen.
 
 ## ETAs seem incorrect
 
-ETAs may differ from actual arrival times for a few reasons: incorrect service times (the most common one, usually it's too short or too long), changing traffic, or the navigation app sending you on a different route. You can update your route in MyWay to recalculate ETAs, reflecting the latest weather, traffic, and stop order changes. We recommend [updating your route](../guides/how-to-use-myway-route-planner.md#update-and-actualize-route) whenever it's modified to keep the ETAs accurate.
+ETAs can differ from actual arrival times for a few reasons: a wrong time at stop (the most common one; usually it's too short or too long), changing traffic, or the navigation app taking you a different way. When you update your route in MyWay, it recalculates the ETAs with the latest weather, traffic and stop order changes. We recommend [updating your route](../guides/how-to-use-myway-route-planner.md#update-and-actualize-route) every time you change it, so the ETAs stay accurate.
 
 ## Why does my route not look "optimal"?
 
-If the route seems inefficient, it might be due to settings not aligning with your preferences. For example, if you turn off U-turns, the app will avoid them even if they would make the route faster. [Adjusting settings](the-route-myway-produced-doesnt-look-correct.md#settings-that-affect-route-optimization) to match your real-world preferences can lead to better results.
+Usually it's because the settings don't match your preferences. For example, if you turn off U-turns, the app avoids them even where a U-turn would make the route faster. [Adjust the settings](the-route-myway-produced-doesnt-look-correct.md#settings-that-affect-route-optimization) to match how you really drive, and you'll get better results.
 
 ### Why do I return to previously visited areas?
 
-The most efficient route often resembles a clover shape, meaning you may revisit areas you already visited. While it might seem counterintuitive, shortcuts like crossing streets or avoiding U-turns usually take more time, add risks, and reduce convenience. The clover shape results from settings like [Optimization Mode, Allow U-turns on Waypoints, and Side of Road (set to Any Side by default)](the-route-myway-produced-doesnt-look-correct.md#settings-that-affect-route-optimization). Adjusting these can improve the route while minimizing risks and ensuring compliance with traffic rules.
+The most efficient route often looks like a clover: you come back to areas you've already visited. It may seem counterintuitive, but shortcuts like crossing the street or avoiding U-turns usually take more time, add risk and are less convenient. The clover shape comes from settings like [Optimization Mode, Allow U-turns on Waypoints and Side of Road (Any Side by default)](the-route-myway-produced-doesnt-look-correct.md#settings-that-affect-route-optimization). Adjusting them can improve the route while keeping risks low and following traffic rules.
 
 ### Why does a non-optimized (my own order) route seem faster?
 
-A non-optimized route ignores time windows and constraints, which can make it seem faster. However, this greatly increases the chances of missed stops or deliveries, leading to a higher rate of unsuccessful visits. MyWay will show all possible issues it might catch on the optimization screen.
+A route in your own order ignores time windows and other constraints, so it can look faster. In practice, it greatly increases the chance of missed stops and failed deliveries. MyWay shows all the issues it can catch on the optimization screen.
 
 ## Road Settings that affect route optimization <a href="#settings-that-affect-route-optimization" id="settings-that-affect-route-optimization"></a>
 
-You can find these settings in two places: under "Route Settings" below the stop list while you plan a route (Vehicle, Side of Road, Optimization Mode, Road Restrictions), and in the menu (three lines, top right corner of the map) > Preferences > "Directions" (Allow U-turns on Waypoints, Snap to Road).
+You'll find these settings in two places:
+
+* **Route Settings** below the stop list while you plan a route: Vehicle, Side of Road, Optimization Mode and Road Restrictions.
+* Open the menu (☰, top right) and tap **Preferences** > **Directions**: Allow U-turns on Waypoints and Snap to Road.
 
 ### **Vehicle Type**
 
-[Vehicle Type](../guides/understand-vehicle-settings.md) is a very important setting that determines what is available and what is not. If you drive a "car," it's pretty straightforward and it's set by default. However, if you are a van or truck driver, the optimization algorithm will try to avoid small roads and penalize intersections. The algorithm also knows which areas are not allowed for truck drivers (like tunnels, low bridges, or restricted roads) and will avoid that, so your route will look longer but will be suitable for your specific vehicle type. Also, pick "truck" as a vehicle type only when you drive a big truck, not a small one. For the van option, stick to "van" or even a "car." If, after changing your vehicle type, you see some issues, please check [this article](why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md).
+[Vehicle Type](../guides/understand-vehicle-settings.md) is a very important setting: it decides which roads are available to you. If you drive a car, it's straightforward, and Car is the default. If you drive a van or a truck, the optimization algorithm tries to avoid small roads and penalizes intersections. It also knows which areas are off-limits for trucks (like tunnels, low bridges or restricted roads) and avoids them, so your route may look longer, but it will suit your vehicle. Choose **Truck** only when you drive a big truck, not a small one. If you drive a van, stick to **Van** or even **Car**. If you see issues after changing the vehicle type, see [this article](why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md).
 
 ### **Optimization Mode**
 
-[Optimization Mode](../guides/how-to-use-myway-route-planner.md#optimization-mode) is one of the most fundamental settings that affect route optimization. There are two options available: "Optimize for Time" (more efficient) and "Optimize for Distance".&#x20;
+[Optimization Mode](../guides/how-to-use-myway-route-planner.md#optimization-mode) is one of the most fundamental settings for route optimization. There are two options: **Optimize for Time** (more efficient) and **Optimize for Distance**.
 
-Clearly, the “best route” means different things to different people. For most people, the best route would be the fastest one. For some, though, it may be the shortest path. And some may prefer a trip that uses highways or avoids tolls and tunnels. Besides, the fastest or shortest route may not always be the most efficient. For instance, the quickest route might have many left turns, and the shortest mileage route may drive through heavy traffic. In both these route options, your fuel consumption will go up significantly. Also, what if the fastest route is three minutes faster but several miles longer? Is it still an efficient one? What if the shortest path allows you to drive 5 miles less but makes you go through two tolls? Is it an efficient one? Pick the one you believe will serve you better or keep "Optimize for Time" by default.
+Clearly, the "best route" means different things to different people. For most people, the best route is the fastest one. For some, though, it's the shortest path. And some prefer a trip that uses highways or avoids tolls and tunnels. Besides, the fastest or shortest route isn't always the most efficient. For instance, the quickest route might have many left turns, and the shortest one might go through heavy traffic. On both of these routes, your fuel consumption goes up significantly. And what if the fastest route is three minutes faster but several miles longer? Is it still efficient? What if the shortest path saves you 5 miles but takes you through two tolls? Is that efficient? Pick the option you believe will serve you better, or keep the default, **Optimize for Time**.
 
 ### **Allow U-turns on Waypoints**
 
-The app can build more efficient routes when "Allow U-turns on Waypoints" is on (Preferences > Directions; it's turned on by default). The downside of this is more U-turns, which in some cases are less convenient and less safe if you drive a bigger vehicle. Turning U-turns off can increase the route length. Below, you can see an example of how this setting affects route optimization. On the left option, the app will suggest making a u-turn and on the right one to go through a roundabout.
+The app can build more efficient routes when **Allow U-turns on Waypoints** is on (**Preferences** > **Directions**; on by default). The downside is more U-turns, which are sometimes less convenient and less safe if you drive a bigger vehicle. Turning U-turns off can make the route longer. Below is an example of how this setting changes the route: on the left, the app suggests a U-turn; on the right, it goes through a roundabout.
 
 <div><figure><img src="../.gitbook/assets/photo_2022-11-25 20.32.50.jpeg" alt="" width="375"><figcaption><p>Allow U-turns turned ON</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo_2022-11-25 20.32.47.jpeg" alt="" width="375"><figcaption><p>Allow U-turns turned OFF</p></figcaption></figure></div>
 
 ### **Side of Road**
 
-The "Side of Road" setting tells the app which side of the road you (as a driver) want to park on. If you choose "Any Side", the app builds the most optimal route, but sometimes you have to park on the other side from your stop and cross the road. If you choose "Same Side as Stop", you don't have to cross the road, but the route may be longer. "Across from Stop" means you park on the opposite side and cross the road on foot.
+**Side of Road** tells the app which side of the road you (as a driver) want to park on:
+
+* **Any Side**: the app builds the most optimal route, but sometimes you park on the other side from your stop and cross the road.
+* **Same Side as Stop**: you don't have to cross the road, but the route may be longer.
+* **Across from Stop**: you park on the opposite side and cross the road on foot.
 
 ### **Snap to Road**
 
-"Snap to Road" (Preferences > Directions, on by default) moves each stop to the nearest point on a main road, so the route and navigation avoid backyards and service roads. The point may sit a bit farther from the actual location. Turn it off if your stops are inside large areas (like campuses or industrial parks) and you need to drive closer to the entrance.
+**Snap to Road** (**Preferences** > **Directions**, on by default) moves each stop to the nearest point on a main road, so the route and navigation avoid backyards and service roads. The point may be a bit farther from the actual location. Turn it off if your stops are inside large areas (like campuses or industrial parks) and you need to drive closer to the entrance.
 
 ### **Road Restrictions**
 
@@ -67,34 +74,33 @@ The "Side of Road" setting tells the app which side of the road you (as a driver
 {% hint style="info" %}
 Examples:
 
-**If you need the most efficient (convenient) route,** please choose "Optimize for Time", turn off U-turns, and pick the side of road you want (or keep default settings). In this case, the route might look like a clover shape.
+**If you need the most efficient (convenient) route,** choose **Optimize for Time**, turn off U-turns and pick the side of road you want (or keep the default settings). The route might look like a clover.
 
-**If you need the best-looking (but not optimal) route,** please choose "Optimize for Distance", allow U-turns, and keep "Any Side".
+**If you need the best-looking (but not optimal) route,** choose **Optimize for Distance**, allow U-turns and keep **Any Side**.
 {% endhint %}
 
 ## Stop Settings that affect route optimization
 
 ### Time at Stop (Service Time)
 
-Time at stop greatly affects overall route time and can play a significant role when you build your route. [Please make sure you set the correct time at stop](what-service-time-should-you-choose.md) when you plan your route.
+Time at stop has a big effect on the total route time and can play a significant role when you build your route. [Make sure you set the right time at stop](what-service-time-should-you-choose.md) when you plan your route.
 
-### Time Windows&#x20;
+### Time Windows
 
-Time windows play a crucial role in route optimization. Each stop has a designated time window—an interval when deliveries or visits must occur. The app ensures that all stops are scheduled within their time windows, which can significantly influence the route order and timing.
+Time windows play a crucial role in route optimization. A time window is the interval when a delivery or visit must happen. The app schedules every stop within its time window, which can change the route order and timing a lot.
 
-If a stop has a strict time window, the app may prioritize it even if it's not in the most geographically efficient sequence. This can cause the route to take detours or adjust the timing of other stops to meet these constraints. The more [restrictive the time windows](../guides/understanding-stop-settings.md#time-windows), the more they can impact the overall optimization, often at the expense of shorter distances or faster completion times. [Priority](../guides/understanding-stop-settings.md#priority-asap-button) also affects optimization: "First" stops stay at the beginning of the route, "Last" stops at the end, and "High" stops are visited among the first.
+If a stop has a strict time window, the app may prioritize it even if that breaks the most efficient sequence geographically. This can cause detours or shift the timing of other stops. The more [restrictive the time windows](../guides/understanding-stop-settings.md#time-windows), the more they affect the optimization, often at the cost of distance or total time. [Priority](../guides/understanding-stop-settings.md#priority-asap-button) also affects optimization: **First** stops stay at the beginning of the route, **Last** stops at the end, and **High** stops are visited among the first.
 
 ## My route goes "forward/backward" direction from what I need.
 
-Routes don't follow a "forward/backward" concept. Route has two states, it's either optimal or not. The app builds the most efficient path based on many parameters that we described above, but also has, start, and end locations. If the route seems "backward," from what you need try removing the end location to reduce this chance. Keep in mind, that app still optimizes the route and may not perfectly match your desired order.
+Routes don't have a "forward" or "backward" direction: a route is either optimal or not. The app builds the most efficient path based on all the parameters described above, including the start and end locations. If the route seems "backward" from what you need, try removing the end location: this makes it less likely. Keep in mind that the app still optimizes the route, so the order may not match exactly what you want.
 
-Alternatively, you can manually reverse the route: tap "…" in the route header > More > "Reverse Stop Order". This flips the stop order (except priority stops) to better suit your needs.
+You can also reverse the route yourself: tap **…** in the route header > **More** > **Reverse Stop Order**. This flips the stop order (except priority stops).
 
 ## How to report bad optimization?
 
-In MyWay Route Planner, tap the menu button (three lines, top right corner of the map) and then "Talk to Us". Write us a message, and we will try to fix optimization for you. Please also share a screenshot that highlights the issue and [share the route copy](../guides/export-your-route-and-share-it-with-others.md#share-route-copy) with us, so we can easily see the problem on our side.
+Open the menu (☰, top right) and tap **Talk to Us**. Write us a message, and we will try to fix the optimization for you. Add a screenshot that shows the issue and [share the route copy](../guides/export-your-route-and-share-it-with-others.md#share-route-copy) with us, so we can see the problem on our side.
 
-Also, when you complete a route, MyWay asks "How was your route?". Tap "Had Issues" and then "Send Feedback": the chat opens with your route attached, so we can see which route you mean.
+You can also tell us when you complete a route: MyWay asks "How was your route?". Tap **Had Issues** and then **Send Feedback**: the chat opens with your route attached, so we can see which route you mean.
 
-The app can optimize full-loop routes and even routes without an endpoint. We work with thousands of drivers across the globe to make sure the optimization works as efficiently as possible.&#x20;
-
+The app can optimize full-loop routes and even routes without an end location. We work with thousands of drivers across the globe to make sure the optimization works as efficiently as possible.

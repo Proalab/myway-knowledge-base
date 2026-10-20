@@ -1,5 +1,5 @@
 ---
-description: or address is wrong
+description: Or the address is wrong
 ---
 
 # I can't find an address
@@ -8,42 +8,47 @@ description: or address is wrong
 **Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/i-cant-find-an-address).
 {% endhint %}
 
-MyWay has the most up-to-date database of addresses and places from Google Maps, Mapbox, HERE, TomTom, Apple Maps, ArcGIS and OpenStreetMap combined into one route planner. It means we do not rely on data from only one provider. However, it might be the case when an address is not in our database or it's inaccurate. Let's face it - every provider out there works better in some areas and not that great in others.
+MyWay combines the most up-to-date databases of addresses and places from Google Maps, Mapbox, HERE, TomTom, Apple Maps, ArcGIS and OpenStreetMap in one route planner, so we don't rely on a single provider. Still, an address may be missing from our database or be inaccurate. Let's face it: every provider out there works better in some areas and not that great in others.
 
 ### Changing Data Provider (Address Geocoding Service)
 
-No data providers build the same. Some data providers work best in one region, another one in another. Sometimes it can be useful to change data providers and MyWay provides you with such an option. If you can't find addresses often, try to change the data provider in the app settings: menu (three lines, top right corner of the map) > Preferences > "Geocoder". You can choose Apple, ArcGIS or HERE. By default, MyWay picks the provider that works best for your iPhone's region.
+No two data providers are the same: one works best in one region, another in a different one. That's why MyWay lets you change the provider. If you often can't find addresses, try another one:
+
+1. Open the menu (☰, top right) and tap **Preferences**.
+2. Tap **Geocoder** and choose Apple, ArcGIS or HERE.
+
+By default, MyWay picks the provider that works best for your iPhone's region.
 
 <figure><img src=".gitbook/assets/Screenshot 2024-04-15 at 10.05.43.jpeg" alt="" width="188"><figcaption><p>Geocoding Data Provider Options</p></figcaption></figure>
 
 {% hint style="info" %}
-You also can change the geocoding provider from the address search screen: tap "Select Geocoder" under "Can't find address?", or "Change Geocoder" when the search has no results, and try a different one. The search screen shows which provider found the results ("Search data provided by…").
+You can also switch the provider right on the address search screen: tap **Select Geocoder** under "Can't find address?", or **Change Geocoder** when the search has no results. The search screen shows which provider found the results ("Search data provided by…").
 {% endhint %}
 
 {% hint style="success" %}
-For the USA, United Kingdom, Europe, Canada, and Australia we recommend Apple or HERE, for the rest of the countries ArcGIS or HERE.
+**Our recommendation:** for the USA, United Kingdom, Europe, Canada and Australia, use Apple or HERE; for other countries, ArcGIS or HERE.
 {% endhint %}
 
-### If the app recognizes addresses wrong, suggest another state or country
+### If the app suggests addresses in the wrong state or country <a href="#if-the-app-recognizes-addresses-wrong-suggest-another-state-or-country" id="if-the-app-recognizes-addresses-wrong-suggest-another-state-or-country"></a>
 
-The app relies on a geocoding service and uses the stops already in your route (the last added stop, start or end) or your current location as a reference for searches. If location access is disabled or you previously added a stop in another state or country, that location might be affecting your results.
+MyWay searches for addresses around a reference point: the stops already in your route (the last added stop, the start or the end) or your current location. If location access is off, or you added a stop in another state or country earlier, that place can pull your search results there.
 
-**How to Fix It:**
+**How to fix it:**
 
-* Check Location Access – Ensure the app has permission to access your location.
-* Verify Geocoding Provider – If there were recent changes, the app might be using a different provider with less accurate results.
-* Set the Correct Search Context – Manually add the first stop in your actual area before pasting the full list.
+* **Check location access.** Make sure MyWay is allowed to use your location.
+* **Check the geocoder.** If it was changed recently, MyWay may be using a provider with less accurate results in your area.
+* **Set the search area.** Add the first stop in your actual area by hand before you paste the full list.
 
 ### If the app navigates you to a wrong address
 
-The app may navigate you to a different address if navigation "By Address" is selected in "Navigation Precision". MyWay offers two methods for sending stops to navigation apps like Google Maps, Apple Maps, and Waze. [Check this article to understand the difference between these navigation options](guides/understand-navigation-settings.md#navigation-types-coordinates-or-address).
+This can happen when **Navigation Precision** is set to **By Address**. MyWay can send stops to navigation apps like Google Maps, Apple Maps and Waze in two ways. [See the difference between these navigation options](guides/understand-navigation-settings.md#navigation-types-coordinates-or-address).
 
 ### How to report an incorrect address in MyWay Route Planner?
 
-In MyWay Route Planner, tap the menu button (three lines, top right corner of the map) and then "Talk to Us". Write us a message, and we will try to fix this incorrect address for you. Please provide us with addresses and screenshots so we can identify the problem and get it fixed in address databases.
+Open the menu (☰, top right) and tap **Talk to Us**. Send us the addresses and screenshots, and we will try to fix them in the address databases.
 
 ### How to report an incorrect address in Navigation Apps?
 
-If you want to report an incorrect (or missing) address, we recommend doing this through **Google Maps** (short instructions on how to do this [here](https://support.google.com/maps/answer/6194894?co=GENIE.Platform%3DDesktop\&hl=en\&oco=1)) or through OpenStreetMap ([here](https://www.openstreetmap.org/fixthemap))
+To report a wrong or missing address, we recommend doing it in **Google Maps** ([short instructions](https://support.google.com/maps/answer/6194894?co=GENIE.Platform%3DDesktop\&hl=en\&oco=1)) or in OpenStreetMap ([here](https://www.openstreetmap.org/fixthemap)).
 
-As soon as your report is reviewed and approved by Google or the OpenStreetMap community, you will see the correct address in your navigator and in MyWay Route Planner as well.
+Once Google or the OpenStreetMap community reviews and approves your report, you'll see the correct address in your navigation app and in MyWay Route Planner too.

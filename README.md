@@ -1,5 +1,5 @@
 ---
-description: Learn how to do things in MyWay Route Planner.
+description: How to plan, optimize and run your routes with MyWay Route Planner.
 ---
 
 # MyWay Knowledge Base - Home
@@ -8,7 +8,7 @@ description: Learn how to do things in MyWay Route Planner.
 **Using MyWay on Android?** This knowledge base describes the iOS app version 3. For the Android app, see [Version 2](https://help.mywayroute.com/).
 {% endhint %}
 
-**MyWay Route Planner builds very efficient routes.** MyWay app makes your routes about 30% shorter on average by optimizing the sequence of stops, saving you time and money on fuel ([see the data behind these figures](https://www.mywayroute.com/blog/how-much-does-route-optimization-save)). Available from the [App Store](https://apps.apple.com/app/apple-store/id1557014712?pt=120907681\&ct=FromWebsite\&mt=8), [Google Play](https://play.google.com/store/apps/details?id=com.proalab.mywayapp) (for the Android app, see [Version 2 of this knowledge base](https://help.mywayroute.com/)) and Web (coming soon).
+**MyWay Route Planner builds very efficient routes.** It puts your stops in the best order, which makes routes about 30% shorter on average and saves you time and money on fuel ([see the data behind these figures](https://www.mywayroute.com/blog/how-much-does-route-optimization-save)). MyWay is available on the [App Store](https://apps.apple.com/app/apple-store/id1557014712?pt=120907681\&ct=FromWebsite\&mt=8), [Google Play](https://play.google.com/store/apps/details?id=com.proalab.mywayapp) (for the Android app, see [Version 2 of this knowledge base](https://help.mywayroute.com/)) and Web (coming soon).
 
 <table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>How to use MyWay Route Planner</strong></td><td></td><td></td><td><a href="guides/how-to-use-myway-route-planner.md">how-to-use-myway-route-planner.md</a></td></tr><tr><td><strong>Optimization Settings</strong></td><td></td><td></td><td><a href="guides/understand-optimisation-settings.md">understand-optimisation-settings.md</a></td></tr><tr><td><strong>Stop Settings</strong></td><td></td><td></td><td><a href="guides/understanding-stop-settings.md">understanding-stop-settings.md</a></td></tr><tr><td><strong>Navigation Settings</strong></td><td></td><td></td><td><a href="guides/understand-navigation-settings.md">understand-navigation-settings.md</a></td></tr><tr><td><strong>Managing your routes</strong></td><td></td><td></td><td><a href="guides/managing-your-routes.md">managing-your-routes.md</a></td></tr><tr><td><strong>Import Routes</strong></td><td></td><td></td><td><a href="guides/import-from-file-and-multi-line-import.md">import-from-file-and-multi-line-import.md</a></td></tr><tr><td><strong>Export Route &#x26; Share with others</strong></td><td></td><td></td><td><a href="guides/export-your-route-and-share-it-with-others.md">export-your-route-and-share-it-with-others.md</a></td></tr><tr><td><strong>Can't find Address</strong></td><td></td><td></td><td><a href="i-cant-find-an-address.md#changing-data-provider-address-geocoding-service">#changing-data-provider-address-geocoding-service</a></td></tr><tr><td><strong>Contact Us</strong></td><td></td><td></td><td><a href="how-to-contact-us.md">how-to-contact-us.md</a></td></tr></tbody></table>
 
@@ -68,7 +68,7 @@ description: Learn how to do things in MyWay Route Planner.
 
 ## Guides
 
-Follow our handy guides to get started on the basics as quickly as possible:
+Step-by-step guides to planning, running and sharing your routes:
 
 {% content-ref url="guides/how-to-use-myway-route-planner.md" %}
 [how-to-use-myway-route-planner.md](guides/how-to-use-myway-route-planner.md)
@@ -122,7 +122,7 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 ## FAQ
 
-Read our FAQ to understand how MyWay works:
+Quick answers, what error messages mean, and why a route looks the way it does:
 
 {% content-ref url="faq/common-questions.md" %}
 [common-questions.md](faq/common-questions.md)
@@ -160,7 +160,7 @@ Read our FAQ to understand how MyWay works:
 
 ## Subscription Management
 
-What to do if you have issues with your subscription:
+Plans, payments, receipts, refunds and other subscription questions:
 
 {% content-ref url="subscription-management/myway-does-not-recognize-my-subscription.md" %}
 [myway-does-not-recognize-my-subscription.md](subscription-management/myway-does-not-recognize-my-subscription.md)

@@ -1,5 +1,5 @@
 ---
-description: Learn about how to upgrade or downgrade your subscription on iPhone and iPad
+description: Switch between the Monthly and Annual plans on iPhone and iPad
 ---
 
 # How to upgrade/downgrade MyWay subscription?
@@ -8,45 +8,41 @@ description: Learn about how to upgrade or downgrade your subscription on iPhone
 **Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/subscription-management/how-to-upgrade-downgrade-myway-subscription).
 {% endhint %}
 
-If your subscription is not recognised, please follow [this instruction](myway-does-not-recognize-my-subscription.md) before doing any upgrade or downgrade.
-
 MyWay has two plans: Monthly and Annual.
+
+If MyWay doesn't recognize your subscription, [fix that first](myway-does-not-recognize-my-subscription.md), then change your plan.
 
 ### **Upgrade from Monthly to Annual in the app** <a href="#ios-iphone-or-ipad" id="ios-iphone-or-ipad"></a>
 
-* Tap the menu button (three lines, top right corner of the map).
-* In the "Subscription" section, tap "Switch to Annual Plan". It shows how much you save with the annual plan.
-* Tap "Upgrade" and confirm the purchase.
+1. Open the menu (☰, top right).
+2. In the **Subscription** section, tap **Switch to Annual Plan**. The screen shows how much you save with the annual plan.
+3. Tap **Upgrade** and confirm the purchase.
 
 Your plan switches at the next renewal date of your monthly plan, so you are not charged twice. MyWay shows the date of the switch.
 
 ### **Change your subscription in iPhone Settings**
 
-You can also change your subscription (for example, from Annual back to Monthly) in your iPhone Settings:
+To make other changes, for example to go from Annual back to Monthly, use your iPhone Settings:
 
-* Open the Settings app <img src="https://help.apple.com/assets/61B370B8020DEA0A024710E6/61B370BA020DEA0A02471109/en_US/492fec5aff74dbdef9b526177c3804b4.png" alt="" data-size="line">
-* Make sure you're signed in with the correct Apple ID.
-* Tap your name
-* Tap "Subscriptions"
-* Select the MyWay subscription (\*)
-* Select a new subscription type from the available options
-* Confirm the new subscription
+1. Open the **Settings** app <img src="https://help.apple.com/assets/61B370B8020DEA0A024710E6/61B370BA020DEA0A02471109/en_US/492fec5aff74dbdef9b526177c3804b4.png" alt="" data-size="line">
+2. Make sure you're signed in with the correct Apple ID.
+3. Tap your name, then **Subscriptions**.
+4. Tap the MyWay subscription.
+5. Choose a new plan from the available options.
+6. Confirm the new subscription.
 
-You can also open this screen from MyWay: menu > "Manage Subscription".
+You can also open this screen from MyWay: open the menu (☰, top right) and tap **Manage Subscription**.
 
 ### Google Play Store (Android)
 
-You can change your subscription from your Google Play Store
-
-* Open the Google Play Store app&#x20;
-* Make sure you're signed in with the correct Google Account.
-* Tap "Payments and Subscriptions"
-* Tap the profile icon in the top right-hand corner of the screen
-* Go to "Subscriptions"
-* Select the MyWay subscription (\*)
-* Select a new subscription type from the available options.
-* Confirm new subscription
+1. Open the Google Play Store app.
+2. Make sure you're signed in with the correct Google account.
+3. Tap the profile icon (top right).
+4. Tap **Payments and subscriptions** > **Subscriptions**.
+5. Select the MyWay subscription.
+6. Choose a new plan from the available options.
+7. Confirm the new subscription.
 
 {% hint style="warning" %}
-_\*If MyWay is not shown in your list of subscriptions, it means you don't have an active subscription for this Apple ID._
+If MyWay is not in your list of subscriptions, you don't have an active subscription for this Apple ID or Google account.
 {% endhint %}

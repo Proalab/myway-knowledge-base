@@ -10,11 +10,11 @@ description: Short answers to questions we often get about what MyWay can and ca
 
 ### Does MyWay have built-in turn-by-turn navigation?
 
-No. MyWay plans and optimizes your route, and then opens each stop in your favorite navigation app (Apple Maps, Google Maps, Waze and others) when you tap "Go". Apple Maps and Google Maps can also take up to 10 stops at once. [More](../guides/understand-navigation-settings.md)
+No. MyWay plans and optimizes your route. When you tap **Go**, it opens the stop in your favorite navigation app (Apple Maps, Google Maps, Waze and others). Apple Maps and Google Maps can also take up to 10 stops at once. [More](../guides/understand-navigation-settings.md)
 
 ### Does MyWay work with Apple CarPlay or Android Auto?
 
-Not yet. CarPlay and Android Auto support is coming soon. Meanwhile, your navigation app works in CarPlay as usual after you tap "Go" in MyWay.
+Not yet. CarPlay and Android Auto support is coming soon. Meanwhile, after you tap **Go** in MyWay, your navigation app works in CarPlay as usual.
 
 ### Is there an API?
 
@@ -30,7 +30,7 @@ No. You can use MyWay without signing up. Your subscription is linked to your Ap
 
 ### How do I move my routes to a new iPhone?
 
-Your routes are stored on your iPhone and are not synced between devices. To move a route, [share a route copy](../guides/export-your-route-and-share-it-with-others.md#share-route-copy) and open the link on the new iPhone. Your subscription moves with your Apple ID: tap "Restore Purchases" on the new iPhone. [More](../subscription-management/use-myway-on-multiple-devices.md)
+Your routes are stored on your iPhone and don't sync between devices. To move a route, [share a route copy](../guides/export-your-route-and-share-it-with-others.md#share-route-copy) and open the link on the new iPhone. Your subscription moves with your Apple ID: tap **Restore Purchases** on the new iPhone. [More](../subscription-management/use-myway-on-multiple-devices.md)
 
 ### Can several drivers use one subscription?
 
@@ -38,7 +38,7 @@ No. Each driver needs their own subscription. To give a route to another driver,
 
 ### Can I go back to the previous version of the app?
 
-No, the App Store doesn't allow installing older versions. If something works differently than you expect, please [contact us](../how-to-contact-us.md), and see [What's new in MyWay 3](../what-is-myway-route-planner/whats-new-in-myway-3.md).
+No, the App Store doesn't allow installing older versions. See [What's new in MyWay 3](../what-is-myway-route-planner/whats-new-in-myway-3.md), and if something works differently than you expect, [contact us](../how-to-contact-us.md).
 
 ### Where are my routes from the previous version?
 
@@ -46,7 +46,7 @@ MyWay 3 moves your routes and saved places from the previous version the first t
 
 ### Do you offer phone support or demos?
 
-We don't offer phone support, demos or sales calls. Please write to us in the app chat ("Talk to Us") or by email at support@mywayroute.com. [More](../how-to-contact-us.md)
+We don't offer phone support, demos or sales calls. Write to us in the app chat (**Talk to Us** in the menu) or by email at support@mywayroute.com. [More](../how-to-contact-us.md)
 
 ### Why does the app show the Premium offer?
 
