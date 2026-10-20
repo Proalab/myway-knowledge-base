@@ -6,17 +6,17 @@ description: >-
 
 # How can I get a receipt for my purchase?
 
-We do not store your credit card details and do not charge your bank account directly. All purchases on iPhone or iPad go through Apple App Store, and all purchases on Android devices are handled by Google Play Market. Both those marketplaces are going to send you a receipt of your purchase 3-14 days after you make a purchase (it actually depends on when they charge your payment method for a subscription). That receipt can potentially be used to claim expenses, and those claims can help you to reduce the tax you pay if you use the app for your business.
+{% hint style="info" %}
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/subscription-management/how-can-i-get-a-receipt-for-my-purchase).
+{% endhint %}
 
-If you did not receive the receipt in your email, please check the articles below for more support&#x20;
+We do not store your credit card details and do not charge your bank account directly. All purchases on iPhone or iPad go through the Apple App Store. Apple sends you a receipt by email after it charges your payment method for the subscription (it can take a few days after the purchase or renewal). That receipt can potentially be used to claim expenses, and those claims can help you to reduce the tax you pay if you use the app for your business.
 
-### **Apple App Store (iOS, iPad OS)**
+If you did not receive the receipt in your email, please check the article below for more support.
 
-[Here, ](https://support.apple.com/en-us/HT204088)you can find more information on how to view your purchase history and get a receipt for your payments on the App Store.
+### **Apple App Store (iOS, iPadOS)**
 
-### **Google Play Store (Android)** <a href="#h_691eedbd54" id="h_691eedbd54"></a>
-
-If you follow [this link](https://pay.google.com/), you can see all the payments made through your Google account. You can export the tax invoice for every payment from there.
+[Here](https://support.apple.com/en-us/HT204088), you can find more information on how to view your purchase history and get a receipt for your payments on the App Store.
 
 {% hint style="warning" %}
 * Please note that the information provided in this article is for general information only.

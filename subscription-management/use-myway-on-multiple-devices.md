@@ -4,10 +4,16 @@ description: or migrate subscription from one device to another
 
 # Use MyWay on multiple devices
 
-It's possible to use MyWay on multiple devices. To set up a second device, you need to log in with the Apple ID or Google account you used to initially subscribe to MyWay.
+{% hint style="info" %}
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/subscription-management/use-myway-on-multiple-devices).
+{% endhint %}
 
-After logging in with the correct account, you need to either [restore the subscription](myway-does-not-recognize-my-subscription.md) on an iOS device or verify it on your Android device. Please check the instructions on how to do that [here](myway-does-not-recognize-my-subscription.md).
+You can use your MyWay subscription on several iPhones and iPads. To set up another device, sign in to the App Store with the same Apple ID you used to subscribe, install MyWay and [restore the subscription](myway-does-not-recognize-my-subscription.md): menu > "Restore Purchases".
 
-Keep in mind that **you can't share an account with another driver**. it's not possible to use different routes on multiple devices at the same time except if you have a business subscription (that supports route sharing between devices).
+{% hint style="warning" %}
+Your routes and saved places are stored on each device separately and don't sync between devices. To move a route to another device, [share a route copy](../guides/export-your-route-and-share-it-with-others.md#share-route-copy) and open the link on that device.
+{% endhint %}
 
-If you'd like to [change your payment method](how-to-change-or-add-a-payment-method.md) or [cancel the subscription](how-to-cancel-your-myway-subscription.md) later, you'll need to do that on the platform you've originally subscribed to (iOS or Android).
+Keep in mind that **you can't share an account with another driver**.
+
+A subscription bought on iPhone doesn't work on Android, and the other way round. If you'd like to [change your payment method](how-to-change-or-add-a-payment-method.md) or [cancel the subscription](how-to-cancel-your-myway-subscription.md) later, you'll need to do that on the platform you originally subscribed on (iOS or Android).
