@@ -58,7 +58,7 @@ When you build a route, the app builds a matrix of real road distances between e
 
 This can happen if your vehicle type is a big vehicle, like a truck (lorry). The issue appears when the optimization algorithm can't find any way for this type of vehicle to reach one or more stops (low bridges, narrow roads not suitable for a long or tall vehicle, etc.). It's easy to fix: change the vehicle type to **Car**. Don't worry, most vehicles do just fine on routes for a car or van. Only trucks that are long, tall or big will face issues, and they absolutely must use **Small Truck** or **Truck** as the vehicle type.
 
-<figure><img src="../.gitbook/assets/IMG_876E6FA62F24-1.jpeg" alt="" width="188"><figcaption><p>Vehicle type settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/vehicle-picker.png" alt="" width="188"><figcaption><p>Vehicle type settings</p></figcaption></figure>
 
 {% hint style="info" %}
 [Vehicle Type](../guides/understand-vehicle-settings.md) and [route settings](../guides/how-to-use-myway-route-planner.md#route-settings) affect how the route looks, its time and distance, and how "correct" and convenient it is overall. [Make sure you use the right settings](the-route-myway-produced-doesnt-look-correct.md) to get the best results for your needs.

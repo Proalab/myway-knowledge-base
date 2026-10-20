@@ -8,11 +8,11 @@ MyWay Route Planner, like no other app on the market, supports multi-day routes,
 
 <div>
 
-<figure><img src="../.gitbook/assets/AB6E8348-31B2-417E-AB44-1ACD66435298.PNG" alt="" width="188"><figcaption><p>Multi-Day Optimization</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/multi-day-optimize.png" alt="" width="188"><figcaption><p>Multi-Day Optimization</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/71EDB218-ACF0-45E5-B462-DC6EE9C78174.PNG" alt="" width="188"><figcaption><p>Multi-Day Trip</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/multi-day-trip.png" alt="" width="188"><figcaption><p>Multi-Day Trip</p></figcaption></figure>
 
 </div>
 

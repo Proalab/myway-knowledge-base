@@ -16,21 +16,19 @@ To help you build routes quicker, MyWay has two sources of stops besides the add
 
 Contacts let you add addresses from your iPhone address book. If you give MyWay access to your contacts, it adds them to your route as stops together with their details: name, company, phone numbers and email. To open your contacts, tap **Add Stop** or the magnifier button in the top left corner of the map, and then tap **Contacts**.
 
-<figure><img src="../.gitbook/assets/B8239E66-ACD9-4D1E-8F34-FDEF6872F09D (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/how-to-use-add-stop.png" alt="" width="188"><figcaption></figcaption></figure>
 
 Select one or several contacts and tap **Add to Route**. MyWay finds each contact's address and adds it as a stop. The contact details are saved in the stop's Contact section.
 
 <div>
 
-<figure><img src="../.gitbook/assets/Simulator Screenshot - iPhone 12 Pro - 2023-10-11 at 17.02.02 (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/contacts-list.png" alt="" width="188"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Simulator Screenshot - iPhone 12 Pro - 2023-10-11 at 17.04.22.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/contacts-selected.png" alt="" width="188"><figcaption></figcaption></figure>
 
 </div>
-
-<figure><img src="../.gitbook/assets/Simulator Screenshot - iPhone 12 Pro - 2023-10-11 at 17.04.30.png" alt="" width="188"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If MyWay can't find a contact's address, it asks you to set one: tap **Set Address**. If MyWay has no access to your contacts, tap **Open Settings** and allow access there. MyWay doesn't store your contacts on its servers.
@@ -45,19 +43,7 @@ First, build your list of places: open the menu (☰, top right) and tap **Place
 * create a new place: tap **+** (or **Add Place**);
 * import places from your address book: tap **Import from Contacts**, select the contacts and tap **Add**. MyWay shows the address it found under each contact name, so you can check it before adding. The contact details are saved in the place's Contact section.
 
-<div>
-
-<figure><img src="../.gitbook/assets/Simulator-Screenshot-iPhone-12-Pro-2023-10-11-at-17-09-36 (3).png" alt="" width="188"><figcaption><p>Main Screen</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Simulator-Screenshot-iPhone-12-Pro-2023-10-11-at-17-09-38 (3).png" alt="" width="188"><figcaption><p>Menu</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Simulator Screenshot - iPhone 12 Pro - 2023-10-11 at 17.11.57 (2).png" alt="" width="188"><figcaption><p>Saved Places</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/app-menu.png" alt="" width="188"><figcaption><p>Menu</p></figcaption></figure> <figure><img src="../.gitbook/assets/places-list.png" alt="" width="188"><figcaption><p>Saved Places</p></figcaption></figure> <figure><img src="../.gitbook/assets/places-import-contacts.png" alt="" width="188"><figcaption><p>Import from Contacts</p></figcaption></figure></div>
 
 A place has the same settings as a stop: name, color, icon, notes, tags, time at stop, contact details and time window. To change them, open the place and tap **Edit**. When you add a place to a route, the stop gets these settings.
 
@@ -71,27 +57,11 @@ There are several ways to add places to your route:
 * **From Saved Places**: open a place, tap **…** and choose **Add to Route**.
 * **Several places at once**: in Saved Places, tap **…** > **Select** and select the places. For example, filter by your *work* tag first and tap **Select All**. Then tap **…** at the bottom and choose your current route under **Add to Current Route**.
 
-<div>
-
-<figure><img src="../.gitbook/assets/Simulator-Screenshot-iPhone-12-Pro-2023-10-11-at-17-19-38.png" alt="" width="188"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Simulator Screenshot - iPhone 12 Pro - 2023-10-11 at 17.21.14.png" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/places-add-to-route-menu.png" alt="" width="188"><figcaption><p>Add a place to the route</p></figcaption></figure> <figure><img src="../.gitbook/assets/places-add-to-current-route.png" alt="" width="188"><figcaption><p>Add selected places</p></figcaption></figure></div>
 
 To see your places on the map, tap the layers button (top right, below the menu button) and turn on **Saved Places**. Tap a place on the map to open it.
 
-<div>
-
-<figure><img src="../.gitbook/assets/Simulator-Screenshot-iPhone-12-Pro-2023-10-11-at-17-18-52.png" alt="" width="188"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Simulator-Screenshot-iPhone-12-Pro-2023-10-11-at-17-19-08.png" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/places-layers.png" alt="" width="188"><figcaption><p>Saved Places in the map layers</p></figcaption></figure> <figure><img src="../.gitbook/assets/places-on-map.png" alt="" width="188"><figcaption><p>Saved places on the map</p></figcaption></figure></div>
 
 ### Stops and places
 

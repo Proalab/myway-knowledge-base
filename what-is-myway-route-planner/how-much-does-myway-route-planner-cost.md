@@ -29,8 +29,6 @@ We have two [premium options](https://mywayroute.com/pricing), and prices vary b
 
 You see the price for your country in the app before you subscribe. If you're on the Monthly Plan, you can switch to the Annual Plan: open the menu and tap **Switch to Annual Plan**.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-12 at 10.52.49 AM.png" alt=""><figcaption><p>MyWay Route Planner Pricing</p></figcaption></figure>
-
 If MyWay isn't right for you, **you can cancel any time during your trial and won't be billed**. If you keep using MyWay, your monthly (or annual) subscription starts automatically when the trial ends.
 
 You can [cancel your subscription](../subscription-management/how-to-cancel-your-myway-subscription.md) at any time. After you cancel, you keep Premium until the end of your billing period and aren't billed again.

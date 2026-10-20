@@ -16,7 +16,7 @@ After you download the app from the [App Store](https://apps.apple.com/us/app/de
 
 ### Add Stops
 
-<figure><img src="../.gitbook/assets/31E7C164-62C4-4D63-BF39-61DC41908108.PNG" alt="" width="188"><figcaption><p>Main Screen (Route Edit Mode)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/how-to-use-main-screen.png" alt="" width="188"><figcaption><p>Main Screen (Route Edit Mode)</p></figcaption></figure>
 
 Every route starts somewhere. Tap **Add Start Location** and choose where you begin, for example your depot or home. The start location is required.
 
@@ -35,7 +35,7 @@ Besides the address search, the **Add Stop** screen lets you add stops from:
 * **Voice**: say an address
 * **Import**: add stops [from an XLSX or CSV file](import-from-file-and-multi-line-import.md#import-from-file)
 
-<figure><img src="../.gitbook/assets/IMG_05721C672DDD-1.jpeg" alt="" width="188"><figcaption><p>Add Stop options</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/how-to-use-add-stop.png" alt="" width="188"><figcaption><p>Add Stop options</p></figcaption></figure>
 
 ### More ways to add a stop
 
@@ -70,7 +70,7 @@ Swipe the row to the left to see all settings. A highlighted setting means this 
 
 **Route settings are very important and can dramatically change your route time, distance and the way it looks.** Take some time to experiment with them, because there is no one-size-fits-all solution.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-07-08 at 13.56.00.jpeg" alt="" width="188"><figcaption><p>Route Settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/how-to-use-route-settings.png" alt="" width="188"><figcaption><p>Route Settings</p></figcaption></figure>
 
 {% hint style="info" %}
 **A tip from us:** you can plan a route in advance. Set the departure time, and MyWay calculates the ETAs from it. After you tap **Start Route**, the start location stays the current step with its own **Start Route** button. Tap it only when you actually leave: MyWay marks the start as done and recalculates all ETAs from that moment. This keeps your ETAs accurate and the traffic data up to date.
@@ -131,7 +131,7 @@ MyWay shows two versions of your route, each with the time you'll be done by and
 
 Tap a version, then tap **Keep Stop Order** (for Current) or **Optimize Stop Order** (for Optimized). The button also shows how much time and distance the optimized order saves.
 
-![Choose optimization type.](../.gitbook/assets/7BED01AC-A777-44AC-A05A-71EE5F247974.PNG)
+<figure><img src="../.gitbook/assets/how-to-use-optimize-route.png" alt="" width="188"><figcaption><p>Choose the stop order</p></figcaption></figure>
 
 {% hint style="warning" %}
 Sometimes an optimized route takes more time or covers a longer distance than the route without optimization. This happens because optimization considers all stop settings: [time windows, priority and time at stop affect your route's overall time and distance](understanding-stop-settings.md). Our **algorithm builds the most efficient route possible, considering all these parameters**. It may only look less efficient than the current order, because the **current order simply ignores all parameters**. To learn more, see our [article that explains how the route optimization algorithm works](../faq/the-route-myway-produced-doesnt-look-correct.md).
@@ -141,7 +141,7 @@ Sometimes an optimized route takes more time or covers a longer distance than th
 MyWay shows you late arrivals and [issues](../faq/why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md#stops-with-issues) so you can make informed decisions about what to do with them. In some cases, like tight time windows or conflicting stop priorities, the algorithm can't find an order that satisfies all parameters. Then the version shows the number of issues, and MyWay warns you that some stops have issues and may be skipped. Tap **Fix It** to apply that version and go to the first stop with a problem, so you can change it or skip it.
 {% endhint %}
 
-<div><figure><img src="../.gitbook/assets/5F8EB0C0-74FA-4E04-9E17-9091301ECD1A.PNG" alt="" width="188"><figcaption><p>Late Arrival</p></figcaption></figure> <figure><img src="../.gitbook/assets/6604EF22-6539-452A-BF72-E17CF903FA08.PNG" alt="" width="188"><figcaption><p>Optimization Warning</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/how-to-use-late-arrival.png" alt="" width="188"><figcaption><p>Late Arrival</p></figcaption></figure> <figure><img src="../.gitbook/assets/how-to-use-optimization-issue.png" alt="" width="188"><figcaption><p>Issue warning</p></figcaption></figure></div>
 
 {% hint style="info" %}
 Our users also told us that some apps "build your route anyway" and show you those missed stops after the fact. It creates a feeling that everything is okay until it's not. We show you this so you can decide what to do before it's too late.
@@ -153,7 +153,7 @@ After you choose the stop order, MyWay shows the **Start Route** button. If you'
 
 When you tap **Start Route**, MyWay recalculates the route using the latest data, including time windows, traffic and other factors.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-04-01 at 18.23.18.jpeg" alt="" width="188"><figcaption><p>Start Route button</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/how-to-use-start-route.png" alt="" width="188"><figcaption><p>Start Route button</p></figcaption></figure>
 
 {% hint style="info" %}
 You can still [change the route order, even after it's built](how-to-use-myway-route-planner.md#making-route-changes-after-the-initial-route-is-built).
@@ -176,7 +176,7 @@ After you start the route, the top of the route shows the time and distance left
 * **Find a stop**: expand the route panel and use the **Find in route** field above the stop list. It searches addresses, names, tracking IDs, phones, emails and messengers.
 * **Finish the route**: tap **Complete Route** at the end of the list.
 
-<div><figure><img src="../.gitbook/assets/1-3F78D9B7-8816-41AE-B59B-0442BD57C441 (1).PNG" alt="" width="188"><figcaption><p>Route - Main View</p></figcaption></figure> <figure><img src="../.gitbook/assets/3-63CB8C78-5601-4EBB-AD5E-B0AB2FC374BA (1).PNG" alt="" width="188"><figcaption><p>Route - List View</p></figcaption></figure> <figure><img src="../.gitbook/assets/2-68B8323C-BBE3-4691-AA24-9753F7EFAFDB (1).PNG" alt="" width="188"><figcaption><p>Route - Map View</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/how-to-use-follow-route.png" alt="" width="188"><figcaption><p>Route - Main View</p></figcaption></figure> <figure><img src="../.gitbook/assets/how-to-use-route-list-view.png" alt="" width="188"><figcaption><p>Route - List View</p></figcaption></figure> <figure><img src="../.gitbook/assets/how-to-use-route-map-view.png" alt="" width="188"><figcaption><p>Route - Map View</p></figcaption></figure></div>
 
 ### Route Completed
 
@@ -194,7 +194,7 @@ The fitting mode adjusts the map to show the most relevant part of your route. T
 
 To switch, tap the button above the location button on the right side of the map. While you follow a route, each tap switches to the next mode. While you plan a route, the button shows the whole route.
 
-<div><figure><img src="../.gitbook/assets/2A24D363-BD22-41AA-A331-BB67CC47E999.PNG" alt="" width="188"><figcaption><p>Whole route</p></figcaption></figure> <figure><img src="../.gitbook/assets/1D4A6402-CD66-420C-A7A3-9C710B3177EE.PNG" alt="" width="188"><figcaption><p>Current segment</p></figcaption></figure> <figure><img src="../.gitbook/assets/649E2BF9-8589-485E-A568-DB2A0792E4BF.PNG" alt="" width="188"><figcaption><p>Current stop</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/how-to-use-fit-whole-route.png" alt="" width="188"><figcaption><p>Whole route</p></figcaption></figure> <figure><img src="../.gitbook/assets/how-to-use-fit-current-segment.png" alt="" width="188"><figcaption><p>Current segment</p></figcaption></figure> <figure><img src="../.gitbook/assets/how-to-use-fit-current-stop.png" alt="" width="188"><figcaption><p>Current stop</p></figcaption></figure></div>
 
 To make the map follow your position, tap the location button at the bottom right of the map.
 
@@ -212,7 +212,7 @@ Tap the layers button (top right, below the menu button) to choose what the map 
 
 You can hide your current location to make it easier to work with the route. It's handy when you build and manage routes outside of your area. To hide your location, open the [map layers](#map-layers) and turn off **My Location**.
 
-<figure><img src="../.gitbook/assets/DE6D4CA8-762B-4D0F-B659-28AE19C00EEF.PNG" alt="" width="188"><figcaption><p>My Location in the map layers</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/how-to-use-map-layers.png" alt="" width="188"><figcaption><p>My Location in the map layers</p></figcaption></figure>
 
 When you follow your route and [update it](how-to-use-myway-route-planner.md#update-and-actualize-route) to actualize the ETAs with **My Location** on, MyWay takes your location as an intermediate starting point. That greatly improves ETA calculation and builds a much more accurate route. With **My Location** off, MyWay calculates from your last completed stop. Using your location can cause issues when you are in a different country or in a place that can't be reached by public roads. We recommend checking [Optimisation Settings](understand-optimisation-settings.md#starting-location) to see how your location can affect your routes.
 

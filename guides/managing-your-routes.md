@@ -14,7 +14,7 @@ MyWay Route Planner lets you create as many routes as you want. All routes are s
 
 Tap **…** in the route header (next to the route name) and choose **New Route**, or tap **+** in the Routes list.
 
-<figure><img src="../.gitbook/assets/IMG_3AA307141108-1.jpeg" alt="" width="188"><figcaption><p>Route menu on the main screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/routes-route-menu.png" alt="" width="188"><figcaption><p>Route menu on the main screen</p></figcaption></figure>
 
 {% hint style="info" %}
 Don't worry, you will not lose your current route or its history. The app saves the current route and all its data in the Routes list automatically.
@@ -44,7 +44,7 @@ To start a route over, tap **…** in the route header > **More** > **Restart Ro
 
 All your routes are in the Routes list: open the menu (☰, top right) and tap **Routes**.
 
-<div><figure><img src="../.gitbook/assets/1-39E11978-1FB3-4A0C-81B1-3ECFF5613C2A.png" alt=""><figcaption><p>Main Window</p></figcaption></figure> <figure><img src="../.gitbook/assets/2-744C7152-579C-4FBB-908B-288686B0B05E.png" alt=""><figcaption><p>Menu</p></figcaption></figure> <figure><img src="../.gitbook/assets/3-82CD99F4-12BE-4F34-87BB-D8F53A507CE7.png" alt=""><figcaption><p>Routes</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/app-menu.png" alt="" width="188"><figcaption><p>Menu</p></figcaption></figure> <figure><img src="../.gitbook/assets/routes-list.png" alt="" width="188"><figcaption><p>Routes</p></figcaption></figure></div>
 
 Routes are grouped by date. Each route shows its progress, a map preview, the number of stops, the distance and the time. To go back to the route you're following, tap **Continue Route**.
 
@@ -53,7 +53,7 @@ Routes are grouped by date. Each route shows its progress, a map preview, the nu
 
 Each route in the list has its own **…** menu: **Rename**, **Duplicate**, **Copy Stops**, **Report** (to [download a route report](export-your-route-and-share-it-with-others.md#files-export)) and **Delete Route**.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-15 at 09.38.16.jpeg" alt="" width="188"><figcaption><p>Route menu in the Routes list</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/routes-list-route-menu.png" alt="" width="188"><figcaption><p>Route menu in the Routes list</p></figcaption></figure>
 
 {% hint style="warning" %}
 Your routes are saved on your device. MyWay sends route data to our servers only when a feature needs it, for example to optimize a route or to create a link to share it. To learn more about how we handle your data, see [this article](../faq/your-privacy-and-where-we-store-your-data.md).
@@ -69,7 +69,7 @@ You can make a complete copy of a route: in the Routes list, tap **…** next to
 
 **Copy Stops** moves some stops from a route to a new one. Choose which stops to copy (All, Failed, Incomplete, Failed + Incomplete or Completed), then tap **Copy to New Route**. The stops are copied with their settings.
 
-<figure><img src="../.gitbook/assets/IMG_4A2FA27C311F-2.jpeg" alt="" width="188"><figcaption><p>Copy Stops options</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/routes-copy-stops.png" alt="" width="188"><figcaption><p>Copy Stops options</p></figcaption></figure>
 
 {% hint style="success" %}
 **Pro tip:** complete your routes even if some stops are unfinished. The route summary then shows the **Copy Stops to New Route** button. Choose Failed + Incomplete there, and you get a new route with the missed stops in one tap.

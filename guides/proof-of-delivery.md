@@ -40,7 +40,7 @@ Proof can include:
 
 Tap **Done** to save the proof and close the stop.
 
-<div><figure><img src="../.gitbook/assets/49208D35-496B-433F-A062-1EC4903BDC4A.PNG" alt=""><figcaption><p>only Arrived status in set</p></figcaption></figure> <figure><img src="../.gitbook/assets/76119FBC-07E3-40D7-A146-698E8487D328.PNG" alt=""><figcaption><p>Arrived and Success</p></figcaption></figure> <figure><img src="../.gitbook/assets/6B15EDCA-984E-45F3-88FC-66273F74BE0B.PNG" alt=""><figcaption><p>Arrived and Failed</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/pod-arrived.png" alt="" width="188"><figcaption><p>Arrived</p></figcaption></figure> <figure><img src="../.gitbook/assets/pod-success.png" alt="" width="188"><figcaption><p>Arrived and Success</p></figcaption></figure> <figure><img src="../.gitbook/assets/pod-failed.png" alt="" width="188"><figcaption><p>Arrived and Failed</p></figcaption></figure></div>
 
 ## Failure reasons
 
@@ -50,7 +50,7 @@ MyWay comes with three failure reasons: "Address not found", "Customer unavailab
 
 To set a status faster, swipe a stop to the right in route-following mode and pick **Arrived**, **Success** or **Failed** (see the screenshot below). The same options appear when you touch and hold a stop.
 
-<figure><img src="../.gitbook/assets/IMG_FCF01AAA71F7-1.jpeg" alt="" width="188"><figcaption><p>Proof of Delivery status by swipe</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/pod-swipe-statuses.png" alt="" width="188"><figcaption><p>Proof of Delivery status by swipe</p></figcaption></figure>
 
 ## Change proof later
 

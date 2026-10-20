@@ -22,7 +22,7 @@ When you build a route, MyWay shows two versions of it:
 
 Each version shows the time you'll be done by and the distance, so you can compare them before you choose.
 
-<figure><img src="../.gitbook/assets/7BED01AC-A777-44AC-A05A-71EE5F247974.PNG" alt="" width="188"><figcaption><p>Optimize Route</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/how-to-use-optimize-route.png" alt="" width="188"><figcaption><p>Optimize Route</p></figcaption></figure>
 
 {% hint style="success" %}
 You can also combine both: optimize the route first, then edit it to your liking (move stops, add new ones) and choose **Keep Stop Order** to keep your changes. Once the route is in progress, use [Update Route](understand-optimisation-settings.md#route-update-and-reoptimize) to actualize the ETAs.
@@ -40,7 +40,7 @@ Sometimes your route needs an update or a reoptimization. For example, when:
 
 A good sign that you need a route update is the "\~" symbol next to a time. It means the time is approximate, for example after a stop you completed out of order.
 
-<figure><img src="../.gitbook/assets/C15490D0-420A-4733-9608-977AC03C1B05.JPG" alt="" width="188"><figcaption><p>Approximate time</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/optimisation-approximate-time.png" alt="" width="188"><figcaption><p>Approximate time</p></figcaption></figure>
 
 To update a route in progress:
 
@@ -51,7 +51,7 @@ When the route paths are out of date, the round blue button with arrows also app
 
 If you pick another stop as the next one, MyWay asks "Reoptimize remaining stops?". Choose **Reoptimize Route** to keep the time and distance accurate, or **No, thanks** to keep your order.
 
-<figure><img src="../.gitbook/assets/CEA20B7D-FB0D-4861-9D2B-4B48164B6CAC.PNG" alt="" width="188"><figcaption><p>Reoptimize Route in the route menu</p></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/optimisation-reoptimize-menu.png" alt="" width="188"><figcaption><p>Reoptimize Route in the route menu</p></figcaption></figure> <figure><img src="../.gitbook/assets/optimisation-how-to-reoptimize.png" alt="" width="188"><figcaption><p>Update or reoptimize</p></figcaption></figure></div>
 
 ### Difference between Update Route and Reoptimize Route
 
@@ -70,7 +70,7 @@ There is no separate setting for where an updated route starts. It depends on **
 * **My Location on**: your current location and time are the temporary starting point when you update or reoptimize your route.
 * **My Location off**: the last finished stop is the starting point, and the starting time is that stop's completion time.
 
-<figure><img src="../.gitbook/assets/DE6D4CA8-762B-4D0F-B659-28AE19C00EEF.PNG" alt="" width="188"><figcaption><p>My Location in the map layers</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/how-to-use-map-layers.png" alt="" width="188"><figcaption><p>My Location in the map layers</p></figcaption></figure>
 
 {% hint style="info" %}
 **We don't recommend turning My Location off**, as it might affect the accuracy of route distance and time estimates. **It can help if MyWay has no access to your current location or if your current location would break the route** (for example, you are far away from your stops, in another country or on an island). Still, we don't recommend using it to block the app's access to your location permanently.

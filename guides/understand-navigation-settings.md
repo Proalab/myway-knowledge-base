@@ -14,7 +14,7 @@ MyWay works with many navigation apps, like Apple Maps, Google Maps, Waze, Organ
 
 To get directions to a stop, build your route and start it. The current stop has a **Go** button with an arrow icon: tap it, and MyWay passes the stop to your navigation app.
 
-<figure><img src="../.gitbook/assets/1-3F78D9B7-8816-41AE-B59B-0442BD57C441 (1).PNG" alt="" width="188"><figcaption><p>Go button</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/how-to-use-follow-route.png" alt="" width="188"><figcaption><p>Go button</p></figcaption></figure>
 
 For more options, tap **…** next to **Go** (or touch and hold a stop and choose **Navigate**) to open Navigation to Stop. There you can:
 
@@ -39,7 +39,7 @@ To choose your default navigation app, open the menu (☰, top right) and tap **
 
 There are hundreds of navigation apps worldwide, and it's not possible to support every single one directly. If you prefer a different app, open Navigation to Stop and tap the coordinates under **By GPS Coordinates** to copy them, then paste them into the navigation app of your choice. This way, you can use virtually any navigation app with MyWay.
 
-<figure><img src="../.gitbook/assets/E7217D3B-79BC-4F25-831C-7359EBDD8C44.PNG" alt="" width="188"><figcaption><p>Navigation to Stop</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/navigation-to-stop.png" alt="" width="188"><figcaption><p>Navigation to Stop</p></figcaption></figure>
 
 ## Navigation types: coordinates or address
 
@@ -78,4 +78,4 @@ Live Activity is available on iPhone. If you don't see it, check that Live Activ
 
 To look at a stop in your navigation app without starting navigation, open the stop details and tap the round button next to the address (**Show on Map**). It's handy when you want to see the place, a photo of your destination or Street View. Touch and hold this button to choose another app just this time.
 
-<figure><img src="../.gitbook/assets/B9F39B6F-9BE4-4A5A-9CEC-6F73354A9868.PNG" alt="" width="188"><figcaption><p>Show on Map</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/navigation-show-on-map.png" alt="" width="188"><figcaption><p>Show on Map</p></figcaption></figure>

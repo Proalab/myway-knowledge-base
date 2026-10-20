@@ -6,13 +6,13 @@
 
 Add many stops at once instead of one by one: paste a list of addresses (multi-line import), or import an .XLSX or .CSV file from your iPhone, from a web link or from [another app](#import-a-file-from-another-app).
 
-<figure><img src="../.gitbook/assets/B8239E66-ACD9-4D1E-8F34-FDEF6872F09D (1).png" alt="" width="188"><figcaption><p>Two ways to add stops to the route</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/how-to-use-add-stop.png" alt="" width="188"><figcaption><p>Two ways to add stops to the route</p></figcaption></figure>
 
 To start, tap **Add Stop** (or the magnifier button in the top left corner of the map). Then tap the **List** tile for multi-line import or the **Import** tile to import a file.
 
 If you import a file, make sure it uses the right format: see the [file example](import-from-file-and-multi-line-import.md#import-from-file-file-example). Processing can take a few minutes, as MyWay recognizes every address and matches it to the address database.
 
-<div><figure><img src="../.gitbook/assets/D789445A-AA47-4B3D-A2A6-63D72584651A (2).PNG" alt="" width="188"><figcaption><p>Multi-Line Import</p></figcaption></figure> <figure><img src="../.gitbook/assets/74FCE7F4-6360-4635-93A7-81CB111F9B0E (2).PNG" alt="" width="188"><figcaption><p>Import from file</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/import-multi-search.png" alt="" width="188"><figcaption><p>Multi-Line Import</p></figcaption></figure> <figure><img src="../.gitbook/assets/import-file.png" alt="" width="188"><figcaption><p>Import from file</p></figcaption></figure> <figure><img src="../.gitbook/assets/import-file-results.png" alt="" width="188"><figcaption><p>Import results</p></figcaption></figure></div>
 
 ### Multiline import
 

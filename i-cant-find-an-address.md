@@ -19,7 +19,7 @@ No two data providers are the same: one works best in one region, another in a d
 
 By default, MyWay picks the provider that works best for your iPhone's region.
 
-<figure><img src=".gitbook/assets/Screenshot 2024-04-15 at 10.05.43.jpeg" alt="" width="188"><figcaption><p>Geocoding Data Provider Options</p></figcaption></figure>
+<figure><img src=".gitbook/assets/address-geocoder.png" alt="" width="188"><figcaption><p>Geocoding Data Provider Options</p></figcaption></figure>
 
 {% hint style="info" %}
 You can also switch the provider right on the address search screen: tap **Select Geocoder** under "Can't find address?", or **Change Geocoder** when the search has no results. The search screen shows which provider found the results ("Search data provided by…").

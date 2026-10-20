@@ -25,7 +25,7 @@ Other settings help you tell your stops apart:
 * Premises (apartment, suite, unit, etc.)
 * Package count
 
-<div><figure><img src="../.gitbook/assets/127AE393-2900-4A46-A2A1-7DCF4CB62EF4.PNG" alt="" width="188"><figcaption><p>Stop's Settings - Page 1</p></figcaption></figure> <figure><img src="../.gitbook/assets/AAE99062-3D8A-4252-8E04-C90C058260CD.PNG" alt="" width="188"><figcaption><p>Stop's Settings - Page 2</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/stop-settings-page-1.png" alt="" width="188"><figcaption><p>Stop's Settings - Page 1</p></figcaption></figure> <figure><img src="../.gitbook/assets/stop-settings-page-2.png" alt="" width="188"><figcaption><p>Stop's Settings - Page 2</p></figcaption></figure></div>
 
 The second group is for your reference and doesn't affect optimization. The **first group does affect optimization and can dramatically change the stop order**.
 
@@ -35,7 +35,7 @@ The settings are grouped in sections: Contact, Time Window and Shipment. Tap a s
 
 Some settings, like Tracking ID, Notes, contact details and the time window, appear on the stop card in the route. From the stop card you can call or message your customer right away (see the screenshot below).
 
-<figure><img src="../.gitbook/assets/IMG_5C796BEA3017-1.jpeg" alt="" width="188"><figcaption><p>Stop card in the route that shows stop settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/stop-settings-stop-card.png" alt="" width="188"><figcaption><p>Stop card in the route that shows stop settings</p></figcaption></figure>
 
 ## Stop Settings
 

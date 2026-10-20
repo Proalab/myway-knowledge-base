@@ -14,7 +14,7 @@ Selecting the right vehicle type is essential for planning your stops well. We o
 To choose the vehicle, tap the vehicle button (for example, **Car**) under Route Settings, below your stop list, while you plan your route. To set the default vehicle for new routes, tap the first button in that row and change **Vehicle** there.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/779B3F69-374D-4078-A45C-C6DF7A69D028.PNG" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vehicle-picker.png" alt="" width="188"><figcaption><p>Vehicle</p></figcaption></figure>
 
 For most users, **Car** and **Van** are the main options and cover 95% of their needs. We recommend **Small Truck** and **Truck** only when your vehicle is very high or long and you want MyWay to take truck restrictions into account.
 
