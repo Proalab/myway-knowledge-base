@@ -28,6 +28,8 @@ We do not store your credit card details and do not charge your bank account dir
 
 [Here are the instructions](https://support.apple.com/en-us/HT204084) on how you can apply for a refund on the Apple App Store. Apple will review each case individually.
 
+While your subscription is active, you can also open this page from MyWay: menu (three lines, top right corner of the map) > "Refund".
+
 {% hint style="info" %}
 If you don't want to be charged again, also [cancel your subscription](how-to-cancel-your-myway-subscription.md): a refund doesn't cancel it.
 {% endhint %}
