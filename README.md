@@ -8,9 +8,9 @@ description: Learn how to do things in MyWay Route Planner.
 **Using MyWay on Android?** This knowledge base describes the iOS app version 3. For the Android app, see [Version 2](https://help.mywayroute.com/).
 {% endhint %}
 
-**MyWay Route Planner builds very efficient routes.** MyWay Route optimizes a sequence of stops in your route and helps you save up to 30% of your time and money on fuel. Available from [Apple AppStore](https://apps.apple.com/app/apple-store/id1557014712?pt=120907681\&ct=FromWebsite\&mt=8), [Google Play](https://play.google.com/store/apps/details?id=com.proalab.mywayapp) and Web (coming soon).
+**MyWay Route Planner builds very efficient routes.** MyWay Route optimizes a sequence of stops in your route and helps you save up to 30% of your time and money on fuel. Download it from the [App Store](https://apps.apple.com/app/apple-store/id1557014712?pt=120907681\&ct=FromWebsite\&mt=8).
 
-<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>How to use MyWay Route Planner</strong></td><td></td><td></td><td><a href="guides/how-to-use-myway-route-planner.md">how-to-use-myway-route-planner.md</a></td></tr><tr><td><strong>Optimization Settings</strong></td><td></td><td></td><td><a href="guides/understand-optimisation-settings.md">understand-optimisation-settings.md</a></td></tr><tr><td><strong>Stop Settings</strong></td><td></td><td></td><td><a href="guides/understanding-stop-settings.md">understanding-stop-settings.md</a></td></tr><tr><td><strong>Navigation Settings</strong></td><td></td><td></td><td><a href="guides/understand-navigation-settings.md">understand-navigation-settings.md</a></td></tr><tr><td><strong>Managing your routes</strong></td><td></td><td></td><td><a href="guides/managing-your-routes.md">managing-your-routes.md</a></td></tr><tr><td><strong>Import Routes</strong></td><td></td><td></td><td><a href="guides/import-from-file-and-multi-line-import.md">import-from-file-and-multi-line-import.md</a></td></tr><tr><td><strong>Export Route &#x26; Share with others</strong></td><td></td><td></td><td><a href="guides/export-your-route-and-share-it-with-others.md">export-your-route-and-share-it-with-others.md</a></td></tr><tr><td><strong>Can't find Address</strong></td><td></td><td></td><td><a href="i-cant-find-an-address.md#changing-data-provider">#changing-data-provider</a></td></tr><tr><td><strong>Contact Us</strong></td><td></td><td></td><td><a href="how-to-contact-us.md">how-to-contact-us.md</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>How to use MyWay Route Planner</strong></td><td></td><td></td><td><a href="guides/how-to-use-myway-route-planner.md">how-to-use-myway-route-planner.md</a></td></tr><tr><td><strong>Optimization Settings</strong></td><td></td><td></td><td><a href="guides/understand-optimisation-settings.md">understand-optimisation-settings.md</a></td></tr><tr><td><strong>Stop Settings</strong></td><td></td><td></td><td><a href="guides/understanding-stop-settings.md">understanding-stop-settings.md</a></td></tr><tr><td><strong>Navigation Settings</strong></td><td></td><td></td><td><a href="guides/understand-navigation-settings.md">understand-navigation-settings.md</a></td></tr><tr><td><strong>Managing your routes</strong></td><td></td><td></td><td><a href="guides/managing-your-routes.md">managing-your-routes.md</a></td></tr><tr><td><strong>Import Routes</strong></td><td></td><td></td><td><a href="guides/import-from-file-and-multi-line-import.md">import-from-file-and-multi-line-import.md</a></td></tr><tr><td><strong>Export Route &#x26; Share with others</strong></td><td></td><td></td><td><a href="guides/export-your-route-and-share-it-with-others.md">export-your-route-and-share-it-with-others.md</a></td></tr><tr><td><strong>Can't find Address</strong></td><td></td><td></td><td><a href="i-cant-find-an-address.md#changing-data-provider-address-geocoding-service">#changing-data-provider-address-geocoding-service</a></td></tr><tr><td><strong>Contact Us</strong></td><td></td><td></td><td><a href="how-to-contact-us.md">how-to-contact-us.md</a></td></tr></tbody></table>
 
 ***
 
@@ -18,6 +18,10 @@ description: Learn how to do things in MyWay Route Planner.
 
 {% content-ref url="what-is-myway-route-planner/" %}
 [what-is-myway-route-planner](what-is-myway-route-planner/)
+{% endcontent-ref %}
+
+{% content-ref url="what-is-myway-route-planner/whats-new-in-myway-3.md" %}
+[whats-new-in-myway-3.md](what-is-myway-route-planner/whats-new-in-myway-3.md)
 {% endcontent-ref %}
 
 {% content-ref url="what-is-myway-route-planner/does-myway-work-in-my-area.md" %}
@@ -124,10 +128,6 @@ Read our FAQ to understand how MyWay works:
 [what-service-time-should-you-choose.md](faq/what-service-time-should-you-choose.md)
 {% endcontent-ref %}
 
-{% content-ref url="faq/setting-up-correct-time-rate-and-mileage-rates-for-business-users.md" %}
-[setting-up-correct-time-rate-and-mileage-rates-for-business-users.md](faq/setting-up-correct-time-rate-and-mileage-rates-for-business-users.md)
-{% endcontent-ref %}
-
 {% content-ref url="faq/what-if-the-app-is-crashing.md" %}
 [what-if-the-app-is-crashing.md](faq/what-if-the-app-is-crashing.md)
 {% endcontent-ref %}
@@ -201,5 +201,3 @@ What to do if you have issues with your subscription:
 {% embed url="https://mywayroute.statuspage.io" %}
 
 {% embed url="https://apps.apple.com/app/apple-store/id1557014712?ct=FromHelp&mt=8&pt=120907681" %}
-
-{% embed url="https://play.google.com/store/apps/details?id=com.proalab.mywayapp&pli=1" %}

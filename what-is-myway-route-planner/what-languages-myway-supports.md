@@ -1,5 +1,9 @@
 # What languages MyWay supports?
 
+{% hint style="info" %}
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/what-is-myway-route-planner/what-languages-myway-supports).
+{% endhint %}
+
 ### MyWay Route Planner translated into
 
 * English
@@ -7,11 +11,13 @@
 * Dutch
 * French
 * Italian
-* Spanish
+* Spanish (Spain and Latin America)
 * Portuguese (Brazil)
 * Turkish
 * Ukrainian
 * Russian
+* Polish
+* Romanian
 
 We are also working on official translations into:
 
@@ -24,7 +30,7 @@ We are also working on official translations into:
 
 ### How to change the app language?
 
-The app language is based on your phone language and the app inherits the language from phone settings. If there is no language available the English will be used by default.
+The app language is based on your phone language and the app inherits the language from phone settings. If there is no language available, English is used by default. To use MyWay in another language than your phone, go to iOS Settings > Apps > MyWay > Language.
 
 ### New translations or translation issues
 
