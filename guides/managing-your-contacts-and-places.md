@@ -1,20 +1,24 @@
 ---
-description: Favorites, places, contacts
+description: Add stops from your contacts and build a list of saved places
 ---
 
 # Managing your Contacts and Places
 
-MyWay Route Planner has a lot of tools that can help you with often-visited places. That is especially valuable for those businesses that go into the same place every now and then and want to have a simple and efficient way to repeat routes or build a new one with a few clicks.
+{% hint style="info" %}
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/guides/managing-your-contacts-and-places).
+{% endhint %}
 
-To help you build routes quicker, MyWay has two new concepts: Contacts and Places. Both can be used to add stops to the route.
+MyWay Route Planner has a lot of tools that can help you with often-visited places. That is especially valuable for businesses that go to the same places every now and then and want a simple and efficient way to repeat routes or build a new one in a few taps.
+
+To help you build routes quicker, MyWay has two sources besides the address search: Contacts and Places. Both can be used to add stops to the route.
 
 ## Contacts
 
-The contacts section is the new section that you can use when you add stops, and it allows you to add addresses from your phone Address Book. If you decide to provide MyWay access to your Address Book, MyWay will be able to import stops directly into your route and also assign information about specific user data into the stop. To access Contacts, you need to either click on the "Add Stop" button or on the top left magnifier button.
+Contacts let you add addresses from your iPhone address book. If you give MyWay access to your contacts, it can add them to your route as stops together with the contact details (name, company, phone numbers, email). To open Contacts, tap "Add Stop" or the magnifier button in the top left corner of the map, and then tap the "Contacts" tile.
 
 <figure><img src="../.gitbook/assets/B8239E66-ACD9-4D1E-8F34-FDEF6872F09D (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
-Then, go to the Contacts section and pick a contact you want to add (check the screenshot below).
+Select one or several contacts and tap "Add to Route". MyWay finds the address of each contact and adds them as stops. The contact details are saved in the stop's Contact section.
 
 <div>
 
@@ -26,15 +30,20 @@ Then, go to the Contacts section and pick a contact you want to add (check the s
 
 </div>
 
-After you pick contact (or multiple), you will be able to see them as a stop.
-
 <figure><img src="../.gitbook/assets/Simulator Screenshot - iPhone 12 Pro - 2023-10-11 at 17.04.30.png" alt="" width="188"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If MyWay can't determine a contact's location, it asks you to set the address ("Set Address"). If you didn't give MyWay access to your contacts, tap "Open Settings" and allow access there. MyWay doesn't store your contacts on its servers.
+{% endhint %}
 
 ## Places
 
-Places work in a similar way, but there is much more in them than in Contacts. This feature will be useful for sales, delivery drivers, and everyone who needs to build a list of Favorite Places with specific parameters and contact details, grouped by color, tags, etc.&#x20;
+Places work in a similar way, but there is much more in them than in Contacts. This feature is useful for sales, delivery drivers, and everyone who needs a list of favorite places with specific parameters and contact details, grouped by color, tags, etc.
 
-To use this feature, first of all, you need to build your list of Places. To do so, click on the top right menu icon and go to the Places section. You can either create a new Place (click the + icon on the top right) or import it from your Address Book (Import Contacts)
+To use this feature, first build your list of places. Tap the menu button (three lines, top right corner of the map) and then the "Places" tile to open "Saved Places". There you can:
+
+* create a new place: tap "+" (or "Add Place");
+* import places from your address book: tap "Import from Contacts", select the contacts and tap "Add". MyWay finds the address of each contact and shows it under the contact name, so you can check it before adding. The contact details are saved in the place's Contact section.
 
 <div>
 
@@ -46,27 +55,21 @@ To use this feature, first of all, you need to build your list of Places. To do 
 
  
 
-<figure><img src="../.gitbook/assets/Simulator Screenshot - iPhone 12 Pro - 2023-10-11 at 17.11.57 (2).png" alt="" width="188"><figcaption><p>Places</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Simulator Screenshot - iPhone 12 Pro - 2023-10-11 at 17.11.57 (2).png" alt="" width="188"><figcaption><p>Saved Places</p></figcaption></figure>
 
 </div>
 
-After you add a place, you can manage it the same way you manage your stops. Add time window, contact details, tags, notes, etc.
+A place has the same settings as a stop: name, color, icon, notes, tags, time at stop, contact details and time window. To change them, open the place and tap "Edit". When you add a place to a route, the stop gets these settings.
 
-To add a stop from your Places to your Route, you can either add it through the "Add Stop" screen or the top left magnifier button (Places section). Pretty similar to other options like Address or Contacts.
+To find places quickly, use the search at the bottom of "Saved Places". The filter button shows places of certain colors and tags. In the "…" menu you can sort places by name, contact or address, and group them alphabetically, by color or by city.
 
-There is one more way to add multiple Places to the route. You need to go to Layers > Saved Places and check it.
+### Add places to your route
 
-<div>
+There are several ways to add places to your route:
 
-<figure><img src="../.gitbook/assets/Simulator-Screenshot-iPhone-12-Pro-2023-10-11-at-17-18-52.png" alt="" width="188"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Simulator-Screenshot-iPhone-12-Pro-2023-10-11-at-17-19-08.png" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
-
-After you do that, you will see the total amount of places up top, and by clicking on them, you can open the Places Select screen. That screen allows you to select multiple places and add them to the route in a very quick and effective way.&#x20;
+* **From the "Add Stop" screen**: tap the "Places" tile, select one or several places and tap "Add to Route". Pretty similar to other sources like Contacts.
+* **From "Saved Places"**: open a place, tap "…" and choose "Add to Route".
+* **Several places at once**: in "Saved Places", tap "…" > "Select" and select the places (for example, filter by the "work" tag first and tap "Select All"). Then tap "…" at the bottom and choose your current route under "Add to Current Route".
 
 <div>
 
@@ -78,14 +81,24 @@ After you do that, you will see the total amount of places up top, and by clicki
 
 </div>
 
-For example, you can click on the "work" tag > then select and click the "Add missing to Route" button to add all stops that share the "work" tag.&#x20;
+To see your places on the map, tap the layers button (top right, below the menu button) and turn on "Saved Places". Tap a place on the map to open it.
 
-<figure><img src="../.gitbook/assets/Simulator Screenshot - iPhone 12 Pro - 2023-10-11 at 17.26.58.png" alt="" width="188"><figcaption></figcaption></figure>
+<div>
+
+<figure><img src="../.gitbook/assets/Simulator-Screenshot-iPhone-12-Pro-2023-10-11-at-17-18-52.png" alt="" width="188"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Simulator-Screenshot-iPhone-12-Pro-2023-10-11-at-17-19-08.png" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>
+
+### Stops and places
+
+A stop can also become a saved place: open the stop and choose "Add to Saved Places". A stop added from a place stays linked to it:
+
+* "Update Saved Place" saves the stop's changes to the place;
+* "Sync from Saved Place" copies the place's current settings to the stop;
+* "Unlink Saved Place" removes the link.
 
 You also can add stops individually, from the map, or in any other way you want to.
-
-## Video Guide
-
-{% hint style="info" %}
-[**MyWay Route Planner - How To - Places - Video Instruction (YouTube)**](https://youtu.be/WtixhY3EYTg)
-{% endhint %}
