@@ -11,6 +11,8 @@
 * [Is there any difference in functionality between iOS version and Android version of MyWay?](is-there-any-difference-in-functionality-between-ios-version-and-android-version-of-myway.md)
 * [Service Status](service-status.md)
 * [How to contact us?](how-to-contact-us.md)
+* [Limits and requirements](limits-and-requirements.md)
+* [Glossary](glossary.md)
 
 ## Guides
 
@@ -25,9 +27,12 @@
 * [Export your route and share it with others](guides/export-your-route-and-share-it-with-others.md)
 * [Proof of Delivery](guides/proof-of-delivery.md)
 * [Planning Multi-Day routes](guides/planning-multi-day-routes.md)
+* [App Settings (Preferences)](guides/app-settings.md)
 
 ## FAQ
 
+* [Common questions](faq/common-questions.md)
+* [Error messages and what they mean](faq/error-messages.md)
 * [The route MyWay produced doesn't look correct?](faq/the-route-myway-produced-doesnt-look-correct.md)
 * [Why do some of my stops have issues, "Path not Found" or "Unexpected error"](faq/why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md)
 * [Using MyWay without an internet connection (Offline Mode)](faq/using-myway-without-an-internet-connection-offline-mode.md)

@@ -90,6 +90,33 @@ When you optimize the route, MyWay keeps each pickup before its deliveries. If y
 "Duplicate" keeps the links between pickups and deliveries in the new route. "Copy Stops" copies the stops without these links.
 {% endhint %}
 
+### Tracking ID <a href="#tracking-id" id="tracking-id"></a>
+
+The Tracking ID is your own number for a stop, like an order or parcel number. It's shown on the stop card (for example, "#12"), in reports, and you can search for it with "Find in route".
+
+* Type the number yourself, or
+* tap "AUTO" and confirm "Assign Tracking ID": MyWay numbers all stops of the route by their position, and new stops get the next number automatically.
+* When numbers are assigned automatically, tap "AUTO" again to "Re-assign Tracking ID" (number the stops again by their current position) or "Disable Auto-assign".
+
+A number you typed yourself or imported from a file is never replaced when MyWay assigns numbers. New stops get the next free number, so after you reorder stops, tap "Re-assign Tracking ID" to number them by position again.
+
+### Contact
+
+In the "Contact" section, add the customer's name, company and ways to reach them: mobile, phone, WhatsApp, Telegram, email, Facebook, Instagram, website or other. Tap the contacts button next to the name to fill it in from your iPhone contacts. Tap "+" to add another channel and choose its type.
+
+The contact is shown on the stop card. Tap it to call, send a message, or open WhatsApp, Telegram, email or the website. The Live Activity also has a "Call" button. You can search for a contact's name, phone or email with "Find in route".
+
+### Location, Look Around and Premises
+
+The top of the stop form shows the stop on a small map and, where available, a street photo. Tap "Look Around" to look at the place before you go. Tap the map to open it in full screen; there you can move the stop with "Edit Location" if the pin is in the wrong place, and add the premises (apartment, suite, unit, floor, etc.).
+
+### Working with the stop form
+
+* Changes are saved automatically. Use the arrows at the bottom ("2 of 6") to go to the previous or next stop.
+* The bookmark button saves the stop to your [Saved Places](managing-your-contacts-and-places.md#stops-and-places).
+* The trash button deletes the stop. If the stop is already completed, its status and proof of delivery are deleted too.
+* The "?" button opens this article.
+
 ## Start and Finish Settings
 
 The Start and Finish locations are not treated as regular stops, so they don't have the same parameters. However, you can save default locations for future routes to save time.

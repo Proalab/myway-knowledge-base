@@ -24,6 +24,22 @@ From the same "…" menu you can also [export](export-your-route-and-share-it-wi
 
 To rename a route you are planning, tap the edit (pencil) button in the route header and then tap the route name. You can rename any route in the Routes list.
 
+## Edit mode: select, delete and copy stops
+
+Tap the edit (pencil) button in the route header to switch to edit mode:
+
+* Tap the circles next to the stops to select them, or tap the select button at the bottom to select stops by status ("Failed", "Success"), by group ("Not Completed", "Skipped"), "Select All" or "Deselect All".
+* Tap the trash button to "Delete Selected Stops".
+* Tap "…" at the bottom to copy the selected stops to a new route.
+* Touch and hold the handle on the right of a stop and drag it to change the order.
+* Tap the route name to rename the route.
+
+Tap "Done" to finish. To delete stops quickly without edit mode, tap "…" in the route header > "Delete Stops…" and choose "Delete All Stops" or "Delete Completed Stops".
+
+## Restart a route
+
+To start a route over, tap "…" in the route header > More > "Restart Route". All statuses and proof of delivery are removed; this can't be undone. To start again from a completed route without losing it, use "Duplicate" instead.
+
 ## Where do you find all your routes?
 
 All routes are stored in the Routes list. To open it, tap the menu button (three lines, top right corner of the map) and then the "Routes" tile.

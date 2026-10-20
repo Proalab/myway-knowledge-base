@@ -56,6 +56,14 @@ description: Learn how to do things in MyWay Route Planner.
 [service-status.md](service-status.md)
 {% endcontent-ref %}
 
+{% content-ref url="limits-and-requirements.md" %}
+[limits-and-requirements.md](limits-and-requirements.md)
+{% endcontent-ref %}
+
+{% content-ref url="glossary.md" %}
+[glossary.md](glossary.md)
+{% endcontent-ref %}
+
 ***
 
 ## Guides
@@ -106,11 +114,23 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [planning-multi-day-routes.md](guides/planning-multi-day-routes.md)
 {% endcontent-ref %}
 
+{% content-ref url="guides/app-settings.md" %}
+[app-settings.md](guides/app-settings.md)
+{% endcontent-ref %}
+
 ***
 
 ## FAQ
 
 Read our FAQ to understand how MyWay works:
+
+{% content-ref url="faq/common-questions.md" %}
+[common-questions.md](faq/common-questions.md)
+{% endcontent-ref %}
+
+{% content-ref url="faq/error-messages.md" %}
+[error-messages.md](faq/error-messages.md)
+{% endcontent-ref %}
 
 {% content-ref url="faq/the-route-myway-produced-doesnt-look-correct.md" %}
 [the-route-myway-produced-doesnt-look-correct.md](faq/the-route-myway-produced-doesnt-look-correct.md)

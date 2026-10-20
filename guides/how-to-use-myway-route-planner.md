@@ -37,6 +37,15 @@ The "Recents" tab shows addresses you used before. To pick a point on the map, t
 
 Tap a search result to add the stop and close the search. Tap "+" next to a result to add the stop and keep searching for the next one.
 
+### More ways to add a stop
+
+* **Paste a map link.** Copy a link to a place from Google Maps or Apple Maps and tap "Paste from Clipboard": MyWay opens the map at that point. You can also paste copied address text.
+* **Coordinates.** Type or paste coordinates like "34.0407, -118.2468" into the search field and choose "Search coordinate".
+* **Pick a point on the map.** Tap the map button next to the search field and tap the place. If the nearest address is far from the point, MyWay tells you "This address is … from where you tapped". The stop stays exactly where you tapped.
+* **Add and edit at once.** On the map, "Add stop and edit" adds the stop and opens its settings right away.
+* **Voice in another language.** In "Voice", tap the language to choose it before you speak.
+* **Recents.** The "Recents" tab shows addresses you used before.
+
 {% hint style="info" %}
 **Scan** uses Live Text. If MyWay doesn't recognize the text, check that your iPhone and your language support Live Text ([Apple guide](https://support.apple.com/en-au/guide/iphone/aside/iph691752bc0/17.0/ios/17.0), [supported languages](https://www.apple.com/ios/feature-availability/#live-text-live-text)). **Voice** asks for access to the microphone and speech recognition the first time you use it.
 {% endhint %}
@@ -157,9 +166,29 @@ After you start the route, the top of the route shows the remaining time, distan
 * "Done" closes the stop and makes the next one current. The first time you tap it, MyWay asks if you want to turn on Proof of Delivery. With [Proof of Delivery](proof-of-delivery.md) on, you see "Success" and "Failed" instead of "Done".
 * Tap another stop to select it and see it on the map. "Next" makes it the next stop.
 * Touch and hold a stop for more actions, for example, to skip it.
+
+### Stop actions
+
+* **Swipe a stop to the right** to mark it "Arrived", "Success" or "Failed" (or "Undo" a completed stop).
+* **Swipe a stop to the left** to "Delete", "Skip" or "Revert" it.
+* **Touch and hold a stop** to open all actions:
+  * "Arrived", "Success", "Failed" and "Undo";
+  * "Navigate";
+  * "Edit" and "Details";
+  * "Delete";
+  * "Next": make it the next stop;
+  * "Skip": take the stop out of the route without deleting it; it moves to the "Skipped" section;
+  * "Revert": return a skipped stop to the route.
+* **Find in route**: expand the route panel; the "Find in route" field is above the stop list. Search by address, name, tracking ID, phone, email or messenger.
 * "Complete Route" at the end of the list finishes the route.
 
 <div><figure><img src="../.gitbook/assets/1-3F78D9B7-8816-41AE-B59B-0442BD57C441 (1).PNG" alt="" width="188"><figcaption><p>Route - Main View</p></figcaption></figure> <figure><img src="../.gitbook/assets/3-63CB8C78-5601-4EBB-AD5E-B0AB2FC374BA (1).PNG" alt="" width="188"><figcaption><p>Route - List View</p></figcaption></figure> <figure><img src="../.gitbook/assets/2-68B8323C-BBE3-4691-AA24-9753F7EFAFDB (1).PNG" alt="" width="188"><figcaption><p>Route - Map View</p></figcaption></figure></div>
+
+### Route Completed
+
+When you complete a route, MyWay shows "Route Completed!" with the share of completed stops and the number of stops, done and successful. Tap "Continue" to see the route summary: date and time, progress and "Copy Stops to New Route" to move missed stops to a new route.
+
+After you complete several longer routes (with more than 5 stops), MyWay also asks "How was your route?". Tap "All Good" and then "Rate Us" to rate the app in the App Store, or "Had Issues" and then "Send Feedback" to tell us what went wrong; the chat opens with this route attached.
 
 ### Fitting Modes
 
