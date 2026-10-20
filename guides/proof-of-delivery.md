@@ -58,7 +58,7 @@ You can quickly set a status from route-following mode by swiping a stop to the 
 
 ### Change proof later
 
-To change the status or proof of a completed stop, open the stop details. The proof is included in the [PDF report](export-your-route-and-share-it-with-others.md#files-export). Proof files are kept on your iPhone; you can see how much space they take in Preferences > "Route Files".
+To change the status or proof of a completed stop, open the stop details. The proof is included in the [PDF report](export-your-route-and-share-it-with-others.md#files-export). Proof files are kept on your iPhone; you can see how much space they take in Preferences > "Cache" > "Route Files". Clearing the cache doesn't delete them.
 
 {% hint style="warning" %}
 When you complete a route, MyWay deletes the proof of stops that are still unfinished.
