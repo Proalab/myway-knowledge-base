@@ -64,7 +64,7 @@ The first button in this row opens the default Route Settings for new routes: Ve
 <figure><img src="../.gitbook/assets/Screenshot 2024-07-08 at 13.56.00.jpeg" alt="" width="188"><figcaption><p>Route Settings</p></figcaption></figure>
 
 {% hint style="info" %}
-You can plan a route in advance: set the departure time, and MyWay calculates the ETAs from it. After you tap "Start Route", the start location stays the current step with its own "Start Route" button. Tap it only when you actually leave: MyWay marks the start as done and recalculates all ETAs from that moment.
+You can plan a route in advance: set the departure time, and MyWay calculates the ETAs from it. After you tap "Start Route", the start location stays the current step with its own "Start Route" button. Tap it only when you actually leave: MyWay marks the start as done and recalculates all ETAs from that moment. This ensures accurate ETAs and up-to-date traffic data.
 {% endhint %}
 
 ### Optimization Mode
@@ -132,6 +132,8 @@ Our users also told us that some apps "build your route anyway" and show you tho
 ### Confirm your Route
 
 After you choose the stop order, MyWay shows the "Start Route" button. If you're done planning, tap it to start the route. If you want to keep editing, tap the arrow next to "Start Route": the button hides, and you can add stops or change settings. Then tap the round blue button again to rebuild the route.
+
+Once you tap "Start Route", the app will recalculate the route using the latest data, including time windows, traffic, and other factors.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-01 at 18.23.18.jpeg" alt="" width="188"><figcaption><p>Start Route button</p></figcaption></figure>
 
