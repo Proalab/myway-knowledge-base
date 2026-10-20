@@ -1,21 +1,20 @@
 # What if the app is crashing
 
-### iOS
-
-If the app is freezing, crashing, or not working, please try to reinstall the app. When reinstalling the app, make sure you're logged in to the correct Apple ID account. You might need to [restore your purchase](../subscription-management/myway-does-not-recognize-my-subscription.md) when reinstalling the app on your iPhone.
-
-### Andoird
-
-If the app is freezing, crashing, or not working, please try to clear the app cache and app data (if clear cache did not help) or reinstall the app.&#x20;
-
-#### How to clear cache on Android device:&#x20;
-
-{% hint style="danger" %}
-Please keep in mind that all routes and data will be deleted from your phone after you the application. We do not save any data on any external servers because we care about your privacy, so please make sure you make a copy of important routes.
+{% hint style="info" %}
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/faq/what-if-the-app-is-crashing).
 {% endhint %}
 
-If you have Samsung phone you can follow this instruction - [https://www.samsung.com/us/support/answer/ANS00077611/](https://www.samsung.com/us/support/answer/ANS00077611/)
+If the app is freezing, crashing, or not working, please try these steps:
 
-If you have Xiaomi phone you can follow this instruction - [https://xiaomiui.net/how-to-clear-cache-on-your-android-device-5119/](https://xiaomiui.net/how-to-clear-cache-on-your-android-device-5119/)
+1. Close MyWay and open it again.
+2. Make sure you have the latest version of MyWay from the App Store and the latest iOS version.
+3. Clear the app cache: menu (three lines, top right corner of the map) > Preferences > "Cache" > "Clear Cache". It deletes map data and other temporary files only; your routes and saved places aren't affected.
+4. If nothing helps, please [contact us](../how-to-contact-us.md) ("Talk to Us" in the menu) and describe what you did before the crash.
 
-After reinstalling the app, make sure you're logged in to the correct Google Account.
+When MyWay crashes, it sends us a crash report automatically the next time you open the app, so we can find and fix the problem.
+
+{% hint style="danger" %}
+Please keep in mind that your routes, saved places and proof of delivery are stored on your iPhone. If you delete the app, they are deleted too, and we can't restore them. Before reinstalling, save the routes you need, for example as a [PDF report or a route copy](../guides/export-your-route-and-share-it-with-others.md).
+{% endhint %}
+
+After reinstalling the app, make sure you're signed in to the App Store with the correct Apple ID. You might need to [restore your purchase](../subscription-management/myway-does-not-recognize-my-subscription.md).
