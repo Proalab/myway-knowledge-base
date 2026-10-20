@@ -8,7 +8,7 @@ description: or address is wrong
 **Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/i-cant-find-an-address).
 {% endhint %}
 
-MyWay has the most up-to-date database of addresses and places from Apple, ArcGIS and HERE combined into one route planner. It means we do not rely on data from only one provider. However, it might be the case when an address is not in our database or it's inaccurate. Let's face it - every provider out there works better in some areas and not that great in others.
+MyWay has the most up-to-date database of addresses and places from Google Maps, Mapbox, HERE, TomTom, Apple Maps, ArcGIS and OpenStreetMap combined into one route planner. It means we do not rely on data from only one provider. However, it might be the case when an address is not in our database or it's inaccurate. Let's face it - every provider out there works better in some areas and not that great in others.
 
 ### Changing Data Provider (Address Geocoding Service)
 

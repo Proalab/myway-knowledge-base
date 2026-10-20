@@ -31,8 +31,4 @@ If you find MyWay unsuitable, **you can cancel any time during your trial and wo
 
 You can [cancel your subscription](../subscription-management/how-to-cancel-your-myway-subscription.md) at any time. After canceling, you'll have access to Premium for the rest of your billing period, but you won't be billed again.
 
-{% hint style="info" %}
-If your paid subscription ended less than two months ago, MyWay asks you to renew it before you optimize a route, even a short one.
-{% endhint %}
-
 ####

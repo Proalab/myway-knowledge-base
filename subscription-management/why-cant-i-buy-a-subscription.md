@@ -20,4 +20,11 @@ Please check none of the above applied to you, and if everything looks good, ple
 * Your App Store account is not allowed to make an in-app purchase ([https://support.apple.com/en-us/HT204396](https://support.apple.com/en-us/HT204396))
 * You use a different Apple ID account for purchases, which has its own limitations or issues ([https://support.apple.com/en-us/HT207937](https://support.apple.com/en-us/HT207937)).
 
-Each case has its own way of resolving it. If you have been facing any of these issues, please refer to the official Apple App Store documentation to resolve them, or [contact us](../how-to-contact-us.md).
+### Google Play Store (Android)
+
+* Your payment method is likely wrong. [Please make sure your payment method is not expired](how-to-change-or-add-a-payment-method.md).
+* Please make sure your account has not been blocked or restricted by Google.
+
+Each and every case has its own way of resolving it. If you have been facing any of these issues, please refer to the official Apple App Store and Google Play Store documentation to resolve them.
+
+Each case has its own way of resolving it. If you have been facing any of these issues, please refer to the official Apple App Store and Google Play Store documentation to resolve them, or [contact us](../how-to-contact-us.md).

@@ -20,6 +20,16 @@ You can change or add a payment method by following these instructions:
 
 More details are in the [Apple Support article](https://support.apple.com/en-us/118293).
 
+### Google Play Store (Android) <a href="#h_1efda40c42" id="h_1efda40c42"></a>
+
+* On your Android device, open the Google Play Store
+* Tap the profile icon in the top right-hand corner of the screen
+* Tap Payments and subscriptions
+* Tap Subscriptions
+* Tap on MyWay Route Planner
+* Next to Primary payment method, tap Update
+* Follow the on-screen instructions to update your payment method.
+
 {% hint style="info" %}
 If Apple can't charge your payment method for the subscription, MyWay shows a "Payment Problem" message in the menu. Tap "Manage Subscription" there to update your payment method before the date shown, so you don't lose Premium.
 {% endhint %}

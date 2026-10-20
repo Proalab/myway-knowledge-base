@@ -22,4 +22,6 @@ Without a Premium subscription, you can optimize routes with [up to 15 stops](wh
 If your route has more stops than your vehicle allows, MyWay shows "Too many stops" when you build the route. Split the route into two or choose another vehicle type.
 {% endhint %}
 
+A business version that will allow optimization for up to 500 stops, multi-driver optimization, dispatch functionality, and business subscriptions is coming soon.
+
 To add many stops at once, use the [multi-line import](guides/import-from-file-and-multi-line-import.md#multiline-import) (up to 30 addresses at a time) or [import from a file](guides/import-from-file-and-multi-line-import.md#import-from-file).

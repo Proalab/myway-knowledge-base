@@ -16,4 +16,4 @@ Your routes and saved places are stored on each device separately and don't sync
 
 Keep in mind that **you can't share an account with another driver**.
 
-A subscription bought on iPhone doesn't work on Android, and the other way round. If you'd like to [change your payment method](how-to-change-or-add-a-payment-method.md) or [cancel the subscription](how-to-cancel-your-myway-subscription.md) later, you'll need to do that on the platform you originally subscribed on (iOS or Android).
+On Android, sign in with the Google account you used to subscribe and check the subscription as described in [Version 2 of this knowledge base](https://help.mywayroute.com/subscription-management/myway-does-not-recognize-my-subscription). A subscription bought on iPhone doesn't work on Android, and the other way round. If you'd like to [change your payment method](how-to-change-or-add-a-payment-method.md) or [cancel the subscription](how-to-cancel-your-myway-subscription.md) later, you'll need to do that on the platform you originally subscribed on (iOS or Android).

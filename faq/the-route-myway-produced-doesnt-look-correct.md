@@ -12,7 +12,7 @@ description: >-
 
 ## How optimization works <a href="#vehicleroutingproblemdescription" id="vehicleroutingproblemdescription"></a>
 
-MyWay uses data from Apple, ArcGIS, HERE, Mapbox and OpenStreetMap to calculate the most efficient route by simulating thousands of combinations. However, the result might not always match your expectations.
+MyWay uses data from Google Maps, Mapbox, HERE, TomTom, Apple Maps, ArcGIS and OpenStreetMap to calculate the most efficient route by simulating thousands of combinations. However, the result might not always match your expectations.
 
 The optimization algorithms consider factors like stop priorities, time windows, vehicle capacity, road conditions, traffic, tolls, u-turns, roadside preferences, left turns, weather, and more. [Some of these settings can be adjusted to suit your needs](the-route-myway-produced-doesnt-look-correct.md#settings-that-affect-route-optimization), while others are fixed or influenced by road layout and limits. Below are common issues and explanations for why they occur.
 

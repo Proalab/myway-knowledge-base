@@ -4,7 +4,7 @@
 **Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/subscription-management/ive-been-double-charged).
 {% endhint %}
 
-First of all, a double charge is not a common issue, but it might still happen because of the way the Apple App Store works. The good news is it is pretty easy to sort out.
+First of all, a double charge is not a common issue, but it might still happen because of the nature of the Apple App Store and Google Play Store. The good news is it is pretty easy to sort out.
 
 There are a few reasons you might see a double charge from MyWay:
 
@@ -19,6 +19,8 @@ If you were late paying your subscription fee last month, Apple could charge you
 #### 3. Subscribed with two Apple IDs <a href="#h_fa2e6e75db" id="h_fa2e6e75db"></a>
 
 One Apple ID can't have two active MyWay subscriptions at the same time. If you've been charged twice, you might have subscribed with two different Apple IDs (for example, on two devices). You can check [your Apple purchases here](https://support.apple.com/en-us/HT204088). Please [cancel](how-to-cancel-your-myway-subscription.md) the one you don't need and [apply for a refund](how-can-i-get-a-refund.md).
+
+If you've accidentally bought a subscription twice or started 2 free trials on Google Play, [you can check that here](https://play.google.com/store/account/subscriptions). Please cancel one of them and apply for a refund (see [Version 2 of this knowledge base](https://help.mywayroute.com/subscription-management/how-can-i-get-a-refund) for Google Play).
 
 If you switched from the Monthly to the Annual plan in MyWay, you are not charged twice: the annual plan starts at the next renewal date of your monthly plan.
 

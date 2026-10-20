@@ -4,7 +4,7 @@ description: Does MyWay Route Planner work in your country and town?
 
 # Does MyWay work in my area?
 
-MyWay combines the most up-to-date maps, addresses, and places databases from Apple Maps, ArcGIS, HERE, Mapbox and OpenStreetMap into one route planner. That means MyWay works in every region on a planet and has the most extensive database of addresses across the globe.&#x20;
+MyWay combines the most up-to-date maps, addresses, and places databases from Google Maps, Mapbox, HERE, TomTom, Apple Maps, ArcGIS and OpenStreetMap into one route planner. That means MyWay works in every region on a planet and has the most extensive database of addresses across the globe.&#x20;
 
 We work in most countries across the globe, but here's an overview of the countries and regions where most of our users work and live:&#x20;
 
@@ -20,7 +20,7 @@ We work in most countries across the globe, but here's an overview of the countr
 * Netherlands
 * Europe
 * APAC
-* all other countries around the globe (175 countries to be exact)&#x20;
+* all other countries around the globe: we serve customers in [175 countries](https://www.mywayroute.com/about)
 
 We have users in every part of the globe, so it does not matter where you are - we can help you build efficient routes.
 

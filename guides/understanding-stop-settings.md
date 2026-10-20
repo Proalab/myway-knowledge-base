@@ -44,8 +44,7 @@ Priority tells MyWay how urgent a stop is. To set it, tap the lightning button n
 * **First** and **Last** (manual ordering): the stop moves to the beginning or to the end of the route right away. Optimization keeps First stops at the beginning and Last stops at the end and reorders only the stops in between.
 * **High** (auto): the stop stays where it is in the list, and optimization puts it among the first stops of the route.
 * **Normal**: the default. MyWay places the stop wherever it's more efficient.
-
-"Low" is shown in the menu but is not available in this version.
+* **Low** (auto): currently works the same as **Normal**, so it can't be selected in the menu.
 
 {% hint style="warning" %}
 Please make sure you don't set a priority for more than 2 stops. When every stop is a priority, there are no priorities at all.

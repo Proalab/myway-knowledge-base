@@ -14,7 +14,7 @@ If the app is freezing, crashing, or not working, please try these steps:
 When MyWay crashes, it sends us a crash report automatically the next time you open the app, so we can find and fix the problem.
 
 {% hint style="danger" %}
-Please keep in mind that your routes, saved places and proof of delivery are stored on your iPhone. If you delete the app, they are deleted too, and we can't restore them. Before reinstalling, save the routes you need, for example as a [PDF report or a route copy](../guides/export-your-route-and-share-it-with-others.md).
+Please keep in mind that your routes, saved places and proof of delivery are stored on your iPhone. We do not save your routes on our servers because we care about your privacy: the data MyWay sends to our servers to build or optimize a route is not linked to you, so it can't be used to restore your routes. If you delete the app, your routes are deleted too. Before reinstalling, save the routes you need, for example as a [PDF report or a route copy](../guides/export-your-route-and-share-it-with-others.md).
 {% endhint %}
 
 After reinstalling the app, make sure you're signed in to the App Store with the correct Apple ID. You might need to [restore your purchase](../subscription-management/myway-does-not-recognize-my-subscription.md).

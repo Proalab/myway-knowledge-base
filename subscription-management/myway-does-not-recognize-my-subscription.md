@@ -21,6 +21,11 @@ When the subscription is restored, you see "Restored!". If you see "No purchases
 Make sure you are signed in to the App Store with the same Apple ID you used to subscribe. The free trial is available only once per Apple ID, so if you subscribed before, MyWay offers you to subscribe instead of starting a trial.
 {% endhint %}
 
+### **Google Play Store (Android):**
+
+* Delete the app and reinstall it to resolve the issue.
+* When downloading the app, make sure you use the same Google Play account you originally used to subscribe to MyWay. To change accounts on the Google Play Store, [follow these instructions](https://support.google.com/googleplay/answer/2521798?hl=en).
+
 {% hint style="danger" %}
 We don't recommend deleting the app to fix this issue: your routes and saved places are stored on your iPhone and are deleted together with the app.
 {% endhint %}

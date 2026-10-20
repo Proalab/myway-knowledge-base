@@ -47,17 +47,25 @@ Some addresses might not appear in the search results. If this happens, add more
 
 ## Route Settings
 
-Below the stops, under "Route Settings", you can find the settings of the current route:
+While you plan a route, you can see its settings below the stops, under "Route Settings". Each setting is a button (a "chip"). Tap a chip to change that setting for the current route only:
 
 * **Vehicle** (for example, "Car"): see [Vehicle Settings](understand-vehicle-settings.md)
-* **Departure time**: "Depart now" or "Depart at…"
-* **"Road Restrictions"**: what to [avoid](#road-restrictions)
+* **Departure time**: "Depart now" by default. Tap it, pick a date and time and tap "Done" to plan the route for later ("Depart at…"). "Clear" returns to "Depart now".
+* **"Road Restrictions"**: what to [avoid](#road-restrictions). The chip shows what you avoid, for example "Avoid Toll Roads", or "Avoid (2)" if you avoid several.
 * **"Side of Road"**: "Any Side", "Same Side as Stop" or "Across from Stop", for all stops in the route
 * **[Optimization mode](#optimization-mode)**: "Optimize for Time" or "Optimize for Distance"
 
-You can change these settings only while you plan the route, not after you start it.
+Swipe the row to the left to see all chips. A chip is highlighted when the route uses a non-standard value: for example, when you set a departure time or chose a road restriction. The vehicle chip is always highlighted. You can change these settings only while you plan the route; after you start it, the chips are hidden.
 
-The first button in this row opens the default Route Settings for new routes: Vehicle, Side of Road, Optimization Mode, Road Restrictions and Time at Stop, and your default "Start & End Locations".
+### Default Route Settings
+
+The first button in the row (with two switches) opens the default "Route Settings". They are applied to new routes:
+
+* "Vehicle", "Side of Road", "Optimization Mode" and "Road Restrictions";
+* "Time at Stop": the default time for new stops (5 minutes unless you change it);
+* "Start & End Locations": the default start and end for new routes.
+
+Tap the check mark to save. When you save new defaults, MyWay also applies them to the current route, but only to the settings you haven't changed for this route. For example, if your default vehicle was "Car" and you change it to "Van", a route that still uses "Car" becomes "Van", while a route where you chose "Truck" yourself stays "Truck".
 
 **Route settings are very important and can dramatically change your route time, distance and the way it looks**. Take some time to experiment with them, because there is no one-fits-all solution.
 
@@ -167,9 +175,19 @@ The fitting mode automatically adjusts the map view to show the most relevant pa
 
 To make the map follow your position, tap the location button at the bottom right of the map.
 
+### Map Layers
+
+Tap the layers button (top right, below the menu button) to choose what the map shows:
+
+* **Map type**: "Simple", "Standard", "Detailed" or "Satellite".
+* **Traffic**: shows the current traffic on the map.
+* **Saved Places**: shows your [saved places](managing-your-contacts-and-places.md#places) as pins. Tap a pin to open the place.
+* **ETA**: shows the estimated arrival time under each scheduled stop on the map, the same time as in the stop list: "\~" before a time means it's approximate, "+1" means the next day. If labels overlap, MyWay hides some of them; zoom in to see more. It's off by default.
+* **My Location**: shows your location on the map (see below).
+
 ### Your Location
 
-You can hide your current location to make it easier to work with the route. It's handy when you build and manage routes outside of your area. To hide your location, tap the layers button (top right, below the menu button) and turn off "My Location".
+You can hide your current location to make it easier to work with the route. It's handy when you build and manage routes outside of your area. To hide your location, open the [map layers](#map-layers) and turn off "My Location".
 
 <figure><img src="../.gitbook/assets/DE6D4CA8-762B-4D0F-B659-28AE19C00EEF.PNG" alt="" width="188"><figcaption><p>My Location in the map layers</p></figcaption></figure>
 

@@ -34,6 +34,19 @@ You can also change your subscription (for example, from Annual back to Monthly)
 
 You can also open this screen from MyWay: menu > "Manage Subscription".
 
+### Google Play Store (Android)
+
+You can change your subscription from your Google Play Store
+
+* Open the Google Play Store app&#x20;
+* Make sure you're signed in with the correct Google Account.
+* Tap "Payments and Subscriptions"
+* Tap the profile icon in the top right-hand corner of the screen
+* Go to "Subscriptions"
+* Select the MyWay subscription (\*)
+* Select a new subscription type from the available options.
+* Confirm new subscription
+
 {% hint style="warning" %}
 _\*If MyWay is not shown in your list of subscriptions, it means you don't have an active subscription for this Apple ID._
 {% endhint %}
