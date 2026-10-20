@@ -1,13 +1,17 @@
 ---
-description: 'Vehicle types: car, van, small truck and truck'
+description: 'Vehicle types: car, van, small truck, truck, bicycle and pedestrian'
 ---
 
 # Understand Vehicle Settings
 
+{% hint style="info" %}
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/guides/understand-vehicle-settings).
+{% endhint %}
+
 When using our route planner, selecting the right vehicle type is essential to ensure the optimal planning of your stops. We offer several vehicle options, each designed for specific purposes and with unique parameters. In this article, we'll explore the differences between these vehicle types to help you make an informed choice.
 
 {% hint style="info" %}
-Vehicle options are below your stop list when you plan your route.
+To choose the vehicle, tap the vehicle button (for example, "Car") under "Route Settings", below your stop list, while you plan your route. To set the default vehicle for new routes, tap the first button in that row and change "Vehicle" there.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/779B3F69-374D-4078-A45C-C6DF7A69D028.PNG" alt="" width="188"><figcaption></figcaption></figure>
@@ -15,10 +19,20 @@ Vehicle options are below your stop list when you plan your route.
 For most users, "Car" and "Van" will be the primary options and will satisfy 95% of their needs. We recommend picking options like "Small Truck" and "Truck" only when your vehicle is very high or long and when you want the app to take truck vehicle restrictions into account.
 
 {% hint style="info" %}
-Vehicle Type will affect the route time and distance. Car route will be different from small-truck and from truck overall. There are some weights that applied for each and every vehicle type and those designed to provide more convinience for driver. [Please make sure you use the right settings](../faq/the-route-myway-produced-doesnt-look-correct.md) to get the best results for your needs.
+Vehicle Type will affect the route time and distance. Car route will be different from small-truck and from truck overall. There are some weights applied to each vehicle type, designed to provide more convenience for the driver. [Please make sure you use the right settings](../faq/the-route-myway-produced-doesnt-look-correct.md) to get the best results for your needs.
 
 However, if you are a van or truck driver, the optimization algorithm will try to avoid small roads and penalize intersections. The algorithm also knows which areas are not allowed for truck drivers (like tunnels, low bridges, or restricted roads) and will avoid that, so your route will look longer but will be suitable for your specific vehicle type.
 {% endhint %}
+
+## Stop limits
+
+The vehicle type also sets the maximum number of stops in a route (completed and skipped stops count, the start and end locations don't):
+
+* Car and Van: up to 200 stops
+* Small Truck and Truck: up to 150 stops
+* Bicycle and Pedestrian: up to 50 stops
+
+If your route has more stops, MyWay shows the "Too many stops" message when you build the route. Split the route or choose another vehicle type.
 
 ## Vehicle Options:
 
@@ -27,7 +41,7 @@ However, if you are a van or truck driver, the optimization algorithm will try t
 * **Dimension:** Height = 1.9 meters (6 ft), Width = 1.6 meters (5 ft)
 * **Weight:** Up to 3500 kg (7700 lbs)
 
-**Description:** The car is the default vehicle type in our route planner. This vehicle option is suitable for any vehicle type, regardless of v
+**Description:** The car is the default vehicle type in our route planner. This vehicle option is suitable for most passenger cars and small delivery vehicles.
 
 ### Van
 
@@ -51,7 +65,7 @@ However, if you are a van or truck driver, the optimization algorithm will try t
 **Description:** The truck option is like a big vehicle specially designed for carrying cargo over long distances, with a speed factor of 80%. It's suitable for transporting very heavy loads, with specific height, width, and length dimensions, and can handle weights between 12000 kg to 40000 kg. This vehicle option favors higher-classification roads, such as motorways and trunks, and checks for truck access, width and height restrictions, and weight limits on the roads.
 
 {% hint style="warning" %}
-If you’re not using a car, make sure your navigation app supports your vehicle type. Apps like Google Maps and Waze don’t accept vehicle parameters from external sources, so you must manually set your vehicle type in their settings. For better accuracy, consider using a navigation app built for your specific vehicle type, like truck-specific nav apps.
+If you’re not using a car, make sure your navigation app supports your vehicle type. MyWay passes only the travel mode (driving, cycling or walking) to navigation apps. Apps like Google Maps and Waze don’t accept vehicle parameters from external sources, so you must manually set your vehicle type in their settings. For better accuracy, consider using a navigation app built for your specific vehicle type, like truck-specific nav apps.
 {% endhint %}
 
 ### Bicycle
@@ -68,4 +82,4 @@ If you’re not using a car, make sure your navigation app supports your vehicle
 
 ## Conclusion
 
-Choosing the right vehicle type is crucial for efficient route planning. Consider the type and weight of your cargo, the vehicle's speed capabilities, and its specific dimensions when selecting. This will help you make the most of our route planner for your specific needs. We recommend sticking to the lowest tier when you pick your vehicle type (for example, if you are a courier driver you will be just fine with "Van" vehicle type, if you deliver goods on Long and Tall Ford Transit you might need to pick "Small Truck" option). The lower tier, the less likely route planner will not be able to build a path to your desired destination. If the route planner returns you a "path can be found" error - please [check this article for a solution](../faq/why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md#path-not-found).
+Choosing the right vehicle type is crucial for efficient route planning. Consider the type and weight of your cargo, the vehicle's speed capabilities, and its specific dimensions when selecting. This will help you make the most of our route planner for your specific needs. We recommend sticking to the lowest tier when you pick your vehicle type (for example, if you are a courier driver you will be just fine with "Van" vehicle type, if you deliver goods on Long and Tall Ford Transit you might need to pick "Small Truck" option). The lower tier, the less likely route planner will not be able to build a path to your desired destination. If the route planner returns you a "Route not found" error, please [check this article for a solution](../faq/why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md).
