@@ -65,7 +65,7 @@ If your route has more stops, MyWay shows the "Too many stops" message when you 
 **Description:** A big vehicle for carrying cargo over long distances and very heavy loads, between 12,000 kg and 40,000 kg, with a speed factor of 80%. Truck favors higher-class roads, such as motorways and trunk roads, and checks truck access, width and height restrictions, and weight limits on the roads.
 
 {% hint style="warning" %}
-If you're not using a car, make sure your navigation app supports your vehicle type. MyWay passes only the travel mode (driving, cycling or walking) to navigation apps. Apps like Google Maps and Waze don't accept vehicle parameters from other apps, so set your vehicle type in their own settings. For better accuracy, consider a navigation app built for your vehicle type, like a truck navigation app.
+If you're not using a car, make sure your navigation app supports your vehicle type. MyWay passes only the travel mode (driving, cycling or walking) to navigation apps. Navigation apps don't accept vehicle parameters from other apps, so set your vehicle type in the navigation app itself. Some apps have no truck settings at all: Google Maps, for example, doesn't take truck restrictions into account. If you drive a truck, use a navigation app made for trucks.
 {% endhint %}
 
 ### Bicycle

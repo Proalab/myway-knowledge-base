@@ -42,6 +42,17 @@ Tap **Done** to save the proof and close the stop.
 
 <div><figure><img src="../.gitbook/assets/pod-arrived.png" alt="" width="188"><figcaption><p>Arrived</p></figcaption></figure> <figure><img src="../.gitbook/assets/pod-success.png" alt="" width="188"><figcaption><p>Arrived and Success</p></figcaption></figure> <figure><img src="../.gitbook/assets/pod-failed.png" alt="" width="188"><figcaption><p>Arrived and Failed</p></figcaption></figure></div>
 
+### Why Arrived and Success are separate
+
+Getting to a stop and finishing it don't always happen at the same moment. You may park and then spend a while delivering to an office on the 10th floor, waiting for the customer or doing a service job. That's why MyWay has two statuses: mark **Arrived** when you get there and **Success** (or **Failed**) when you're done. Each status keeps its own time, so you can see when you arrived and how long the stop actually took.
+
+1. When you get to the stop, swipe it to the right and tap **Arrived**. MyWay saves the time and makes the next stop current.
+2. When you finish, touch and hold the stop and choose **Success** or **Failed**, or open the stop and tap the status there. Add the proof and tap **Done**.
+
+If you tap **Success** right away, MyWay marks the stop as Arrived at the same time. The time of each status is shown under the status buttons in the stop details. The PDF report shows the final status (Success or Failed) and its time.
+
+<figure><img src="../.gitbook/assets/pod-arrived-then-success.png" alt="" width="188"><figcaption><p>Arrived and Success at different times</p></figcaption></figure>
+
 ## Failure reasons
 
 MyWay comes with three failure reasons: "Address not found", "Customer unavailable" and "Parcel is wrong". Add the reasons you run into most often to mark failures faster: go to **Preferences** > **Failure Reasons**, or tap **Edit** next to Failure Reason on the Proof of Delivery screen.

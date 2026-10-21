@@ -43,6 +43,8 @@ You'll find these settings in two places:
 
 [Vehicle Type](../guides/understand-vehicle-settings.md) is a very important setting: it decides which roads are available to you. If you drive a car, it's straightforward, and Car is the default. If you drive a van or a truck, the optimization algorithm tries to avoid small roads and penalizes intersections. It also knows which areas are off-limits for trucks (like tunnels, low bridges or restricted roads) and avoids them, so your route may look longer, but it will suit your vehicle. Choose **Truck** only when you drive a big truck, not a small one. If you drive a van, stick to **Van** or even **Car**. If you see issues after changing the vehicle type, see [this article](why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md).
 
+MyWay builds the route for your vehicle, but turn-by-turn directions come from your navigation app, and it builds its own path between stops. **Set the same vehicle type in your navigation app**, so it leads you along roads your vehicle can use. Some apps don't support trucks at all: Google Maps, for example, doesn't take truck restrictions (low bridges, weight or height limits) into account. If you drive a truck, use a navigation app made for trucks. See [Understand Vehicle Settings](../guides/understand-vehicle-settings.md).
+
 ### **Optimization Mode**
 
 [Optimization Mode](../guides/how-to-use-myway-route-planner.md#optimization-mode) is one of the most fundamental settings for route optimization. There are two options: **Optimize for Time** (more efficient) and **Optimize for Distance**.
