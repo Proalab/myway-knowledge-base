@@ -22,7 +22,7 @@ Not yet. The MyWay API is coming soon.
 
 ### Is there a web version?
 
-The web version is coming soon.
+The web version for individual users is coming in late November – early December 2026. The business version for teams is coming soon.
 
 ### Do I need an account?
 
