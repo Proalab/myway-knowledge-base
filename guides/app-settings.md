@@ -55,7 +55,7 @@ To open the app settings, open the menu (☰, top right) and tap **Preferences**
 ## Other settings and where to find them
 
 * **Default Route Settings and default start and end locations**: the first button under Route Settings while you plan a route. [More](how-to-use-myway-route-planner.md#default-route-settings)
-* **Map type, traffic, saved places, ETA labels and your location on the map**: the layers button on the map. [More](how-to-use-myway-route-planner.md#map-layers)
+* **Map type, traffic, saved places, ETA labels and your location on the map**: the layers button on the map. [More](using-the-map.md#map-layers)
 * **Sections of the stop form**: the gear button in the stop form. [More](understanding-stop-settings.md)
 * **App language**: iOS Settings > Apps > MyWay > Language. [More](../what-is-myway-route-planner/what-languages-myway-supports.md)
 * **Location, contacts, camera and photos access**: iOS Settings > Apps > MyWay.

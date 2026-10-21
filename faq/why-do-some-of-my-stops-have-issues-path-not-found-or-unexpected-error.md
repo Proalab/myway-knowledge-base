@@ -48,7 +48,7 @@ Sometimes the route can't be built because the stops are too far from each other
 
 **Solution:**
 
-**If you build a route in a remote region,** [**turn off My Location**](../guides/how-to-use-myway-route-planner.md#your-location) **in the map layers and set a specific address as your start and end (not your current location).** If your stops are spread out, consider splitting one big route into several, for example one route each for North, South, West and East, or one route for each state or region. Don't hesitate to contact us if you need help with this.
+**If you build a route in a remote region,** [**turn off My Location**](../guides/using-the-map.md#your-location) **in the map layers and set a specific address as your start and end (not your current location).** If your stops are spread out, consider splitting one big route into several, for example one route each for North, South, West and East, or one route for each state or region. Don't hesitate to contact us if you need help with this.
 
 **Explanation:**
 

@@ -54,4 +54,4 @@ You can use routes with up to 15 stops for free. MyWay offers Premium when you c
 
 ### Does MyWay track my location in the background?
 
-No. MyWay asks for your location only while you use the app ("While Using the App"): to show you on the map and to update the route from where you are. You can hide your location on the map in the [map layers](../guides/how-to-use-myway-route-planner.md#map-layers). [More about privacy](your-privacy-and-where-we-store-your-data.md)
+No. MyWay asks for your location only while you use the app ("While Using the App"): to show you on the map and to update the route from where you are. You can hide your location on the map in the [map layers](../guides/using-the-map.md#map-layers). [More about privacy](your-privacy-and-where-we-store-your-data.md)
