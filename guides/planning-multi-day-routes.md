@@ -1,7 +1,7 @@
 # Planning Multi-Day routes
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/guides/planning-multi-day-routes).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/guides/planning-multi-day-routes).
 {% endhint %}
 
 MyWay Route Planner, like no other app on the market, supports multi-day routes, road trips and travel, and has many settings that help you build, follow and understand such routes better.

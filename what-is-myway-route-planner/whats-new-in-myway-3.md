@@ -5,7 +5,7 @@ description: What changed in the iOS app version 3 and what happens to your data
 # What's new in MyWay 3
 
 {% hint style="info" %}
-**Using MyWay on Android?** The Android app is still on version 2. See [Version 2 of this knowledge base](https://help.mywayroute.com/).
+**Using MyWay on Android?** The Android app is still on version 2. See [Version 2 of this knowledge base](https://help.mywayroute.com/v2/).
 {% endhint %}
 
 MyWay 3 is the new version of MyWay Route Planner for iPhone and iPad, with a new design, new features and many settings in new places. Here's what happens to your data after the update and where to find things now.

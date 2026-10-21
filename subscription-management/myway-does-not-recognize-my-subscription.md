@@ -5,7 +5,7 @@ description: Restore your subscription if MyWay doesn't recognize it
 # MyWay does not recognize my subscription
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/subscription-management/myway-does-not-recognize-my-subscription).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/subscription-management/myway-does-not-recognize-my-subscription).
 {% endhint %}
 
 You have an active subscription and paid for this month, but MyWay doesn't give you Premium, or the app offers you to subscribe again.

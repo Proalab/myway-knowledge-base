@@ -2,7 +2,7 @@
 
 Yes. The iOS app (iPhone and iPad) is MyWay 3, the new version of the app. The Android app is still on version 2: it looks different, and some features work differently or aren't available yet.
 
-This knowledge base describes the iOS app. If you use MyWay on Android, see [Version 2 of this knowledge base](https://help.mywayroute.com/).
+This knowledge base describes the iOS app. If you use MyWay on Android, see [Version 2 of this knowledge base](https://help.mywayroute.com/v2/).
 
 For what's new in the iOS app, see [What's new in MyWay 3](what-is-myway-route-planner/whats-new-in-myway-3.md).
 

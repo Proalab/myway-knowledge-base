@@ -5,7 +5,7 @@ description: Build a route, choose route settings, optimize the stop order and f
 # How to use MyWay Route Planner
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/guides/how-to-use-myway-route-planner).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/guides/how-to-use-myway-route-planner).
 {% endhint %}
 
 The primary purpose of the MyWay Route Planner is to save you time and money by reducing the need for manual route planning and minimizing mileage traveled.

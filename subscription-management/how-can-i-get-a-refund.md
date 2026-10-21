@@ -5,7 +5,7 @@ description: How to get a refund if you were charged after canceling your subscr
 # How can I get a refund?
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/subscription-management/how-can-i-get-a-refund).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/subscription-management/how-can-i-get-a-refund).
 {% endhint %}
 
 If you were charged after canceling your subscription, or forgot to cancel your free trial, you might be eligible for a refund.

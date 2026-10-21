@@ -5,7 +5,7 @@ description: Why do I have to pay for MyWay Route Planner?
 # How much does MyWay Route Planner cost?
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/what-is-myway-route-planner/how-much-does-myway-route-planner-cost).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/what-is-myway-route-planner/how-much-does-myway-route-planner-cost).
 {% endhint %}
 
 You can optimize routes with up to 15 stops (locations/addresses) for free. If you need more, start a free trial of the full version of MyWay (Premium). With Premium, you can optimize routes with up to 200 stops, depending on your [vehicle type](../guides/understand-vehicle-settings.md#stop-limits).

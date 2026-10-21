@@ -5,7 +5,7 @@ description: 'Vehicle types: car, van, small truck, truck, bicycle and pedestria
 # Understand Vehicle Settings
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/guides/understand-vehicle-settings).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/guides/understand-vehicle-settings).
 {% endhint %}
 
 Selecting the right vehicle type is essential for planning your stops well. We offer several vehicle options, each designed for specific purposes and with its own parameters. Below are the differences between them, to help you choose.

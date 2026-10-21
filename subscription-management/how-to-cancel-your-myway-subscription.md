@@ -5,7 +5,7 @@ description: Cancel your MyWay subscription or free trial on iPhone and iPad
 # How to cancel your MyWay subscription?
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/subscription-management/how-to-cancel-your-myway-subscription).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/subscription-management/how-to-cancel-your-myway-subscription).
 {% endhint %}
 
 ## **During your trial** <a href="#during-your-trial" id="during-your-trial"></a>

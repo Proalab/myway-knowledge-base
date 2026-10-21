@@ -5,7 +5,7 @@ description: Add stops from your contacts and build a list of saved places
 # Managing your Contacts and Places
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/guides/managing-your-contacts-and-places).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/guides/managing-your-contacts-and-places).
 {% endhint %}
 
 MyWay Route Planner has a lot of tools that can help you with often-visited places. That is especially valuable for businesses that go to the same places every now and then and want a simple and efficient way to repeat routes or build a new one in a few taps.

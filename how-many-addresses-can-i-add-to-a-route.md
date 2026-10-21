@@ -5,7 +5,7 @@ description: How many stops can I add to MyWay?
 # How many addresses can I add to a route?
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/how-many-addresses-can-i-add-to-a-route).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/how-many-addresses-can-i-add-to-a-route).
 {% endhint %}
 
 How many stops fit in one route depends on your [vehicle type](guides/understand-vehicle-settings.md#stop-limits):

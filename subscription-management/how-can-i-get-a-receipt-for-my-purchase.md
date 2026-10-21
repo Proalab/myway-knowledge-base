@@ -7,7 +7,7 @@ description: >-
 # How can I get a receipt for my purchase?
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/subscription-management/how-can-i-get-a-receipt-for-my-purchase).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/subscription-management/how-can-i-get-a-receipt-for-my-purchase).
 {% endhint %}
 
 We do not store your credit card details and do not charge your bank account directly. All purchases on iPhone or iPad go through the Apple App Store, and all purchases on Android devices are handled by Google Play. Both send you a receipt by email after they charge your payment method for the subscription. This can take a few days after the purchase or renewal.

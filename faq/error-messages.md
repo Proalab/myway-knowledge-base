@@ -5,7 +5,7 @@ description: What the messages, warnings and errors in MyWay mean and what to do
 # Error messages and what they mean
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this knowledge base](https://help.mywayroute.com/).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this knowledge base](https://help.mywayroute.com/v2/).
 {% endhint %}
 
 Find your message by its text (use your browser's search or the search on this site) to see what it means and what to do.

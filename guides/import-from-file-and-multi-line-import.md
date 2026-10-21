@@ -1,7 +1,7 @@
 # Import from file and multi-line import
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/guides/import-from-file-and-multi-line-import).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/guides/import-from-file-and-multi-line-import).
 {% endhint %}
 
 Add many stops at once instead of one by one: paste a list of addresses (multi-line import), or import an .XLSX or .CSV file from your iPhone, from a web link or from [another app](#import-a-file-from-another-app).

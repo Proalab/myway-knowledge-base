@@ -7,7 +7,7 @@ description: >-
 # The route MyWay produced doesn't look correct?
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/faq/the-route-myway-produced-doesnt-look-correct).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/faq/the-route-myway-produced-doesnt-look-correct).
 {% endhint %}
 
 ## How optimization works <a href="#vehicleroutingproblemdescription" id="vehicleroutingproblemdescription"></a>

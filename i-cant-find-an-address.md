@@ -5,7 +5,7 @@ description: Or the address is wrong
 # I can't find an address
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/i-cant-find-an-address).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/i-cant-find-an-address).
 {% endhint %}
 
 MyWay combines the most up-to-date databases of addresses and places from Google Maps, Mapbox, HERE, TomTom, Apple Maps, ArcGIS and OpenStreetMap in one route planner, so we don't rely on a single provider. Still, an address may be missing from our database or be inaccurate. Let's face it: every provider out there works better in some areas and not that great in others.

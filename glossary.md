@@ -5,7 +5,7 @@ description: MyWay terms and the other words people use for them
 # Glossary
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this knowledge base](https://help.mywayroute.com/).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this knowledge base](https://help.mywayroute.com/v2/).
 {% endhint %}
 
 The words MyWay uses in the app, and the other words people often use for the same things.

@@ -5,7 +5,7 @@ description: How to use Priority, Time Window, Time at Stop, and pickup and deli
 # Understanding Stop Settings
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/guides/understanding-stop-settings).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/guides/understanding-stop-settings).
 {% endhint %}
 
 To make sure your route matches your visit or delivery instructions and real-world situations, MyWay has a few settings for every stop. These four change how MyWay builds the route:

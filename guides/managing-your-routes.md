@@ -5,7 +5,7 @@ description: Create, save, find, duplicate and complete your routes in MyWay Rou
 # Managing your Routes
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/guides/managing-your-routes).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/guides/managing-your-routes).
 {% endhint %}
 
 MyWay Route Planner lets you create as many routes as you want. All routes are saved automatically after any change.

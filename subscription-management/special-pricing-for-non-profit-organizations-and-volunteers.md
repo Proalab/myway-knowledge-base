@@ -5,7 +5,7 @@ description: Special price for charity, non-profit and volunteers
 # Special pricing for non-profit organizations and volunteers
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/subscription-management/special-pricing-for-non-profit-organizations-and-volunteers).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/subscription-management/special-pricing-for-non-profit-organizations-and-volunteers).
 {% endhint %}
 
 We love people who are passionate about helping others. If you have a non-profit organization or help others as a volunteer, please contact us: in the app, open the menu (☰, top right) and tap **Talk to Us**, or **Contact** to send us an email. Please share your story with us, and we can offer you a special price.

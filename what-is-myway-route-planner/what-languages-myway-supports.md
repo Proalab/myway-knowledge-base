@@ -1,7 +1,7 @@
 # What languages MyWay supports?
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/what-is-myway-route-planner/what-languages-myway-supports).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/what-is-myway-route-planner/what-languages-myway-supports).
 {% endhint %}
 
 ### MyWay Route Planner is translated into

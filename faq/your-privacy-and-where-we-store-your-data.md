@@ -5,7 +5,7 @@ description: Where do we store your routes, saved places and all your data?
 # Your privacy and where we store your data
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/faq/your-privacy-and-where-we-store-your-data).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/faq/your-privacy-and-where-we-store-your-data).
 {% endhint %}
 
 We, the MyWay Route Planner team, care about your privacy. We believe all your data belongs to you and shouldn't be accessed by anyone except you.

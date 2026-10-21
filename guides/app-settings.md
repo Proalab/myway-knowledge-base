@@ -5,7 +5,7 @@ description: Every setting in Preferences, what it does and its default value
 # App Settings (Preferences)
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this knowledge base](https://help.mywayroute.com/).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this knowledge base](https://help.mywayroute.com/v2/).
 {% endhint %}
 
 To open the app settings, open the menu (☰, top right) and tap **Preferences**. Settings of a single route (vehicle, departure time, road restrictions, side of road, optimization mode) aren't here: they're in [Route Settings](how-to-use-myway-route-planner.md#route-settings), below the stop list.

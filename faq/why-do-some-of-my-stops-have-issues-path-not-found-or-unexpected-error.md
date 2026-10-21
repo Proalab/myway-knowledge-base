@@ -1,7 +1,7 @@
 # Why do some of my stops have issues, "Route not found" or other errors
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/faq/why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/faq/why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error).
 {% endhint %}
 
 ## **Stops with Issues**

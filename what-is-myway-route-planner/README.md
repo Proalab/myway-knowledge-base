@@ -1,7 +1,7 @@
 # What is MyWay Route Planner?
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/what-is-myway-route-planner).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/what-is-myway-route-planner).
 {% endhint %}
 
 **MyWay Route Planner** **builds the most efficient routes**. It puts the stops of your route in the best order, so you save time and money on fuel.

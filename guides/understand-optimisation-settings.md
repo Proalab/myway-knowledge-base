@@ -7,7 +7,7 @@ description: >-
 # Understand Optimisation Settings
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/guides/understand-optimisation-settings).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/guides/understand-optimisation-settings).
 {% endhint %}
 
 You can build a route exactly the way you want it, in your own order, or let MyWay reorder the stops to give you the fastest or shortest route. Once you're on the road, you can update the route or reoptimize the stops that are left.

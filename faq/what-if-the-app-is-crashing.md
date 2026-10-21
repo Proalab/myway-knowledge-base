@@ -1,7 +1,7 @@
 # What if the app is crashing
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/faq/what-if-the-app-is-crashing).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/faq/what-if-the-app-is-crashing).
 {% endhint %}
 
 If MyWay freezes, crashes or doesn't work, try these steps:

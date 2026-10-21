@@ -5,7 +5,7 @@ description: Supported payment methods for the app subscription
 # Which payment methods are supported?
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/subscription-management/which-payment-methods-are-supported).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/subscription-management/which-payment-methods-are-supported).
 {% endhint %}
 
 All purchases on iPhone or iPad go through the Apple App Store and are charged to your Apple ID. Purchases on Android phones and tablets go through the Google Play Store. So the payment methods you can use are the ones your store accepts.

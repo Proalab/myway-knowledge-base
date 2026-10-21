@@ -5,7 +5,7 @@ description: Short answers to questions we often get about what MyWay can and ca
 # Common questions
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this knowledge base](https://help.mywayroute.com/).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this knowledge base](https://help.mywayroute.com/v2/).
 {% endhint %}
 
 ### Does MyWay have built-in turn-by-turn navigation?

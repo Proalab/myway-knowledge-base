@@ -1,7 +1,7 @@
 # Why can't I buy a subscription?
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/subscription-management/why-cant-i-buy-a-subscription).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/subscription-management/why-cant-i-buy-a-subscription).
 {% endhint %}
 
 To buy a subscription, open the menu (☰, top right) and tap **Get Premium**. MyWay also offers it when you choose the stop order for a route with more than 15 stops.

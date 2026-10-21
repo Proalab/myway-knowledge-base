@@ -8,7 +8,7 @@ description: >-
 # Proof of Delivery
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/guides/proof-of-delivery).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/guides/proof-of-delivery).
 {% endhint %}
 
 Proof of Delivery lets you record what happened at each stop while you're on a route: set a status, take photos, collect a signature and add notes. These features work when the Proof of Delivery setting is on.

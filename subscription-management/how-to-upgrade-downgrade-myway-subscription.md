@@ -5,7 +5,7 @@ description: Switch between the Monthly and Annual plans on iPhone and iPad
 # How to upgrade/downgrade MyWay subscription?
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/subscription-management/how-to-upgrade-downgrade-myway-subscription).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/subscription-management/how-to-upgrade-downgrade-myway-subscription).
 {% endhint %}
 
 MyWay has two plans: Monthly and Annual.

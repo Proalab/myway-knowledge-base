@@ -5,7 +5,7 @@ description: Export your route to XLS, CSV or PDF, print a manifest, or share a 
 # Export your route and share it with others
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/guides/export-your-route-and-share-it-with-others).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/guides/export-your-route-and-share-it-with-others).
 {% endhint %}
 
 You can export your route at any moment. Tap **…** in the route header and choose **Export & Share**. For a route in the Routes list, tap **…** next to the route and choose **Report**.

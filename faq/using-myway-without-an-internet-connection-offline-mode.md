@@ -5,7 +5,7 @@ description: Planning your route and navigating to your stops when you're offlin
 # Using MyWay without an internet connection (Offline Mode)
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/faq/using-myway-without-an-internet-connection-offline-mode).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/faq/using-myway-without-an-internet-connection-offline-mode).
 {% endhint %}
 
 MyWay Route Planner lets you do a lot without an internet connection, but planning a route needs one. Here's how to get ready for working offline.

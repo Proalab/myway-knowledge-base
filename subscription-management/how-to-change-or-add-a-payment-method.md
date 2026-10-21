@@ -5,7 +5,7 @@ description: Change or add a payment method for your subscription on iPhone and 
 # How to change or add a payment method?
 
 {% hint style="info" %}
-**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/subscription-management/how-to-change-or-add-a-payment-method).
+**Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/subscription-management/how-to-change-or-add-a-payment-method).
 {% endhint %}
 
 Payments for MyWay go through the Apple App Store or Google Play, so you change your payment method there.
