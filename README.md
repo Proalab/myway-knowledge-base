@@ -78,6 +78,10 @@ Step-by-step guides to planning, running and sharing your routes:
 [understand-optimisation-settings.md](guides/understand-optimisation-settings.md)
 {% endcontent-ref %}
 
+{% content-ref url="guides/understand-route-settings.md" %}
+[understand-route-settings.md](guides/understand-route-settings.md)
+{% endcontent-ref %}
+
 {% content-ref url="guides/managing-your-routes.md" %}
 [managing-your-routes.md](guides/managing-your-routes.md)
 {% endcontent-ref %}

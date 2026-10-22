@@ -47,7 +47,7 @@ MyWay builds the route for your vehicle, but turn-by-turn directions come from y
 
 ### **Optimization Mode**
 
-[Optimization Mode](../guides/how-to-use-myway-route-planner.md#optimization-mode) is one of the most fundamental settings for route optimization. There are two options: **Optimize for Time** (more efficient) and **Optimize for Distance**.
+[Optimization Mode](../guides/understand-route-settings.md#optimization-mode) is one of the most fundamental settings for route optimization. There are two options: **Optimize for Time** (more efficient) and **Optimize for Distance**.
 
 Clearly, the "best route" means different things to different people. For most people, the best route is the fastest one. For some, though, it's the shortest path. And some prefer a trip that uses highways or avoids tolls and tunnels. Besides, the fastest or shortest route isn't always the most efficient. For instance, the quickest route might have many left turns, and the shortest one might go through heavy traffic. On both of these routes, your fuel consumption goes up significantly. And what if the fastest route is three minutes faster but several miles longer? Is it still efficient? What if the shortest path saves you 5 miles but takes you through two tolls? Is that efficient? Pick the option you believe will serve you better, or keep the default, **Optimize for Time**.
 
@@ -71,7 +71,7 @@ The app can build more efficient routes when **Allow U-turns on Waypoints** is o
 
 ### **Road Restrictions**
 
-[Road Restrictions](../guides/how-to-use-myway-route-planner.md#road-restrictions) let you avoid highways, ferries, toll roads and unpaved roads. Avoiding them can make the route longer.
+[Road Restrictions](../guides/understand-route-settings.md#road-restrictions) let you avoid highways, ferries, toll roads and unpaved roads. Avoiding them can make the route longer.
 
 {% hint style="info" %}
 Examples:

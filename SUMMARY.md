@@ -18,6 +18,7 @@
 
 * [How to use MyWay Route Planner](guides/how-to-use-myway-route-planner.md)
 * [Using the Map](guides/using-the-map.md)
+* [Understand Route Settings](guides/understand-route-settings.md)
 * [Understand Optimisation Settings](guides/understand-optimisation-settings.md)
 * [Managing your Routes](guides/managing-your-routes.md)
 * [Managing your Contacts and Places](guides/managing-your-contacts-and-places.md)

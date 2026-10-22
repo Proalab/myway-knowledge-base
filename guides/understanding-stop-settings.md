@@ -75,7 +75,7 @@ Time windows are ignored if you optimize for distance or follow your route in yo
 
 To calculate accurate ETAs, MyWay needs to know how much time you'll spend at each stop: from the moment you stop your car for the visit or delivery until you leave for the next stop.
 
-Each stop can have its own time at stop, so set a longer or shorter one where you know a stop takes more or less time. To use the same time for every unfinished stop of the route, tap **Apply to All Stops**. New stops get the default time (5 minutes), which you can change in [Route Settings](how-to-use-myway-route-planner.md#route-settings).
+Each stop can have its own time at stop, so set a longer or shorter one where you know a stop takes more or less time. To use the same time for every unfinished stop of the route, tap **Apply to All Stops**. New stops get the default time (5 minutes), which you can change in [Route Settings](understand-route-settings.md).
 
 **Set the time at stop as accurately as you can. If it's off by even 1 or 2 minutes, it can greatly impact your ETAs.** See [our suggested stop durations](../faq/what-service-time-should-you-choose.md).
 

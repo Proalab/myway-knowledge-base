@@ -28,7 +28,7 @@ For more options, tap **…** next to **Go** (or touch and hold a stop and choos
 Apple Maps and Google Maps can take up to 10 of your remaining stops at once. In Navigation to Stop, the **Navigate through** button shows the numbers of the first and the last stop it will pass. Other navigation apps take one stop at a time, so MyWay doesn't show this button for them.
 
 {% hint style="warning" %}
-A navigation app builds its own route through these stops. It doesn't know your time windows, priorities, [vehicle type](understand-vehicle-settings.md) or [road restrictions](how-to-use-myway-route-planner.md#road-restrictions), so check that it follows the order you planned.
+A navigation app builds its own route through these stops. It doesn't know your time windows, priorities, [vehicle type](understand-vehicle-settings.md) or [road restrictions](understand-route-settings.md#road-restrictions), so check that it follows the order you planned.
 {% endhint %}
 
 ## Navigation apps

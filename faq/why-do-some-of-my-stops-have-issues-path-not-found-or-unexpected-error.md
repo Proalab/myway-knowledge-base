@@ -61,7 +61,7 @@ This can happen if your vehicle type is a big vehicle, like a truck (lorry). The
 <figure><img src="../.gitbook/assets/vehicle-picker.png" alt="" width="188"><figcaption><p>Vehicle type settings</p></figcaption></figure>
 
 {% hint style="info" %}
-[Vehicle Type](../guides/understand-vehicle-settings.md) and [route settings](../guides/how-to-use-myway-route-planner.md#route-settings) affect how the route looks, its time and distance, and how "correct" and convenient it is overall. [Make sure you use the right settings](the-route-myway-produced-doesnt-look-correct.md) to get the best results for your needs.
+[Vehicle Type](../guides/understand-vehicle-settings.md) and [route settings](../guides/understand-route-settings.md) affect how the route looks, its time and distance, and how "correct" and convenient it is overall. [Make sure you use the right settings](the-route-myway-produced-doesnt-look-correct.md) to get the best results for your needs.
 {% endhint %}
 
 ## **Other errors** <a href="#unexpected-error" id="unexpected-error"></a>

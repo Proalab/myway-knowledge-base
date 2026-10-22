@@ -24,7 +24,7 @@ MyWay then asks where the route ends. Tap **Return to Start** to finish where yo
 
 Then add the places you need to visit with **Add Stop** or the magnifier button in the top left corner of the map. Tap a search result to add the stop and close the search, or tap **+** next to it to add the stop and keep searching for the next one.
 
-If most of your routes start and end in the same places, set a default start and end location in [Route Settings](#route-settings).
+If most of your routes start and end in the same places, set a default start and end location in [Default Route Settings](understand-route-settings.md#default-route-settings).
 
 Besides the address search, the **Add Stop** screen lets you add stops from:
 
@@ -58,49 +58,9 @@ Some addresses might not appear in the search results. If this happens, add more
 
 ## Route Settings
 
-While you plan a route, its settings are shown below the stops, under **Route Settings**. Tap a setting to change it for this route only:
+While you plan a route, its settings are shown below the stops, under **Route Settings**: vehicle, departure time, road restrictions, side of road and optimization mode. Tap a setting to change it for this route only. If you use the same settings for most routes, make them the default, together with the default start and end locations.
 
-* **Vehicle**: what you drive, for example Car. See [Vehicle Settings](understand-vehicle-settings.md).
-* **Departure time**: the route departs now by default. To plan it for later, tap **Depart now**, pick a date and time and tap **Done**. **Clear** switches back to departing now.
-* **Road Restrictions**: roads to [avoid](#road-restrictions), such as toll roads.
-* **Side of Road**: Any Side, Same Side as Stop or Across from Stop, for all stops in the route.
-* **Optimization mode**: [Optimize for Time or Optimize for Distance](#optimization-mode).
-
-Swipe the row to the left to see all settings. A highlighted setting means this route differs from the standard value, for example when you set a departure time or a road to avoid (the vehicle is always highlighted). You can change these settings only while you plan the route; after you start it, they're hidden.
-
-**Route settings are very important and can dramatically change your route time, distance and the way it looks.** Take some time to experiment with them, because there is no one-size-fits-all solution.
-
-<figure><img src="../.gitbook/assets/how-to-use-route-settings.png" alt="" width="188"><figcaption><p>Route Settings</p></figcaption></figure>
-
-{% hint style="info" %}
-**A tip from us:** you can plan a route in advance. Set the departure time, and MyWay calculates the ETAs from it. After you tap **Start Route**, the start location stays the current step with its own **Start Route** button. Tap it only when you actually leave: MyWay marks the start as done and recalculates all ETAs from that moment. This keeps your ETAs accurate and the traffic data up to date.
-{% endhint %}
-
-### Default Route Settings
-
-If you use the same settings for most routes, make them the default. The first button in the row (with two switches) opens the default **Route Settings**, which MyWay applies to new routes:
-
-* vehicle, side of road, optimization mode and road restrictions;
-* **Time at Stop**: the default time for new stops;
-* **Start & End Locations**: the default start and end for new routes.
-
-Tap the check mark to save. MyWay also applies the new defaults to the current route, but only to the settings you haven't changed for this route. For example, if your default vehicle was Car and you change it to Van, a route that still uses Car becomes Van, while a route where you chose Truck yourself stays Truck.
-
-### Optimization Mode
-
-**One of the most impactful settings for route planning is Optimization Mode**, which offers two options: **Optimize for Time** and **Optimize for Distance**. This setting affects both the optimized route and the order of your stops.
-
-**Optimizing for time is recommended in 90% of cases.** It works similarly to most navigation apps, focusing on efficiency rather than the shortest path. While the route might be slightly longer in distance, it's typically faster, more fuel-efficient and more convenient. These routes usually involve fewer turns, traffic lights and route changes.
-
-Optimizing for distance prioritizes the shortest possible route, even if it sacrifices time and convenience. Routes optimized this way often include more turns, traffic lights and unpaved roads. While it's less practical for most users, it can be useful for drivers who know the area very well.
-
-### Road Restrictions
-
-Road restrictions let you avoid highways, ferries, toll roads or unpaved roads. Some of these roads might be necessary to complete the route, so MyWay can't always avoid them. When it can't, it keeps their use to a minimum.
-
-{% hint style="warning" %}
-MyWay doesn't pass road restrictions to navigation apps. Set the same options in your navigation app, otherwise it may lead you along the roads you wanted to avoid.
-{% endhint %}
+**Route settings are very important and can dramatically change your route time, distance and the way it looks.** [Read how each setting works](understand-route-settings.md).
 
 ## Stop's Settings
 
@@ -116,22 +76,32 @@ When you add stops, pay attention to the warnings and errors MyWay shows you. Fo
 
 MyWay also supports multi-day routes. [Here's how to build them](planning-multi-day-routes.md).
 
-When you've added all stops and chosen the route settings, tap the round blue button with arrows at the bottom right. MyWay builds the route and asks you to choose the stop order.
+## The Optimize Button
 
-{% hint style="info" %}
-Without a Premium subscription, you can use routes with up to 15 stops. For a longer route, MyWay offers you Premium when you choose the stop order. [How much does MyWay cost?](../what-is-myway-route-planner/how-much-does-myway-route-planner-cost.md)
-{% endhint %}
+**To build and optimize a route you're planning, tap the optimize button: the round blue button with two circular arrows at the bottom right of the screen, over the stop list.** It isn't in the **…** menu. If you don't see it, pull the route panel up or tap **Done** if you're reordering stops.
+
+<figure><img src="../.gitbook/assets/how-to-use-optimize-button.png" alt="" width="188"><figcaption><p>The optimize button</p></figcaption></figure>
+
+On a route in progress, use **…** > **Reoptimize Route** ([see below](#update-and-actualize-route)). A completed route can't be optimized until you tap **…** > **Edit Route**. [Where to optimize in each route status](understand-optimisation-settings.md#where-to-optimize-a-route)
 
 ## Optimization Options (Build and Optimize your route)
 
-MyWay shows two versions of your route, each with the time you'll be done by and the distance:
+When you've added all stops and chosen the route settings:
 
-* [**Current keeps the stop order**](understand-optimisation-settings.md#optimize-reoptimize-route-settings) exactly as you entered it, with no optimization applied.
-* [**Optimized**](understand-optimisation-settings.md#optimize-reoptimize-route-settings) **automatically reorders the stops for the fastest or shortest route**, based on your optimization mode.
+1. Tap the optimize button. Its icon spins while MyWay calculates; a long route can take a minute or more. To cancel, tap the button again.
+2. The **Optimize Route** screen shows two versions of your route, each with the time you'll be done by, the distance and issues, if any:
+   * [**Current keeps the stop order**](understand-optimisation-settings.md#optimize-reoptimize-route-settings) exactly as you entered it, with no optimization applied.
+   * [**Optimized**](understand-optimisation-settings.md#optimize-reoptimize-route-settings) **automatically reorders the stops for the fastest or shortest route**, based on your optimization mode. It's selected by default.
+3. Tap a version to choose it. The button at the bottom changes: **Optimize Stop Order** for Optimized (it also shows how much time and distance you save) or **Keep Stop Order** for Current.
+4. Tap the button. MyWay applies the version: the stops get the new order and arrival times, and the optimize button turns into **Start Route**.
 
-Tap a version, then tap **Keep Stop Order** (for Current) or **Optimize Stop Order** (for Optimized). The button also shows how much time and distance the optimized order saves.
+To leave without changes, tap **X**. If the start location or stops are missing, MyWay shows where to add them.
 
 <figure><img src="../.gitbook/assets/how-to-use-optimize-route.png" alt="" width="188"><figcaption><p>Choose the stop order</p></figcaption></figure>
+
+{% hint style="info" %}
+Without a Premium subscription, you can use routes with up to 15 stops. For a longer route, you still see both versions, and MyWay offers Premium when you apply one. [How much does MyWay cost?](../what-is-myway-route-planner/how-much-does-myway-route-planner-cost.md)
+{% endhint %}
 
 {% hint style="warning" %}
 Sometimes an optimized route takes more time or covers a longer distance than the route without optimization. This happens because optimization considers all stop settings: [time windows, priority and time at stop affect your route's overall time and distance](understanding-stop-settings.md). Our **algorithm builds the most efficient route possible, considering all these parameters**. It may only look less efficient than the current order, because the **current order simply ignores all parameters**. To learn more, see our [article that explains how the route optimization algorithm works](../faq/the-route-myway-produced-doesnt-look-correct.md).
@@ -149,7 +119,7 @@ Our users also told us that some apps "build your route anyway" and show you tho
 
 ### Confirm your Route
 
-After you choose the stop order, MyWay shows the **Start Route** button. If you're done planning, tap it to start the route. To keep editing, tap the arrow next to **Start Route**: the button hides, and you can add stops or change settings. Then tap the round blue button again to rebuild the route.
+After you choose the stop order, MyWay shows the **Start Route** button in place of the optimize button. If you're done planning, tap it to start the route. To keep editing, tap the arrow next to **Start Route**. If you change the route (add, delete or move a stop, change a setting), the optimize button also comes back. Tap it again to rebuild the route.
 
 When you tap **Start Route**, MyWay recalculates the route using the latest data, including time windows, traffic and other factors.
 
@@ -192,8 +162,9 @@ The buttons on the right side of the map fit the whole route, the current segmen
 
 If you're running late or have changed your route, update the ETAs or the stop order:
 
-1. Tap **…** in the route header and choose **Reoptimize Route**.
-2. Choose **Update Route** to refresh the route and ETAs and keep the stop order, or **Reoptimize Route** to reorder all stops and build the optimal route.
+1. Tap **…** in the route header and choose **Reoptimize Route**. If the round optimize button is shown at the bottom right, you can tap it instead.
+2. MyWay asks "How to reoptimize?". Choose **Update Route** to refresh the route and ETAs and keep the stop order, or **Reoptimize Route** to reorder all stops and build the optimal route. Then tap the button at the bottom.
+3. **Update Route** applies right away; **Reoptimize Route** opens the **Optimize Route** screen, [as when you plan a route](#optimization-options-build-and-optimize-your-route).
 
 [Read more about these options](understand-optimisation-settings.md#route-update-and-reoptimize).
 
@@ -203,7 +174,7 @@ You can change the route even after optimization: before you start it or while i
 
 **Before you start the route**
 
-Tap the arrow next to **Start Route** and make your changes. Then tap the round blue button and choose **Keep Stop Order** to keep your own stop sequence, or **Optimize Stop Order**.
+Tap the arrow next to **Start Route** and make your changes. Then tap the optimize button and choose the stop order again.
 
 **After you start the route**
 
@@ -213,7 +184,7 @@ For bigger changes, use full edit mode:
 
 1. Tap **…** in the route header and choose **Edit Route**. MyWay warns you that you'll have to start the route again; tap **Edit Route Anyway**.
 2. Add, delete and reorder stops.
-3. Tap the round blue button and choose **Keep Stop Order** to keep your manual layout, or **Optimize Stop Order** to rebuild the most efficient route.
+3. The route is back in planning, so tap the round optimize button and choose **Keep Stop Order** to keep your manual layout, or **Optimize Stop Order** to rebuild the most efficient route.
 
 {% hint style="info" %}
 If you have any questions at this stage, drop us a line through the online chat: in the MyWay app, open the menu (☰, top right) and tap **Talk to Us**.

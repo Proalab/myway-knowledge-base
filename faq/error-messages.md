@@ -14,7 +14,7 @@ Find your message by its text (use your browser's search or the search on this s
 
 | Message | What it means | What to do |
 | --- | --- | --- |
-| "Couldn't calculate the route. Try again." | The route couldn't be built this time. | Check your internet connection and tap the round blue button again. If it keeps happening, [contact us](../how-to-contact-us.md). |
+| "Couldn't calculate the route. Try again." | The route couldn't be built this time. | Check your internet connection and tap the optimize button (round, at the bottom right) again. If it keeps happening, [contact us](../how-to-contact-us.md). |
 | "The route calculation is taking too long. Try again later." | Our servers didn't finish in time. This happens more often with very large routes. | Try again in a few minutes. |
 | "The route calculation was cancelled on the server." | The calculation was stopped on our side. | Build the route again. |
 | "Error" with a number, or "The server sent an unexpected response" | A temporary problem on our servers. | Try again in 10–15 minutes. If it doesn't help, [contact us](../how-to-contact-us.md) and send the error number. |

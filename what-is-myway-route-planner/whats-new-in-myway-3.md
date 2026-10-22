@@ -25,7 +25,7 @@ A few things change during the move:
 ## Where to find things now
 
 * **Menu** (☰, top right): **Routes**, **Places**, **Preferences**, **Talk to Us**, **Help** and your subscription.
-* **Route Settings** (vehicle, departure time, road restrictions, side of road, optimization mode): below the stop list while you plan a route. [More](../guides/how-to-use-myway-route-planner.md#route-settings)
+* **Route Settings** (vehicle, departure time, road restrictions, side of road, optimization mode): below the stop list while you plan a route. [More](../guides/understand-route-settings.md)
 * **Navigation options**: tap **…** next to **Go** to open "Navigation to Stop". [More](../guides/understand-navigation-settings.md)
 * **Update or reoptimize a route in progress**: tap **…** in the route header > **Reoptimize Route**. [More](../guides/understand-optimisation-settings.md#route-update-and-reoptimize)
 * **Default start and end locations**: **Route Settings** > **Start & End Locations**. [More](../guides/understanding-stop-settings.md#start-and-finish-settings)
@@ -37,7 +37,7 @@ A few things change during the move:
 * **Pickup and delivery**: link the stop where you pick up goods to the stops where you deliver them. [More](../guides/understanding-stop-settings.md#pickup-and-delivery)
 * **Proof of delivery**: up to 5 photos per stop and your own failure reasons. [More](../guides/proof-of-delivery.md)
 * **Stop priorities**: First, High, Normal and Last. [More](../guides/understanding-stop-settings.md#priority-asap-button)
-* **Avoid unpaved roads** in Road Restrictions. [More](../guides/how-to-use-myway-route-planner.md#road-restrictions)
+* **Avoid unpaved roads** in Road Restrictions. [More](../guides/understand-route-settings.md#road-restrictions)
 * **Contacts** with company, website and messengers, and more stop details: premises, package count, tracking ID. [More](../guides/understanding-stop-settings.md)
 * **Import from a web link** to an .XLSX or .CSV file. [More](../guides/import-from-file-and-multi-line-import.md#import-from-file)
 * **New Liquid Glass design.**

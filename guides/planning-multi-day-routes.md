@@ -20,7 +20,7 @@ When you plan a multi-day route, there are a few things to keep in mind.
 
 A small "+1" (or "+2", etc.) next to a time in the stop list means this time falls on the next day (or later) after the route start. It's very similar to what you see when you buy plane tickets.
 
-To plan when the route starts, set the departure time ("Depart at…") under [Route Settings](how-to-use-myway-route-planner.md#route-settings).
+To plan when the route starts, set the departure time ("Depart at…") under [Route Settings](understand-route-settings.md).
 
 ### Time zones
 

@@ -8,7 +8,7 @@ description: Every setting in Preferences, what it does and its default value
 **Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this knowledge base](https://help.mywayroute.com/v2/).
 {% endhint %}
 
-To open the app settings, open the menu (☰, top right) and tap **Preferences**. Settings of a single route (vehicle, departure time, road restrictions, side of road, optimization mode) aren't here: they're in [Route Settings](how-to-use-myway-route-planner.md#route-settings), below the stop list.
+To open the app settings, open the menu (☰, top right) and tap **Preferences**. Settings of a single route (vehicle, departure time, road restrictions, side of road, optimization mode) aren't here: they're in [Route Settings](understand-route-settings.md), below the stop list.
 
 ## Proof of Delivery
 
@@ -54,7 +54,7 @@ To open the app settings, open the menu (☰, top right) and tap **Preferences**
 
 ## Other settings and where to find them
 
-* **Default Route Settings and default start and end locations**: the first button under Route Settings while you plan a route. [More](how-to-use-myway-route-planner.md#default-route-settings)
+* **Default Route Settings and default start and end locations**: the first button under Route Settings while you plan a route. [More](understand-route-settings.md#default-route-settings)
 * **Map type, traffic, saved places, ETA labels and your location on the map**: the layers button on the map. [More](using-the-map.md#map-layers)
 * **Sections of the stop form**: the gear button in the stop form. [More](understanding-stop-settings.md)
 * **App language**: iOS Settings > Apps > MyWay > Language. [More](../what-is-myway-route-planner/what-languages-myway-supports.md)
