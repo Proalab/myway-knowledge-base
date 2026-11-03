@@ -143,10 +143,20 @@ After you start the route, the top of the route shows the time and distance left
 * **Swipe a stop to the right** to mark it **Arrived**, **Success** or **Failed**, or to **Undo** a completed stop.
 * **Swipe a stop to the left** to **Delete**, **Skip** or **Revert** it. **Skip** takes the stop out of the route without deleting it and moves it to the Skipped section; **Revert** returns it to the route.
 * **Touch and hold a stop** to see all these actions in one menu, together with **Navigate**, **Edit**, **Details** and **Next**.
-* **Find a stop**: tap the magnifier button on the left of the route header (**…** is on the right) and type in the **Find in route** field. MyWay highlights the matching stops and shows how many there are (for example, 1/3); the up and down arrows move between them. It searches addresses, names, companies, notes, tracking IDs, phones, emails and messengers. Before you start a route and after you complete it, there's no magnifier button: pull the stop list down to see the **Find in route** bar at the top.
+* **Find a stop**: tap the magnifier button on the left of the route header. [More about search](#find-a-stop)
 * **Finish the route**: tap **Complete Route** at the end of the list.
 
 <div><figure><img src="../.gitbook/assets/how-to-use-follow-route.png" alt="" width="188"><figcaption><p>Route - Main View</p></figcaption></figure> <figure><img src="../.gitbook/assets/how-to-use-route-list-view.png" alt="" width="188"><figcaption><p>Route - List View</p></figcaption></figure> <figure><img src="../.gitbook/assets/how-to-use-route-map-view.png" alt="" width="188"><figcaption><p>Route - Map View</p></figcaption></figure></div>
+
+### Find a Stop
+
+Where the search is depends on the route status:
+
+* **While you plan a route**: pull the stop list down, and the **Find in route** bar appears at the top.
+* **After you start the route**: tap the magnifier button on the left of the route header (**…** is on the right). There's no **Find in route** bar in the list.
+* **In a completed route**: the **Find in route** bar is at the top of the stop list.
+
+Type a name, address, company, note, tracking ID, phone, email or messenger. MyWay highlights the matching stops and shows how many there are (for example, 1/3); the up and down arrows move between them.
 
 ### Route Completed
 
