@@ -21,7 +21,7 @@ description: All MyWay limits, numbers and requirements on one page
 | Stops in a route with Premium | Car and Van: 200; Small Truck and Truck: 150; Bicycle and Pedestrian: 50. Completed and skipped stops count; start and end don't. [More](guides/understand-vehicle-settings.md#stop-limits) |
 | Stops you can optimize without Premium | 15 |
 | Number of routes | Unlimited |
-| Addresses in one "Multi Search" (**List**) | 30 lines at a time |
+| Addresses in one [multi-line import](guides/import-from-file-and-multi-line-import.md#multiline-import) (**List**, "Multi Search" screen) | 30 lines at a time |
 | Import file | .XLSX or .CSV, up to 5 MB, first sheet only |
 | Photos per stop (Proof of Delivery) | 5 |
 | Stops passed to a navigation app at once (**Navigate through**) | Up to 10 in Apple Maps and Google Maps; 1 in other apps |
