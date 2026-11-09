@@ -31,7 +31,7 @@ The second group is for your reference and doesn't affect optimization. The **fi
 
 To open a stop's settings, tap the stop in the route. While you follow a route, tap the stop once to select it and once more to open its details; then tap **Edit** in the **Actions** section at the bottom of the details.
 
-The settings are grouped in sections: Contact, Time Window and Shipment. Tap a section title to open or collapse it. The gear button at the top left lets you choose which sections to show and in which order.
+The settings are grouped in sections: Contact, Time Window and Shipment. Tap a section title to open or collapse it; a section that already has something filled in always stays open. The gear button at the top left lets you choose which sections to show and in which order.
 
 Some settings, like Tracking ID, Notes, contact details and the time window, appear on the stop card in the route. From the stop card you can call or message your customer right away (see the screenshot below).
 
@@ -133,6 +133,8 @@ You can change the address while you follow the route too. [What happens to the 
 When a stop has a status (Arrived, Success or Failed), you've already been there. So MyWay doesn't let you change the settings that decide where the stop is in the route: the address, priority, time at stop, time window, and Pickup or Delivery with its linked stops. **Sync from Saved Place** is unavailable too, because it would change some of them. The "Stop Completed" banner at the top of the form reminds you of this.
 
 You can still change the name, tracking ID, color, notes, contact details, premises and package count. To change the other settings, undo the stop first: swipe it to the right and tap **Undo**.
+
+<figure><img src="../.gitbook/assets/stop-settings-completed.png" alt="" width="188"><figcaption><p>A stop with a status</p></figcaption></figure>
 
 ### Working with the stop form
 

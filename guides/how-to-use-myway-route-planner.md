@@ -24,6 +24,8 @@ MyWay then asks where the route ends. Tap **Return to Start** to finish where yo
 
 To start or end at one of your [saved places](managing-your-contacts-and-places.md#places), tap **…** on the right of the empty start or end field, choose **Saved Places** and tap the place. The same **…** menu has **Voice** and **Scan**.
 
+<figure><img src="../.gitbook/assets/how-to-use-start-saved-places.png" alt="" width="188"><figcaption><p>The … menu in the start field</p></figcaption></figure>
+
 Then add the places you need to visit with **Add Stop** or the magnifier button in the top left corner of the map. Tap a search result to add the stop and close the search, or tap **+** next to it to add the stop and keep searching for the next one.
 
 If most of your routes start and end in the same places, set a default start and end location in [Default Route Settings](understand-route-settings.md#default-route-settings).
@@ -156,6 +158,8 @@ After you start the route, the top of the route shows the time and distance left
 * **Finish the route**: tap **Complete Route** at the end of the list.
 
 <div><figure><img src="../.gitbook/assets/how-to-use-follow-route.png" alt="" width="188"><figcaption><p>Route - Main View</p></figcaption></figure> <figure><img src="../.gitbook/assets/how-to-use-route-list-view.png" alt="" width="188"><figcaption><p>Route - List View</p></figcaption></figure> <figure><img src="../.gitbook/assets/how-to-use-route-map-view.png" alt="" width="188"><figcaption><p>Route - Map View</p></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/stop-details-actions.png" alt="" width="188"><figcaption><p>Notes and Actions in the stop details</p></figcaption></figure>
 
 ### Find a Stop
 
