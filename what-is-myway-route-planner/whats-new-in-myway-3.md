@@ -12,7 +12,7 @@ MyWay 3 is the new version of MyWay Route Planner for iPhone and iPad, with a ne
 
 ## Your data after the update
 
-The first time you open MyWay 3, you see "Welcome to the all-new MyWay 3!", and MyWay moves your data from the previous version: your routes (including the active one) and your saved places. It happens on your iPhone automatically; you don't need to do anything.
+The first time you open MyWay 3, MyWay moves your data from the previous version: your routes (including the active one) and your saved places. While it works, you see a blue screen with a car. It happens on your iPhone automatically; you don't need to do anything.
 
 If MyWay couldn't move something, you see "Couldn't move everything", and MyWay tries again the next time you open the app. Nothing is lost.
 

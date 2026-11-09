@@ -36,7 +36,7 @@ Find your message by its text (use your browser's search or the search on this s
 | "A long wait is expected at this stop" | You will arrive long before the time window starts and wait. | Change the departure time or the stop order. |
 | "Priority stop is not at the beginning" | In your own (Current) order, a [priority](../guides/understanding-stop-settings.md#priority-asap-button) stop isn't at the start. | Optimize the route or move the stop. |
 | "Pickup must come before its delivery" | In your own order, a delivery comes before its [pickup](../guides/understanding-stop-settings.md#pickup-and-delivery). | Optimize the route or move the stops. |
-| "It looks like the stop coordinates are the same as stop …" | Two stops have the same location. | Check whether it's a duplicate, and delete one if it is. |
+| "It looks like the stop coordinates are the same as stop …" | Another stop has the same address (with the same place name and premises) and the same time window, and the two are less than 25 m (about 80 ft) apart. | Check whether it's a duplicate, and delete one if it is. |
 | "This stop is far from others (… to the nearest stop)" | The stop is much farther away than the rest. Often it's a wrong address in another city or state. | Check the address. |
 | "The route crosses a state line on the way to this stop" / "The route crosses a border on the way to this stop" | The way to this stop goes to another state or country. Arrival times don't include the border crossing. | Check that the address is correct. |
 
@@ -80,9 +80,11 @@ Find your message by its text (use your browser's search or the search on this s
 | Message | What it means |
 | --- | --- |
 | "The route is in progress. If you edit it, you'll have to start it again." | Editing a started route resets its start. Tap **Edit Route Anyway** to continue. |
-| "The route is completed. If you edit it, it will lose its completed status." | Editing a completed route makes it active again. |
+| "The route is completed. If you edit it, it will lose its completed status." | Editing a completed route makes it active again. You also see it when you skip, revert or delete a stop in a completed route: tap **Edit Route Anyway**, and then skip, revert or delete the stop again. |
+| "The route is in progress. Skip this stop?" / "… Revert this stop?" / "… Delete this stop?" | On a route in progress, skipping, returning or deleting a stop changes the route and ETAs. Tap **Skip Stop**, **Revert Stop** or **Delete Stop** to continue. |
+| "Are you sure you want to skip this stop?" (or revert, or delete) | You tapped **Skip**, **Revert** or **Delete** in the stop details or the stop form. These buttons always ask, so you don't change a stop by accident. |
 | "The route is already in progress. To delete the start location, restart the route or undo all finished stops first." | You can't delete the start after the route has started. Tap **…** > **More** > **Restart Route**, or undo the finished stops. |
-| "This stop is already completed. Its completion status and proof of delivery will be deleted." | Deleting a completed stop also deletes its proof of delivery. |
+| "This stop is already completed. Its completion status and proof of delivery will be deleted. This can't be undone." | Deleting a completed stop also deletes its proof of delivery. |
 | "All progress will be lost. This can't be undone." | **Restart Route** removes all statuses and proof from the route. |
 | "The route has unfinished stops (…)" | Some stops are still open when you complete the route. Tap **Complete Route Anyway** to complete it. |
 | "The route is already completed" | You can't change statuses in a completed route. |

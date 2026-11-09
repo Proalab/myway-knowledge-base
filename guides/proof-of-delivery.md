@@ -65,7 +65,7 @@ To set a status faster, swipe a stop to the right in route-following mode and pi
 
 ## Change proof later
 
-To change the status or proof of a completed stop, open the stop details. The proof is included in the [PDF report](export-your-route-and-share-it-with-others.md#files-export).
+To change the status or proof of a completed stop, open the stop details, make your changes and tap the check mark at the top to save them (**X** discards them). You can edit the stop's [notes](understanding-stop-settings.md#notes) there too. The proof is included in the [PDF report](export-your-route-and-share-it-with-others.md#files-export).
 
 Proof files are kept on your iPhone. To see how much space they take, go to **Preferences** > **Cache** > **Route Files**. Clearing the cache doesn't delete them.
 

@@ -27,7 +27,9 @@ The words MyWay uses in the app, and the other words people often use for the sa
 | **Pickup and Delivery** | linked stops, pick up and drop off, collection | A pickup stop linked to the stops where you deliver its goods. [More](guides/understanding-stop-settings.md#pickup-and-delivery) |
 | **Tracking ID** | order number, parcel number, reference, ID | Your number for a stop. **AUTO** numbers all stops. [More](guides/understanding-stop-settings.md#tracking-id) |
 | **Proof of Delivery** | POD, visit confirmation, proof of visit, delivery status, delivery confirmation, e-signature | Statuses (Arrived, Success, Failed) and proof (photos, signature, details) for each stop. [More](guides/proof-of-delivery.md) |
-| **Skip** | skipped stop, remove from route | Takes a stop out of the route without deleting it; the stop moves to "Skipped". |
+| **Skip** | skipped stop, remove from route | Takes a stop out of the route without deleting it; the stop moves to "Skipped". **Revert** returns it to the route. |
+| **Change Address** | edit address, edit location, move stop, wrong pin, new address | Changes where a stop is, also during the route. In the **Actions** section of the stop details or on the map in the stop form. Not available for a stop with a status. [More](guides/understanding-stop-settings.md#location-look-around-and-premises) |
+| **Notes** | comments, instructions, delivery notes, memo, door code | Your text for a stop. Edited in the stop form or right in the stop details, even after the stop is completed. [More](guides/understanding-stop-settings.md#notes) |
 | **Road Restrictions** | avoid, avoid tolls, avoid highways | Roads to avoid. [More](guides/understand-route-settings.md#road-restrictions) |
 | **Side of Road** | road side, curbside, same side | Which side of the road you stop on. [More](guides/understand-route-settings.md) |
 | **Vehicle** | vehicle type, truck mode, bike mode | Car, Van, Small Truck, Truck, Bicycle or Pedestrian. [More](guides/understand-vehicle-settings.md) |

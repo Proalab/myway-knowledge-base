@@ -8,7 +8,7 @@ Add many stops at once instead of one by one: paste a list of addresses (multi-l
 
 <figure><img src="../.gitbook/assets/how-to-use-add-stop.png" alt="" width="188"><figcaption><p>Two ways to add stops to the route</p></figcaption></figure>
 
-To start, tap **Add Stop** (or the magnifier button in the top left corner of the map). Then tap the **List** tile for multi-line import or the **Import** tile to import a file.
+To start, tap **Add Stop** (or the magnifier button in the top left corner of the map). In the row of icons under the empty search field, tap **List** (the third icon) for multi-line import or **Import** (the last icon, a document with an arrow) to import a file.
 
 If you import a file, make sure it uses the right format: see the [file example](import-from-file-and-multi-line-import.md#import-from-file-file-example). Processing can take a few minutes, as MyWay recognizes every address and matches it to the address database.
 

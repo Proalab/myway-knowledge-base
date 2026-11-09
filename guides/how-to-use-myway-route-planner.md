@@ -22,34 +22,42 @@ Every route starts somewhere. Tap **Add Start Location** and choose where you be
 
 MyWay then asks where the route ends. Tap **Return to Start** to finish where you started, or close the search to leave the end location empty: it's optional, and you can add it later with **Add End Location**.
 
+To start or end at one of your [saved places](managing-your-contacts-and-places.md#places), tap **…** on the right of the empty start or end field, choose **Saved Places** and tap the place. The same **…** menu has **Voice** and **Scan**.
+
 Then add the places you need to visit with **Add Stop** or the magnifier button in the top left corner of the map. Tap a search result to add the stop and close the search, or tap **+** next to it to add the stop and keep searching for the next one.
 
 If most of your routes start and end in the same places, set a default start and end location in [Default Route Settings](understand-route-settings.md#default-route-settings).
 
-Besides the address search, the **Add Stop** screen lets you add stops from:
+Besides the address search, you can add stops from other sources. While the search field is empty, they're shown as a row of icons under it, from left to right:
 
-* **Places**: your [saved places](managing-your-contacts-and-places.md#places)
-* **Contacts**: addresses from your [iPhone contacts](managing-your-contacts-and-places.md#contacts)
+* **Saved Places** (bookmark): your [saved places](managing-your-contacts-and-places.md#places)
+* **Contacts** (two people): addresses from your [iPhone contacts](managing-your-contacts-and-places.md#contacts)
 * **List**: type or paste [up to 30 addresses at once](import-from-file-and-multi-line-import.md#multiline-import)
-* **Scan**: read an address with the iPhone camera
-* **Voice**: say an address
-* **Import**: add stops [from an XLSX or CSV file](import-from-file-and-multi-line-import.md#import-from-file)
+* **Voice** (microphone): say an address
+* **Scan** (camera): read an address with the iPhone camera
+* **Import** (document with an arrow): add stops [from an XLSX or CSV file](import-from-file-and-multi-line-import.md#import-from-file)
 
 <figure><img src="../.gitbook/assets/how-to-use-add-stop.png" alt="" width="188"><figcaption><p>Add Stop options</p></figcaption></figure>
+
+### Add several stops in a row
+
+When you tap **+** next to a search result, MyWay adds the stop, shows its settings below the search field and waits for the next address ("Add next stop…"). Tapping a search result now adds it as the next stop too, and the search stays open until you close it.
+
+In this mode, the row of icons is replaced by **…** on the right of the empty field, with **Voice**, **Scan** and **Saved Places**. A saved place you choose there is added as the next stop, with all its settings.
 
 ### More ways to add a stop
 
 * **Where you are now**: tap **Current Location**.
-* **An address you used before**: open the **Recents** tab.
+* **An address you used before**: while the search field is empty, the addresses you chose recently are listed under **Recents**. As you type, the matching recent addresses appear above the search results. Swipe a recent address to remove it from the list.
 * **A map link**: copy a link to a place in Google Maps or Apple Maps and tap **Paste from Clipboard**. MyWay opens the map at that point. Copied address text works too.
 * **Coordinates**: type or paste them into the search field, for example 34.0407, -118.2468, and choose **Search coordinate**.
-* **A point on the map**: tap the map button next to the search field and tap the place. The stop stays exactly where you tapped; if the nearest address is far from that point, MyWay tells you how far.
+* **A point on the map**: tap the map button next to the search field and tap the place. The stop stays exactly where you tapped; if the nearest address is far from that point, MyWay tells you how far. To find a saved place on this map, tap **…** in the field and choose **Saved Places**: the map moves to the place without adding it.
 * **Add and edit at once**: on the map, **Add stop and edit** adds the stop and opens its settings right away.
 * **Voice in another language**: in **Voice**, tap the language and choose it before you speak.
 * **A route someone shared with you**: open the [shared link](export-your-route-and-share-it-with-others.md#share-route-copy) to add it.
 
 {% hint style="info" %}
-**Scan** uses Live Text. If MyWay doesn't recognize the text, check that your iPhone and your language support Live Text ([Apple guide](https://support.apple.com/en-au/guide/iphone/aside/iph691752bc0/17.0/ios/17.0), [supported languages](https://www.apple.com/ios/feature-availability/#live-text-live-text)). **Voice** asks for access to the microphone and speech recognition the first time you use it.
+**Scan** uses Live Text. If MyWay doesn't recognize the text, check that your iPhone and your language support Live Text ([Apple guide](https://support.apple.com/en-au/guide/iphone/aside/iph691752bc0/17.0/ios/17.0), [supported languages](https://www.apple.com/ios/feature-availability/#live-text-live-text)). If you scan a street without a house number and choose it, the camera closes and the keyboard opens, so you can type the house number. **Voice** asks for access to the microphone and speech recognition the first time you use it.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -141,8 +149,9 @@ After you start the route, the top of the route shows the time and distance left
 ### Stop actions
 
 * **Swipe a stop to the right** to mark it **Arrived**, **Success** or **Failed**, or to **Undo** a completed stop.
-* **Swipe a stop to the left** to **Delete**, **Skip** or **Revert** it. **Skip** takes the stop out of the route without deleting it and moves it to the Skipped section; **Revert** returns it to the route.
+* **Swipe a stop to the left** to **Delete**, **Skip** or **Revert** it. **Skip** takes the stop out of the route without deleting it and moves it to the Skipped section; **Revert** returns it to the route. On a route in progress, MyWay asks you to confirm, because the route and ETAs change.
 * **Touch and hold a stop** to see all these actions in one menu, together with **Navigate**, **Edit**, **Details** and **Next**.
+* **Open the stop's details** (tap the selected stop again): the statuses and proof are at the top, then the address, notes and contact, and the **Actions** section is at the bottom: **Change Address**, **Edit**, **Skip**, **Revert** and **Delete**. These buttons always ask you to confirm before they skip, revert or delete the stop. To close the details, tap **X** at the top.
 * **Find a stop**: tap the magnifier button on the left of the route header. [More about search](#find-a-stop)
 * **Finish the route**: tap **Complete Route** at the end of the list.
 
@@ -189,6 +198,8 @@ Tap the arrow next to **Start Route** and make your changes. Then tap the optimi
 **After you start the route**
 
 To add one or two stops, tap the magnifier, find the stop and add it. MyWay inserts it next to the closest part of the route. To reorder stops, touch and hold a stop and drag it. Then [update the route](#update-and-actualize-route) to refresh the ETAs.
+
+To change a stop's address, for example when the customer asks you to deliver somewhere else, open the stop's details and tap **Change Address** in the **Actions** section at the bottom. You can also do it in the [stop form](understanding-stop-settings.md#location-look-around-and-premises). Choose the new address, and MyWay saves it right away. Until you update the route, the times of this stop and the next ones are approximate ("\~"), and the map shows a dashed line to the stop instead of the road. Tap the optimize button and choose **Update Route** to recalculate the route and ETAs. You can't change the address of a stop that already has a status (Arrived, Success or Failed).
 
 For bigger changes, use full edit mode:
 

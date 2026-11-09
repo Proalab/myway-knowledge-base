@@ -29,7 +29,7 @@ Other settings help you tell your stops apart:
 
 The second group is for your reference and doesn't affect optimization. The **first group does affect optimization and can dramatically change the stop order**.
 
-To open a stop's settings, tap the stop in the route. While you follow a route, tap the stop once to select it and once more to open its details.
+To open a stop's settings, tap the stop in the route. While you follow a route, tap the stop once to select it and once more to open its details; then tap **Edit** in the **Actions** section at the bottom of the details.
 
 The settings are grouped in sections: Contact, Time Window and Shipment. Tap a section title to open or collapse it. The gear button at the top left lets you choose which sections to show and in which order.
 
@@ -75,7 +75,7 @@ Time windows are ignored if you optimize for distance or follow your route in yo
 
 To calculate accurate ETAs, MyWay needs to know how much time you'll spend at each stop: from the moment you stop your car for the visit or delivery until you leave for the next stop.
 
-Each stop can have its own time at stop, so set a longer or shorter one where you know a stop takes more or less time. To use the same time for every unfinished stop of the route, tap **Apply to All Stops**. New stops get the default time (5 minutes), which you can change in [Route Settings](understand-route-settings.md).
+Each stop can have its own time at stop, so set a longer or shorter one where you know a stop takes more or less time. To use the same time for every unfinished stop of the route, tap **Apply to All Stops**; the button is shown while other unfinished stops have a different time. New stops get the default time (5 minutes), which you can change in [Route Settings](understand-route-settings.md).
 
 **Set the time at stop as accurately as you can. If it's off by even 1 or 2 minutes, it can greatly impact your ETAs.** See [our suggested stop durations](../faq/what-service-time-should-you-choose.md).
 
@@ -114,15 +114,31 @@ In the Contact section, add the customer's name, company and ways to reach them:
 
 The contact appears on the stop card: tap it to call, send a message, or open WhatsApp, Telegram, email or the website. The Live Activity has a **Call** button too. **Find in route** also finds a contact's name, phone or email.
 
+### Notes
+
+Use notes for anything you need to know at the stop, like a door code or where to leave a parcel. Notes appear on the stop card, and **Find in route** searches them.
+
+You can add notes in the stop form, where they're saved automatically like other settings, or right in the stop details. In the details, the **Notes** section is always there and shows "Add Notes" when it's empty: tap it, type the note and tap the check mark at the top to save it, or tap **X** to discard it. Until you save or discard the note, **Edit**, **Skip**, **Revert** and **Delete** are unavailable. You can edit notes at any time, even after the stop or the whole route is completed.
+
 ### Location, Look Around and Premises
 
-The top of the stop form shows the stop on a small map and, where available, a street photo. Tap **Look Around** to see the place before you go. Tap the map to open it in full screen: there you can move the stop with **Edit Location** if the pin is in the wrong place, and add the premises (apartment, suite, unit, floor, etc.).
+The top of the stop form shows the stop on a small map and, where available, a street photo. Tap **Look Around** to see the place before you go.
+
+To change the stop's address, tap the round button to the right of the address on the small map, or tap the map to open it in full screen and tap **Change Address**. Search for the new address or choose it on the map; to use one of your saved places, tap **…** in the empty field and choose **Saved Places**. In full screen you can also add the premises (apartment, suite, unit, floor, etc.).
+
+You can change the address while you follow the route too. [What happens to the route then](how-to-use-myway-route-planner.md#making-route-changes-after-the-initial-route-is-built)
+
+### Stops with a status
+
+When a stop has a status (Arrived, Success or Failed), you've already been there. So MyWay doesn't let you change the settings that decide where the stop is in the route: the address, priority, time at stop, time window, and Pickup or Delivery with its linked stops. **Sync from Saved Place** is unavailable too, because it would change some of them. The "Stop Completed" banner at the top of the form reminds you of this.
+
+You can still change the name, tracking ID, color, notes, contact details, premises and package count. To change the other settings, undo the stop first: swipe it to the right and tap **Undo**.
 
 ### Working with the stop form
 
 * Changes are saved automatically. The arrows at the bottom ("2 of 6") take you to the previous or next stop.
 * The bookmark button saves the stop to your [Saved Places](managing-your-contacts-and-places.md#stops-and-places).
-* The trash button deletes the stop. If the stop is already completed, its status and proof of delivery are deleted too.
+* The trash button deletes the stop. MyWay always asks you to confirm. If the stop is already completed, its status and proof of delivery are deleted too.
 * The **?** button opens this page.
 
 ## Start and Finish Settings
@@ -130,6 +146,8 @@ The top of the stop form shows the stop on a small map and, where available, a s
 The start and end locations aren't regular stops, so they don't have these settings. You can save default ones, so every new route already has them:
 
 1. While you plan a route, tap the first button under Route Settings, below the stop list.
-2. In Start & End Locations, set the default start and end locations.
+2. In Start & End Locations, set the default start and end locations. To use a saved place, tap **…** in the empty field and choose **Saved Places**.
 
 When you create a new route, your default start and end locations are already set, and you don't need to add them again.
+
+For one route only, you can also start or end at a saved place: tap **…** in the empty start or end field when you add it.

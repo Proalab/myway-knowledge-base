@@ -46,7 +46,7 @@ All your routes are in the Routes list: open the menu (☰, top right) and tap *
 
 <div><figure><img src="../.gitbook/assets/app-menu.png" alt="" width="188"><figcaption><p>Menu</p></figcaption></figure> <figure><img src="../.gitbook/assets/routes-list.png" alt="" width="188"><figcaption><p>Routes</p></figcaption></figure></div>
 
-Routes are grouped by date. Each route shows its progress, a map preview, the number of stops, the distance and the time. To go back to the route you're following, tap **Continue Route**.
+Routes are grouped by date. Each route shows a map preview with the number of stops and the planned distance and time. A completed route shows how many stops were done instead (for example, 8/10 done) and the distance and time of the stops you finished. To go back to the route you're following, tap **Continue Route**.
 
 * To show only some routes, tap **Routes** at the top and choose All, Scheduled or Completed.
 * To show routes for a period, tap the calendar button and choose a date range, for example This Week or Last 30 Days.

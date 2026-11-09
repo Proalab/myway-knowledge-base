@@ -53,9 +53,12 @@ To find a place quickly, use the search at the bottom of Saved Places. The filte
 
 There are several ways to add places to your route:
 
-* **From the Add Stop screen**: tap **Places**, select one or several places and tap **Add to Route**, the same way as with Contacts.
+* **From the Add Stop screen**: tap the **Saved Places** icon (bookmark) under the empty search field, select one or several places and tap **Add to Route**, the same way as with Contacts.
+* **One after another**: after you [add a stop with **+**](how-to-use-myway-route-planner.md#add-several-stops-in-a-row), tap **…** in the empty search field, choose **Saved Places** and tap a place. It's added as the next stop, and the search stays open.
 * **From Saved Places**: open a place, tap **…** and choose **Add to Route**.
 * **Several places at once**: in Saved Places, tap **…** > **Select** and select the places. For example, filter by your *work* tag first and tap **Select All**. Then tap **…** at the bottom and choose your current route under **Add to Current Route**.
+
+A saved place can also be the start or end of a route. Tap **…** in the empty start or end field, choose **Saved Places** and tap the place. The same menu works when you set the [default start and end](understand-route-settings.md#default-route-settings) and when you change a stop's address.
 
 <div><figure><img src="../.gitbook/assets/places-add-to-route-menu.png" alt="" width="188"><figcaption><p>Add a place to the route</p></figcaption></figure> <figure><img src="../.gitbook/assets/places-add-to-current-route.png" alt="" width="188"><figcaption><p>Add selected places</p></figcaption></figure></div>
 
@@ -68,7 +71,7 @@ To see your places on the map, tap the layers button (top right, below the menu 
 A stop can also become a saved place: open the stop and choose **Add to Saved Places**. A stop added from a place stays linked to it:
 
 * **Update Saved Place** saves the stop's changes to the place;
-* **Sync from Saved Place** copies the place's current settings to the stop;
+* **Sync from Saved Place** copies the place's current settings to the stop (not available once the stop has a status, such as Arrived or Success);
 * **Unlink Saved Place** removes the link.
 
 You can still add stops one by one, from the map, or in any other way you like.

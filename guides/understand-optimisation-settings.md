@@ -19,7 +19,7 @@ The **optimize button** is the round blue button with two circular arrows at the
 | Route status | How to optimize | What happens next |
 | --- | --- | --- |
 | Planning (not started) | The optimize button. There is no optimize item in the **…** menu. | The **Optimize Route** screen: choose **Current** or **Optimized**. Then the button turns into **Start Route**. |
-| In progress | **…** in the route header > **Reoptimize Route**, always available. The optimize button appears only when the route is out of date, for example after you add, move or delete a stop. | "How to reoptimize?": **Update Route** or **Reoptimize Route**. |
+| In progress | **…** in the route header > **Reoptimize Route**, always available. The optimize button appears only when the route is out of date, for example after you add, move or delete a stop or change its address. | "How to reoptimize?": **Update Route** or **Reoptimize Route**. |
 | Completed | Not available. Tap **…** > **Edit Route** first: the route goes back to planning and loses its completed status. | As when planning. |
 
 <figure><img src="../.gitbook/assets/how-to-use-optimize-button.png" alt="" width="188"><figcaption><p>The optimize button</p></figcaption></figure>
@@ -50,9 +50,10 @@ Sometimes your route needs an update or a reoptimization. For example, when:
 * you didn't complete stops in the order the app suggested;
 * you want to update the time estimates (ETAs);
 * you took a short break, and the times at your stops no longer look right;
-* you changed the stop order and want to actualize the route.
+* you changed the stop order and want to actualize the route;
+* you changed a stop's address after you started the route.
 
-A good sign that you need a route update is the "\~" symbol next to a time. It means the time is approximate, for example after a stop you completed out of order.
+A good sign that you need a route update is the "\~" symbol next to a time. It means the time is approximate, for example after a stop you completed out of order. After you change a stop's address, the map also shows a dashed line to that stop until you update the route.
 
 <figure><img src="../.gitbook/assets/optimisation-approximate-time.png" alt="" width="188"><figcaption><p>Approximate time</p></figcaption></figure>
 
@@ -62,7 +63,7 @@ To update a route in progress:
 2. MyWay asks "How to reoptimize?". Choose **Update Route** to refresh the route and ETAs and keep the stop order, or **Reoptimize Route** to reorder all stops and build the optimal route. Then tap the button at the bottom: it repeats the option you chose.
 3. **Update Route** applies right away (if some stops have issues, MyWay shows them first). **Reoptimize Route** opens the **Optimize Route** screen with Current and Optimized: choose one as when you plan a route.
 
-When the route is out of date (for example, you added, moved or deleted a stop), the round optimize button also appears at the bottom right. It opens the same choice, with **Update Route** selected. The **…** menu opens it with **Reoptimize Route** selected.
+When the route is out of date (for example, you added, moved or deleted a stop or changed its address), the round optimize button also appears at the bottom right. It opens the same choice, with **Update Route** selected. The **…** menu opens it with **Reoptimize Route** selected.
 
 If you pick another stop as the next one, MyWay asks "Reoptimize remaining stops?". Choose **Reoptimize Route** to keep the time and distance accurate, or **No, thanks** to keep your order.
 
