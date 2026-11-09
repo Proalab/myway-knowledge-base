@@ -37,7 +37,11 @@ If the file is already on your phone, you can also [open it from another app](#i
 {% endhint %}
 
 {% hint style="warning" %}
-If the app recognizes addresses wrong, suggesting another state or country, follow the advice in [this article](../i-cant-find-an-address.md#if-the-app-recognizes-addresses-wrong-suggest-another-state-or-country). MyWay finds the addresses from the file with the geocoder you chose in **Preferences**.
+If the app recognizes addresses wrong, suggesting another state or country, follow the advice in [this article](../i-cant-find-an-address.md#if-the-app-recognizes-addresses-wrong-suggest-another-state-or-country). MyWay finds the addresses from the file with the geocoder you chose in **Preferences** (rows with coordinates aren't looked up).
+{% endhint %}
+
+{% hint style="info" %}
+**Rows with coordinates.** If a row has latitude and longitude, MyWay puts the stop exactly at these coordinates and doesn't look up the address. The address from the file is shown as it is, without checking it, so it may not match the point on the map. Navigate to these stops **By GPS Coordinates** (the default): with **By Address**, the navigation app searches for the address text and can lead you to a different place. [More about navigation types](understand-navigation-settings.md#navigation-types-coordinates-or-address)
 {% endhint %}
 
 ### Import a file from another app

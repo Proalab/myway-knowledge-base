@@ -55,6 +55,8 @@ This is the default, and it's usually more precise: MyWay passes the stop's GPS 
 
 MyWay passes the stop's address, and the navigation app looks for this address in its own database, so the result can be less accurate. Still, navigation by address might work better if your stop is in a high-density area or your navigation app can't build a route to your stop. If the address has no house number, MyWay passes the coordinates instead.
 
+Don't use it for stops [imported from a file with coordinates](import-from-file-and-multi-line-import.md#import-from-file): their address comes from the file as it is and isn't checked against the point on the map.
+
 {% hint style="info" %}
 Organic Maps, MAPS.ME, Yandex Maps and Sygic always navigate by coordinates. Waze searches for the address near the stop's coordinates.
 
