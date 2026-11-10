@@ -18,7 +18,7 @@ The optimization algorithms consider stop priorities, time windows, vehicle capa
 
 ## ETAs seem incorrect
 
-ETAs can differ from actual arrival times for a few reasons: a wrong time at stop (the most common one; usually it's too short or too long), changing traffic, or the navigation app taking you a different way. When you update your route in MyWay, it recalculates the ETAs with the latest weather, traffic and stop order changes. We recommend [updating your route](../guides/how-to-use-myway-route-planner.md#update-and-actualize-route) every time you change it, so the ETAs stay accurate.
+ETAs can differ from actual arrival times for a few reasons: a wrong time at stop (the most common one; usually it's too short or too long), changing traffic, or the navigation app taking you a different way. When you update your route in MyWay, it recalculates the ETAs with the latest weather, traffic and stop order changes. We recommend [updating your route](../guides/understand-optimisation-settings.md#route-update-and-reoptimize) every time you change it, so the ETAs stay accurate.
 
 ## Why does my route not look "optimal"?
 

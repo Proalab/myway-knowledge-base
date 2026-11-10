@@ -12,7 +12,9 @@ MyWay recognizes problems with stops and marks them. A stop can have an issue fo
 * MyWay can't meet the stop's [time window](../guides/understanding-stop-settings.md#time-windows) because of a tight schedule or many stops with time windows.
 * The stop is in a different country, on an island or in a forest.
 
-MyWay shows these issues on the [Optimize Route screen](../guides/how-to-use-myway-route-planner.md#optimization-options-build-and-optimize-your-route): each version shows the number of issues, and MyWay warns you that "Some stops have issues and may be skipped". Stops MyWay can't fit into the route move to the "Skipped" section. Tap **Fix It** to go to the first stop with a problem.
+MyWay shows these issues on the [Optimize Route screen](../guides/understand-optimisation-settings.md#optimize-reoptimize-route-settings): each version shows the number of issues, and MyWay warns you that "Some stops have issues and may be skipped". Stops MyWay can't fit into the route move to the "Skipped" section. Tap **Fix It** to apply that version and go to the first stop with a problem, so you can change it or skip it. MyWay shows this before you start the route, so you can decide in time what to do with these stops.
+
+<div><figure><img src="../.gitbook/assets/how-to-use-late-arrival.png" alt="" width="188"><figcaption><p>Late Arrival</p></figcaption></figure> <figure><img src="../.gitbook/assets/how-to-use-optimization-issue.png" alt="" width="188"><figcaption><p>Issue warning</p></figcaption></figure></div>
 
 Issues you can see on a stop:
 
