@@ -30,5 +30,5 @@ More details are in the [Apple Support article](https://support.apple.com/en-us/
 6. Follow the on-screen instructions to update your payment method.
 
 {% hint style="info" %}
-If Apple can't charge your payment method for the subscription, MyWay shows "Payment Problem" in the menu. Tap **Manage Subscription** there and update your payment method before the date shown, so you don't lose Premium.
+If Apple can't charge your payment method for the subscription, MyWay shows "Payment Problem" at the top of the menu. Tap it to open your subscription settings and update your payment method before the date shown, so you don't lose Premium.
 {% endhint %}

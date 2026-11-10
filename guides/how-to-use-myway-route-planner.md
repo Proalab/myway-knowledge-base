@@ -129,7 +129,7 @@ Our users also told us that some apps "build your route anyway" and show you tho
 
 ### Confirm your Route
 
-After you choose the stop order, MyWay shows the **Start Route** button in place of the optimize button. If you're done planning, tap it to start the route. To keep editing, tap the arrow next to **Start Route**. If you change the route (add, delete or move a stop, change a setting), the optimize button also comes back. Tap it again to rebuild the route.
+After you choose the stop order, the route header shows the route's total distance and time instead of its name, and MyWay shows the **Start Route** button in place of the optimize button. If you're done planning, tap it to start the route. To keep editing, tap the arrow next to **Start Route**. If you change the route (add, delete or move a stop, change a setting), the optimize button also comes back. Tap it again to rebuild the route.
 
 When you tap **Start Route**, MyWay recalculates the route using the latest data, including time windows, traffic and other factors.
 
@@ -141,7 +141,7 @@ You can still [change the route order, even after it's built](how-to-use-myway-r
 
 ## Follow Route
 
-After you start the route, the top of the route shows the time and distance left, the end time and how many stops remain. The current stop is highlighted:
+After you start the route, the top of the route shows the time and distance left, the end time and how many stops remain. When no stops are left, it says "All Stops Completed". The current stop is highlighted:
 
 * **Go** opens the stop in your navigation app. Tap **…** next to it to navigate by GPS coordinates or by address, choose another navigation app, or navigate through several stops at once. [Read more about navigation](understand-navigation-settings.md).
 * **Done** completes the stop and makes the next one current. The first time you tap it, MyWay asks if you want to turn on Proof of Delivery. With [Proof of Delivery](proof-of-delivery.md) on, you see **Success** and **Failed** instead of **Done**.
@@ -201,7 +201,7 @@ Tap the arrow next to **Start Route** and make your changes. Then tap the optimi
 
 **After you start the route**
 
-To add one or two stops, tap the magnifier, find the stop and add it. MyWay inserts it next to the closest part of the route. To reorder stops, touch and hold a stop and drag it. Then [update the route](#update-and-actualize-route) to refresh the ETAs.
+To add one or two stops, tap the magnifier, find the stop and add it. MyWay puts it where it adds the least distance to the route: between two stops you haven't visited yet, or after the last one. Stops with the First or Last priority stay at the beginning or the end. To reorder stops, touch and hold a stop and drag it. Then [update the route](#update-and-actualize-route) to refresh the ETAs.
 
 To change a stop's address, for example when the customer asks you to deliver somewhere else, open the stop's details and tap **Change Address** in the **Actions** section at the bottom. You can also do it in the [stop form](understanding-stop-settings.md#location-look-around-and-premises). Choose the new address, and MyWay saves it right away. Until you update the route, the times of this stop and the next ones are approximate ("\~"), and the map shows a dashed line to the stop instead of the road. Tap the optimize button and choose **Update Route** to recalculate the route and ETAs. You can't change the address of a stop that already has a status (Arrived, Success or Failed).
 

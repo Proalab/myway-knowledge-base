@@ -20,6 +20,8 @@ Contacts let you add addresses from your iPhone address book. If you give MyWay 
 
 Select one or several contacts and tap **Add to Route**. MyWay finds each contact's address and adds it as a stop. The contact details are saved in the stop's Contact section.
 
+If MyWay found the wrong place for a contact, tap the pencil on the right of the contact and choose the right address. It replaces the one MyWay found.
+
 <div>
 
 <figure><img src="../.gitbook/assets/contacts-list.png" alt="" width="188"><figcaption></figcaption></figure>
@@ -41,7 +43,7 @@ Places work in a similar way, but there is much more in them than in Contacts. T
 First, build your list of places: open the menu (☰, top right) and tap **Places**. In Saved Places you can:
 
 * create a new place: tap **+** (or **Add Place**);
-* import places from your address book: tap **Import from Contacts**, select the contacts and tap **Add**. MyWay shows the address it found under each contact name, so you can check it before adding. The contact details are saved in the place's Contact section.
+* import places from your address book: tap **Import from Contacts**, select the contacts and tap **Add**. MyWay shows the address it found under each contact name, so you can check it before adding; to change it, tap the pencil next to the contact. The contact details are saved in the place's Contact section.
 
 <div><figure><img src="../.gitbook/assets/app-menu.png" alt="" width="188"><figcaption><p>Menu</p></figcaption></figure> <figure><img src="../.gitbook/assets/places-list.png" alt="" width="188"><figcaption><p>Saved Places</p></figcaption></figure> <figure><img src="../.gitbook/assets/places-import-contacts.png" alt="" width="188"><figcaption><p>Import from Contacts</p></figcaption></figure></div>
 

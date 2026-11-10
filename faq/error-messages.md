@@ -63,7 +63,8 @@ Find your message by its text (use your browser's search or the search on this s
 | "Couldn't process the file. Try again." | The file couldn't be read. | Check the [file format](../guides/import-from-file-and-multi-line-import.md#import-from-file-file-example) and try again. |
 | "Processing the file is taking too long. Try again later." | Processing didn't finish in time. | Try again later or split the file. |
 | "Processing the file was cancelled on the server." | Processing was stopped on our side. | Import the file again. |
-| "Geocode unmatched" on a row | MyWay couldn't find this row's address. | Fix the address in the file, or add the stop with the regular search. |
+| "Address Not Found" on a row, "Couldn't find addresses for these rows: …" | MyWay couldn't find the address of these rows, so they won't be added. | Tap the pencil on the row and set the address, or fix the address in the file. |
+| "No stops found in the file." | MyWay didn't find any stops in the file. | Compare your file with the [file example](../guides/import-from-file-and-multi-line-import.md#import-from-file-file-example). |
 | "To import stops from the file, save or discard your changes first." | You opened a file while editing something. | Save or discard your changes, then open the file again. |
 
 ## Shared route links
@@ -104,7 +105,7 @@ Find your message by its text (use your browser's search or the search on this s
 | "Couldn't load subscription plans" | MyWay couldn't load the plans. | Check your internet connection and open the screen again. |
 | "Purchase is awaiting approval" | Ask to Buy: your family organizer needs to approve the purchase. | Wait for approval. |
 | "No purchases to restore" | This Apple ID has no active MyWay subscription, or there's no connection. | See [MyWay does not recognize my subscription](../subscription-management/myway-does-not-recognize-my-subscription.md). |
-| "Payment Problem" | Apple couldn't charge your payment method. | Tap **Manage Subscription** and [update your payment method](../subscription-management/how-to-change-or-add-a-payment-method.md). |
+| "Payment Problem" | Apple couldn't charge your payment method. | Tap this message at the top of the menu and [update your payment method](../subscription-management/how-to-change-or-add-a-payment-method.md). |
 
 ## Live Activity and photos
 

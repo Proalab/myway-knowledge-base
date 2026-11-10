@@ -20,13 +20,16 @@ If you import a file, make sure it uses the right format: see the [file example]
 2. Type or paste up to 30 addresses, one address per line, and tap **Search**. MyWay tries to recognize each address.
 3. Select the addresses you need (or tap **Select All**) and tap **Add to Route**.
 
-Lines MyWay couldn't recognize can't be selected. Check the address and try again, or add that stop with the regular search.
+If MyWay found the wrong place for a line, or couldn't recognize the address, tap the pencil on the right of the line and choose the address yourself. The line then gets this address and is selected.
 
 ### Import from file
 
 1. Tap **Import**, then **Select File** and choose an .XLSX or .CSV file (up to 5 MB) on your iPhone. To use a file on the internet, tap **Web Link** instead and paste a link to an .XLSX or .CSV file.
-2. Wait while MyWay processes the file. It then shows the recognized stops with their details (tracking ID, time window, time at stop, contact, notes). Rows MyWay couldn't find on the map are marked "Geocode unmatched" and can't be added.
-3. Tap **Add to Route** to add the selected stops.
+2. Wait while MyWay processes the file. The results open on a map: each row of the file is a numbered pin, and the list of stops with their details (tracking ID, time window, time at stop, contact, notes) is in a panel over the map. Drag the panel up or down. Tap a pin to find its row in the list, or tap a row to see it on the map.
+3. Check the list. To remove a row you don't need, swipe it to the left. To change a row's address, tap the pencil on the right of the row and choose the address. Rows whose address MyWay couldn't find are marked "Address Not Found", and a note at the top of the list says how many there are: set their address with the pencil to add them too.
+4. Tap **Add to Route**. MyWay adds every row that has an address.
+
+If MyWay finds no stops in the file, it shows "No stops found in the file." Compare your file with the [file example](#import-from-file-file-example).
 
 To see how the import file should look, download the file example ([example.xlsx](import-from-file-and-multi-line-import.md#import-from-file-file-example)). The order of columns doesn't matter: MyWay recognizes the columns by their titles and validates the data. If something doesn't go as expected, compare your file with the example to see the data formats we use.
 

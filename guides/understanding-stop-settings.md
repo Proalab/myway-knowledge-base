@@ -124,13 +124,17 @@ You can add notes in the stop form, where they're saved automatically like other
 
 The top of the stop form shows the stop on a small map and, where available, a street photo. Tap **Look Around** to see the place before you go.
 
-To change the stop's address, tap the round button to the right of the address on the small map, or tap the map to open it in full screen and tap **Change Address**. Search for the new address or choose it on the map; to use one of your saved places, tap **…** in the empty field and choose **Saved Places**. In full screen you can also add the premises (apartment, suite, unit, floor, etc.).
+Tap the round button with the chevron (›) at the bottom right of the small map. It opens two things under the map: the premises field and **Change Address**. The field is named after the premises type, for example Apartment; to choose another type (Unit, Room, Suite, Office, Mailbox, Penthouse, Building or Other), tap **…** in the field. If the stop already has premises, they're open from the start.
+
+<figure><img src="../.gitbook/assets/stop-settings-location.png" alt="" width="188"><figcaption><p>Premises and Change Address under the small map</p></figcaption></figure>
+
+To change the stop's address, tap **Change Address** (or tap the map to see it in full screen and tap **Change Address** there). Search for the new address or choose it on the map; to use one of your saved places, tap **…** in the empty field and choose **Saved Places**.
 
 You can change the address while you follow the route too. [What happens to the route then](how-to-use-myway-route-planner.md#making-route-changes-after-the-initial-route-is-built)
 
 ### Stops with a status
 
-When a stop has a status (Arrived, Success or Failed), you've already been there. So MyWay doesn't let you change the settings that decide where the stop is in the route: the address, priority, time at stop, time window, and Pickup or Delivery with its linked stops. **Sync from Saved Place** is unavailable too, because it would change some of them. The "Stop Completed" banner at the top of the form reminds you of this.
+When a stop has a status (Arrived, Success or Failed), you've already been there. So MyWay doesn't let you change the settings that decide where the stop is in the route: the address, priority, time at stop, time window, and Pickup or Delivery with its linked stops. **Sync from Saved Place** is unavailable too, because it would change some of them. The "Stop Completed" banner at the top of the form reminds you of this, and **Change Address** under the small map is greyed out.
 
 You can still change the name, tracking ID, color, notes, contact details, premises and package count. To change the other settings, undo the stop first: swipe it to the right and tap **Undo**.
 

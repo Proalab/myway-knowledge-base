@@ -12,7 +12,7 @@ MyWay Route Planner lets you create as many routes as you want. All routes are s
 
 ## How to create a new route?
 
-Tap **…** in the route header (next to the route name) and choose **New Route**, or tap **+** in the Routes list.
+Tap **…** in the route header and choose **New Route**, or tap **+** in the Routes list.
 
 <figure><img src="../.gitbook/assets/routes-route-menu.png" alt="" width="188"><figcaption><p>Route menu on the main screen</p></figcaption></figure>
 
