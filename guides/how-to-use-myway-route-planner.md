@@ -152,7 +152,7 @@ Tap the arrow next to **Start Route** and make your changes. Then tap the optimi
 
 **After you start the route**
 
-To add one or two stops, tap the magnifier, find the stop and add it. MyWay puts it where it adds the least distance to the route: between two stops you haven't visited yet, or after the last one. Stops with the First or Last priority stay at the beginning or the end. To reorder stops, touch and hold a stop and drag it. Then [update the route](#update-and-actualize-route) to refresh the ETAs.
+To add one or two stops, tap the magnifier, find the stop and add it. MyWay puts it where it adds the least distance to the route: between two stops you haven't visited yet, or after the last one. Stops with the First or Last priority stay at the beginning or the end. To reorder stops, touch and hold a stop and drag it ([how this works with First and Last stops](understanding-stop-settings.md#priority-and-drag-and-drop)). Then [update the route](#update-and-actualize-route) to refresh the ETAs.
 
 To change a stop's address, for example when the customer asks you to deliver somewhere else, open the stop's details and tap **Change Address** in the **Actions** section at the bottom. You can also do it in the [stop form](understanding-stop-settings.md#location-look-around-and-premises). Choose the new address, and MyWay saves it right away. Until you update the route, the times of this stop and the next ones are approximate ("\~"), and the map shows a dashed line to the stop instead of the road. Tap the optimize button and choose **Update Route** to recalculate the route and ETAs. You can't change the address of a stop that already has a status (Arrived, Success or Failed).
 

@@ -52,6 +52,24 @@ Priority tells MyWay how urgent a stop is. To set it, tap the lightning button n
 **A tip from us:** don't set a priority for more than 2 stops. When every stop is a priority, there are no priorities at all.
 {% endhint %}
 
+#### Priority when you drag stops <a href="#priority-and-drag-and-drop" id="priority-and-drag-and-drop"></a>
+
+In the list of stops, First stops are always at the top, right after the start, and Last stops are always at the bottom, right before the end. First and Last stops have a red pin on the right of the stop card, and High stops have a red lightning before the name. When you [drag a stop](managing-your-routes.md#edit-mode-select-delete-and-copy-stops) to another place, MyWay keeps the First stops together and the Last stops together, so the stop's priority can change:
+
+| You drag | To | Priority after the move |
+| --- | --- | --- |
+| A First stop | Another place among the First stops | Stays First |
+| A First stop | Below the First stops | Normal: the pin disappears |
+| A Normal or High stop | Above a First stop or between two First stops | First: the pin appears |
+| A Normal or High stop | Anywhere else, including right below the last First stop | Doesn't change |
+| A Last stop | Another place among the Last stops | Stays Last |
+
+Keep in mind:
+
+* **Last stops move only among themselves.** While you plan a route, they're listed under **Add Stop**. You can't drag a Last stop out of this group or drag another stop into it. To do that, change the stop's priority with the lightning button.
+* **High doesn't come back.** A High stop dragged among the First stops becomes First. If you then drag it out of the First stops, it becomes Normal, not High. To make it High again, set the priority with the lightning button.
+* **Optimization keeps only First and Last stops in place.** When you optimize, First and Last stops keep the order you gave them, and MyWay reorders the stops in between: High stops go among the first ones, wherever you dragged them. To keep your whole order, choose **Current** and tap **Keep Stop Order**.
+
 ### Time Windows <a href="#time-windows" id="time-windows"></a>
 
 Use a time window when you need to be at a stop before, after or between specific times. Set it in the Time Window section of the stop:

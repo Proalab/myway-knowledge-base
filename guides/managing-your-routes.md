@@ -31,7 +31,7 @@ Tap the edit (pencil) button in the route header to switch to edit mode. There y
 * select stops: tap the circles next to them, or tap the select button at the bottom to select stops by status (Failed, Success), by group (Not Completed, Skipped), or all at once;
 * delete the selected stops: tap the trash button;
 * copy the selected stops to a new route: tap **…** at the bottom;
-* change the order: touch and hold the handle on the right of a stop and drag it;
+* change the order: touch and hold the handle on the right of a stop and drag it. A stop dragged next to First or Last stops can change its priority: [see how](understanding-stop-settings.md#priority-and-drag-and-drop);
 * rename the route: tap the route name.
 
 Tap **Done** when you've finished. To delete stops without edit mode, tap **…** in the route header > **Delete Stops…** and choose **Delete All Stops** or **Delete Completed Stops**.
