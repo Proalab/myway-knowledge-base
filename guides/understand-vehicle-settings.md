@@ -38,7 +38,7 @@ If your route has more stops, MyWay shows the "Too many stops" message when you 
 
 ### Car
 
-* **Dimension:** Height = 1.9 meters (6 ft), Width = 1.6 meters (5 ft)
+* **Dimension:** Height = 1.6 meters (5.2 ft), Width = 1.9 meters (6.2 ft)
 * **Weight:** Up to 3500 kg (7700 lbs)
 
 **Description:** Car is the default vehicle type. It suits most passenger cars and small delivery vehicles.
@@ -54,13 +54,15 @@ If your route has more stops, MyWay shows the "Too many stops" message when you 
 
 * **Dimension:** Height = 3 meters (9.85 ft), Width = 2.6 meters (8.5 ft), Length = up to 6.7 meters (22 ft)
 * **Weight:** Between 3500 kg to 12000 kg (7700-26500 lbs)
+* **Axle load:** Up to 6000 kg (13200 lbs) per axle, 2 axles
 
-**Description:** For heavier loads, between 3,500 kg and 12,000 kg, with a speed factor of 90%. Small Truck tends to favor higher-class roads, such as motorways and trunk roads, and checks truck access, width and height restrictions, and weight limits on the roads.
+**Description:** For heavier loads, between 3,500 kg and 12,000 kg, with a speed factor of 90%. Small Truck tends to favor higher-class roads, such as motorways and trunk roads, and checks truck access, width and height restrictions, and weight limits on the roads. If your vehicle is taller than 3 meters (9.8 ft) or longer than 6.7 meters (22 ft), choose **Truck**.
 
 ### Truck (Lorry)
 
 * **Dimension:** Height = 4.11 meters (13.5 ft), Width = 2.6 meters (8.5 ft), Length = up to 22 meters (72.2 ft)
 * **Weight:** Between 12000 kg to 40000 kg  (26500-88200 lbs)
+* **Axle load:** Up to 9070 kg (20000 lbs) per axle, 5 axles
 
 **Description:** A big vehicle for carrying cargo over long distances and very heavy loads, between 12,000 kg and 40,000 kg, with a speed factor of 80%. Truck favors higher-class roads, such as motorways and trunk roads, and checks truck access, width and height restrictions, and weight limits on the roads.
 
