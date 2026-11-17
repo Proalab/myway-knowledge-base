@@ -48,7 +48,14 @@ Optimizing for distance prioritizes the shortest possible route, even if it sacr
 
 ## Road Restrictions
 
-Road restrictions let you avoid highways, ferries, toll roads or unpaved roads. Some of these roads might be necessary to complete the route, so MyWay can't always avoid them. When it can't, it keeps their use to a minimum.
+Road restrictions let you avoid highways, ferries, toll roads or unpaved roads.
+
+* **Highways**, **Ferries** and **Tolls**: MyWay avoids these roads where it can. Some of them might be necessary to complete the route; then MyWay keeps their use to a minimum.
+* **Unpaved Roads** is a strict rule. For Car, Van, Small Truck and Truck, MyWay uses an unpaved road only at the start or end of the way between two stops, never in the middle. A stop that can't be reached this way gets "Route not found" and is left out of the route. For Bicycle, this option only steers the route away from rough surfaces; Pedestrian routes ignore it.
+
+{% hint style="info" %}
+**Turn off Unpaved Roads only when a stop shows "Route not found".** That stop may have no paved road to it. See [Unpaved Roads restriction](../faq/why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md#unpaved-roads).
+{% endhint %}
 
 {% hint style="warning" %}
 MyWay doesn't pass road restrictions to navigation apps. Set the same options in your navigation app, otherwise it may lead you along the roads you wanted to avoid.

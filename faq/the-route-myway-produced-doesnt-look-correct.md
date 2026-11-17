@@ -71,7 +71,7 @@ The app can build more efficient routes when **Allow U-turns on Waypoints** is o
 
 ### **Road Restrictions**
 
-[Road Restrictions](../guides/understand-route-settings.md#road-restrictions) let you avoid highways, ferries, toll roads and unpaved roads. Avoiding them can make the route longer.
+[Road Restrictions](../guides/understand-route-settings.md#road-restrictions) let you avoid highways, ferries, toll roads and unpaved roads. Avoiding them can make the route longer. **Unpaved Roads** is a strict rule: a stop that can't be reached without an unpaved road gets "Route not found". [Turn it off only in that case](why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md#unpaved-roads).
 
 {% hint style="info" %}
 Examples:

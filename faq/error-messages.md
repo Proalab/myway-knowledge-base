@@ -29,7 +29,7 @@ Find your message by its text (use your browser's search or the search on this s
 
 | Message | What it means | What to do |
 | --- | --- | --- |
-| "Route not found" | There is no road to this stop for your vehicle. | Check the address and the pin on the map, or choose a smaller [vehicle type](../guides/understand-vehicle-settings.md). |
+| "Route not found" | There is no road to this stop for your vehicle. | Check the address and the pin on the map, choose a smaller [vehicle type](../guides/understand-vehicle-settings.md), or turn off [Unpaved Roads](why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md#unpaved-roads) if it's on. |
 | "No route to this stop in the current order" | The stop can't be reached in the order you set. | Optimize the route or change the order. |
 | "Time window constraint could not be satisfied" | You can't arrive within the stop's [time window](../guides/understanding-stop-settings.md#time-windows). | Widen the time window, change the departure time, or move the stop. |
 | "Late arrival is expected at this stop" | You will arrive after the time window ends. | Same as above. |

@@ -8,7 +8,7 @@
 
 MyWay recognizes problems with stops and marks them. A stop can have an issue for many reasons. The most common ones:
 
-* The stop can't be reached by public road, because of your [vehicle type](why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md#vehicle-type-issue) or because there is no road access at all.
+* The stop can't be reached by public road, because of your [vehicle type](why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md#vehicle-type-issue), the [Unpaved Roads restriction](why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md#unpaved-roads) or because there is no road access at all.
 * MyWay can't meet the stop's [time window](../guides/understanding-stop-settings.md#time-windows) because of a tight schedule or many stops with time windows.
 * The stop is in a different country, on an island or in a forest.
 
@@ -33,7 +33,7 @@ The number of stops in a route depends on your [vehicle type](../guides/understa
 
 ## **Route not found** <a href="#path-not-found" id="path-not-found"></a>
 
-**"Route not found"** means that one or more stops can't be reached by public road with your vehicle (they are on an island, in a forest, really far from other stops, etc.). Optimization algorithms can't resolve this automatically, so these stops need a manual check. To help you, the app marks the stops with known errors and leaves them out of the optimized stop sequence. In most cases, the cause is a [vehicle type issue](why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md#vehicle-type-issue) or a [route planned far from your location](why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md#route-far-from-your-location).
+**"Route not found"** means that one or more stops can't be reached by public road with your vehicle (they are on an island, in a forest, really far from other stops, etc.). Optimization algorithms can't resolve this automatically, so these stops need a manual check. To help you, the app marks the stops with known errors and leaves them out of the optimized stop sequence. In most cases, the cause is a [vehicle type issue](why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md#vehicle-type-issue), the [Unpaved Roads restriction](why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md#unpaved-roads) or a [route planned far from your location](why-do-some-of-my-stops-have-issues-path-not-found-or-unexpected-error.md#route-far-from-your-location).
 
 {% hint style="warning" %}
 Sometimes the app can't show an error on a stop because there is no clear reason for it. In this case, check all stops manually and look for the ones that don't look right.
@@ -61,6 +61,12 @@ When you build a route, the app builds a matrix of real road distances between e
 This can happen if your vehicle type is a big vehicle, like a truck (lorry). The issue appears when the optimization algorithm can't find any way for this type of vehicle to reach one or more stops (low bridges, narrow roads not suitable for a long or tall vehicle, etc.). It's easy to fix: change the vehicle type to **Car**. Don't worry, most vehicles do just fine on routes for a car or van. Only trucks that are long, tall or big will face issues, and they absolutely must use **Small Truck** or **Truck** as the vehicle type.
 
 <figure><img src="../.gitbook/assets/vehicle-picker.png" alt="" width="188"><figcaption><p>Vehicle type settings</p></figcaption></figure>
+
+## **Unpaved Roads restriction** <a href="#unpaved-roads" id="unpaved-roads"></a>
+
+If **Unpaved Roads** is on in the route's [Road Restrictions](../guides/understand-route-settings.md#road-restrictions), MyWay uses an unpaved road only at the start or end of the way between two stops, never in the middle (for Car, Van, Small Truck and Truck). If a stop can't be reached without one, it gets "Route not found", just like a stop with no road at all.
+
+To fix it, tap **Road Restrictions** under **Route Settings** and turn off **Unpaved Roads** for this route. This is the only case when you need to turn it off: as long as MyWay finds a route to every stop, you can keep it on. If Unpaved Roads is in your [default Route Settings](../guides/understand-route-settings.md#default-route-settings), new routes get it too.
 
 {% hint style="info" %}
 [Vehicle Type](../guides/understand-vehicle-settings.md) and [route settings](../guides/understand-route-settings.md) affect how the route looks, its time and distance, and how "correct" and convenient it is overall. [Make sure you use the right settings](the-route-myway-produced-doesnt-look-correct.md) to get the best results for your needs.
