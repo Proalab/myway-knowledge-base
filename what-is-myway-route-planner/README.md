@@ -12,4 +12,4 @@ We use the best technologies on the market. MyWay builds routes based on traffic
 
 If you used the previous version of MyWay, see [what's new in MyWay 3](whats-new-in-myway-3.md).
 
-To learn more, visit our website: [https://mywayroute.com](https://mywayroute.com)
+To learn more, visit our website: [https://www.mywayroute.com](https://www.mywayroute.com)
