@@ -4,11 +4,11 @@
 **Using MyWay on Android?** This page describes the iOS app version 3. See [Version 2 of this page](https://help.mywayroute.com/v2/guides/import-from-file-and-multi-line-import).
 {% endhint %}
 
-Add many stops at once instead of one by one: paste a list of addresses (multi-line import), or import an .XLSX or .CSV file from your iPhone, from a web link or from [another app](#import-a-file-from-another-app).
+Add many stops at once instead of one by one: paste a list of addresses (multi-line import), [take a photo of a list or a table](#addresses-from-a-photo), or import an .XLSX or .CSV file from your iPhone, from a web link or from [another app](#import-a-file-from-another-app).
 
 <figure><img src="../.gitbook/assets/how-to-use-add-stop.png" alt="" width="188"><figcaption><p>Two ways to add stops to the route</p></figcaption></figure>
 
-To start, tap **Add Stop** (or the magnifier button in the top left corner of the map). In the row of icons under the empty search field, tap **List** (the third icon) for multi-line import or **Import** (the last icon, a document with an arrow) to import a file.
+To start, tap **Add Stop** (or the magnifier button in the top left corner of the map). In the row of icons under the empty search field, tap **List** (the third icon) for multi-line import and addresses from a photo, or **Import** (the last icon, a document with an arrow) to import a file.
 
 If you import a file, make sure it uses the right format: see the [file example](import-from-file-and-multi-line-import.md#import-from-file-file-example). Processing can take a few minutes, as MyWay recognizes every address and matches it to the address database.
 
@@ -17,17 +17,53 @@ If you import a file, make sure it uses the right format: see the [file example]
 ### Multiline import
 
 1. Tap **List** to open Multi Search.
-2. Type or paste up to 30 addresses, one address per line, and tap **Search**. MyWay tries to recognize each address.
-3. Select the addresses you need (or tap **Select All**) and tap **Add to Route**.
+2. Type or paste up to 30 addresses, one address per line, and tap **Search**. The paste button (bottom right corner of the field) adds the copied lines to the end of the list, so you can paste several times. You can also [take a photo of the list](#addresses-from-a-photo).
+3. The results open under a map of the addresses MyWay found. Each row shows its line number, the address MyWay found in blue and the line you entered under it. While MyWay is still looking for a row's address, the row shows a spinner.
+4. Check the list:
+   * Rows with a found address are selected, and their pins on the map are filled in. Tap a row to select it or clear the selection, or tap **Select All**.
+   * If MyWay found the wrong place for a row, tap the address (it ends with a pencil) and choose the right one. The row gets this address and is selected.
+   * Rows whose address MyWay couldn't find are marked "Address Not Found". Tap such a row to choose its address.
+   * To remove a row, swipe it to the left.
+   * Tap a row number to see it on the map, or tap a pin to find its row in the list.
+5. Tap **Add to Route**. The button shows how many rows are selected out of all rows, for example **Add to Route (12 of 15)**, and MyWay adds only the selected ones. On a route in progress, the new stops go to the end of the route.
 
-If MyWay found the wrong place for a line, or couldn't recognize the address, tap the pencil on the right of the line and choose the address yourself. The line then gets this address and is selected.
+### Addresses from a photo
+
+Take a photo of a list of addresses (on paper, on a screen or in a note), and MyWay puts the addresses into the list for you. Spreadsheets work too: MyWay finds the address column and adds the city and ZIP code from their own columns. This needs iOS 26 or later.
+
+1. Tap **List** to open Multi Search.
+2. Tap the camera button in the bottom right corner of the field, next to the paste button.
+3. On the **Scan Addresses** screen, swipe through the tips on how to take the photo, then tap **Take Photo**. To use a photo or a screenshot you already have, tap **Choose from Library**.
+4. MyWay looks for addresses in the photo and adds them to the list, after any lines that are already there.
+5. Check the lines, then tap **Search** and go on as in [Multiline import](#multiline-import).
+
+**How to take a photo that MyWay reads well**
+
+* **Only addresses in the frame.** Point the camera at the addresses and leave out as much of everything else as you can: text around the list may get into it.
+* **A clear shot.** Avoid glare and shadows on the text, and hold the phone parallel to the page or the screen.
+* **Keep the header row.** If the list is a table, include the row with the column names. MyWay finds the address, city and ZIP code columns by their names, like "Address", "Street", "City", "ZIP" or "Postal Code". Without the header row, the addresses go into the list without the city and ZIP code.
+* **Check before you search.** An address written on two lines in one cell becomes two lines in the list: join them before you tap **Search**. Fix or delete any line that isn't an address.
+
+**What MyWay takes from the photo**
+
+* From a table, only the address column, with the city and ZIP code added. Order numbers, phone numbers, dates and other numbers stay out of the list. To add phone numbers, notes or time windows to your stops, [import a file](#import-from-file) instead.
+* From a list that isn't a table, the lines that start at the same left edge, one under another. If there are no such lines, MyWay takes all the text in the photo, apart from phone numbers, links, dates and numbers.
+* Up to 30 lines in all, like a typed list. If the photo has more, MyWay adds what fits and tells you how many lines didn't fit. Take a long list in parts: add one part to the route, then open **List** again for the next one.
+
+{% hint style="info" %}
+The photo is read right on your iPhone and isn't sent anywhere. If you don't see the camera button in the field, check your iOS version: the button is there on iOS 26 or later. If the camera doesn't work after you tap **Take Photo**, allow camera access in iOS Settings > Apps > MyWay.
+{% endhint %}
 
 ### Import from file
 
 1. Tap **Import**, then **Select File** and choose an .XLSX or .CSV file (up to 5 MB) on your iPhone. To use a file on the internet, tap **Web Link** instead and paste a link to an .XLSX or .CSV file.
-2. Wait while MyWay processes the file. The results open on a map: each row of the file is a numbered pin, and the list of stops with their details (tracking ID, time window, time at stop, contact, notes) is in a panel over the map. Drag the panel up or down. Tap a pin to find its row in the list, or tap a row to see it on the map.
-3. Check the list. To remove a row you don't need, swipe it to the left. To change a row's address, tap the pencil on the right of the row and choose the address. Rows whose address MyWay couldn't find are marked "Address Not Found", and a note at the top of the list says how many there are: set their address with the pencil to add them too.
-4. Tap **Add to Route**. MyWay adds every row that has an address.
+2. Wait while MyWay processes the file. The results open on a map: each row of the file is a numbered pin, and the list of stops with their details (tracking ID, time window, time at stop, contact, notes) is in a panel over the map. Drag the panel up or down. Each row shows its number in the file, the address MyWay found in blue and the address from the file under it. Tap a row number to see it on the map, or tap a pin to find its row in the list.
+3. Check the list:
+   * Rows with a found address are selected, and their pins on the map are filled in. Tap a row to select it or clear the selection.
+   * To change a row's address, tap the address (it ends with a pencil) and choose the right one. The row gets this address and is selected.
+   * Rows whose address MyWay couldn't find are marked "Address Not Found", and a note at the top of the list says how many there are. Tap such a row to choose its address and add it too.
+   * To remove a row you don't need, swipe it to the left.
+4. Tap **Add to Route**. The button shows how many rows are selected out of all rows in the file, for example **Add to Route (12 of 55)**, and MyWay adds only the selected ones.
 
 If MyWay finds no stops in the file, it shows "No stops found in the file." Compare your file with the [file example](#import-from-file-file-example).
 

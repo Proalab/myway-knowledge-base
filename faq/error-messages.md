@@ -50,6 +50,8 @@ Find your message by its text (use your browser's search or the search on this s
 | "This address is … from where you tapped." | You picked a point on the map, and the nearest address is some distance away. | Check the address. The stop stays where you tapped. |
 | "Clipboard is empty." | There is nothing to paste. | Copy an address or a map link first. |
 | "Can't paste this content. The link contains no coordinates." | You pasted a link that has no location in it. | Copy a link that shows a point (for example, from Google Maps or Apple Maps) or copy the address text. |
+| "No addresses found in the photo." | MyWay couldn't read any addresses in the [photo of your list](../guides/import-from-file-and-multi-line-import.md#addresses-from-a-photo). | Take the photo again: closer, with less around the list, without glare, and with the table's header row in the frame. |
+| "… lines didn't fit in the list." | The list holds up to 30 lines, and the photo or the pasted text had more. The extra lines were left out. | Add these stops to the route, then open **List** again for the rest. |
 | "No Address: Couldn't determine this contact's location. Please set an address to continue." | The contact has no address that can be found on the map. | Tap **Set Address** and enter the address. |
 | "No Access to Contacts" | MyWay can't read your contacts. | Tap **Open Settings** and allow access to Contacts. |
 
@@ -63,7 +65,7 @@ Find your message by its text (use your browser's search or the search on this s
 | "Couldn't process the file. Try again." | The file couldn't be read. | Check the [file format](../guides/import-from-file-and-multi-line-import.md#import-from-file-file-example) and try again. |
 | "Processing the file is taking too long. Try again later." | Processing didn't finish in time. | Try again later or split the file. |
 | "Processing the file was cancelled on the server." | Processing was stopped on our side. | Import the file again. |
-| "Address Not Found" on a row, "Couldn't find addresses for these rows: …" | MyWay couldn't find the address of these rows, so they won't be added. | Tap the pencil on the row and set the address, or fix the address in the file. |
+| "Address Not Found" on a row, "Couldn't find addresses for these rows: …" | MyWay couldn't find the address of these rows, so they won't be added. | Tap the row and choose its address, or fix the address in the file. |
 | "No stops found in the file." | MyWay didn't find any stops in the file. | Compare your file with the [file example](../guides/import-from-file-and-multi-line-import.md#import-from-file-file-example). |
 | "To import stops from the file, save or discard your changes first." | You opened a file while editing something. | Save or discard your changes, then open the file again. |
 

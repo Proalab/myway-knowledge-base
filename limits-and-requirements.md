@@ -12,6 +12,7 @@ description: All MyWay limits, numbers and requirements on one page
 
 * iPhone and iPad with iOS 18.5 or later.
 * Live Activity is available on iPhone only.
+* [Addresses from a photo](guides/import-from-file-and-multi-line-import.md#addresses-from-a-photo) (the camera button in **List**): iOS 26 or later.
 * Internet connection: needed to search addresses, build and optimize routes, import files and share routes. Following a route works offline. [More](faq/using-myway-without-an-internet-connection-offline-mode.md)
 
 ## Routes and stops

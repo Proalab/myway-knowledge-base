@@ -35,7 +35,7 @@ Besides the address search, you can add stops from other sources. While the sear
 
 * **Saved Places** (bookmark): your [saved places](managing-your-contacts-and-places.md#places)
 * **Contacts** (two people): addresses from your [iPhone contacts](managing-your-contacts-and-places.md#contacts)
-* **List**: type or paste [up to 30 addresses at once](import-from-file-and-multi-line-import.md#multiline-import)
+* **List**: type or paste [up to 30 addresses at once](import-from-file-and-multi-line-import.md#multiline-import), or [take a photo of a list or a table](import-from-file-and-multi-line-import.md#addresses-from-a-photo) (iOS 26 or later)
 * **Voice** (microphone): say an address
 * **Scan** (camera): read an address with the iPhone camera
 * **Import** (document with an arrow): add stops [from an XLSX or CSV file](import-from-file-and-multi-line-import.md#import-from-file)
