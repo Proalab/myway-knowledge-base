@@ -20,7 +20,7 @@ If you import a file, make sure it uses the right format: see the [file example]
 2. Type or paste up to 30 addresses, one address per line, and tap **Search**. The paste button (bottom right corner of the field) adds the copied lines to the end of the list, so you can paste several times. You can also [take a photo of the list](#addresses-from-a-photo).
 3. The results open under a map of the addresses MyWay found. Each row shows its line number, the address MyWay found in blue and the line you entered under it. While MyWay is still looking for a row's address, the row shows a spinner.
 4. Check the list:
-   * Rows with a found address are selected, and their pins on the map are filled in. Tap a row to select it or clear the selection, or tap **Select All**.
+   * Rows with a found address are selected, and their pins on the map are filled in. Tap a row to select it or clear the selection. **Deselect All** at the top clears every row, and **Select All** selects them again.
    * If MyWay found the wrong place for a row, tap the address (it ends with a pencil) and choose the right one. The row gets this address and is selected.
    * Rows whose address MyWay couldn't find are marked "Address Not Found". Tap such a row to choose its address.
    * To remove a row, swipe it to the left.
@@ -36,6 +36,8 @@ Take a photo of a list of addresses (on paper, on a screen or in a note), and My
 3. On the **Scan Addresses** screen, swipe through the tips on how to take the photo, then tap **Take Photo**. To use a photo or a screenshot you already have, tap **Choose from Library**.
 4. MyWay looks for addresses in the photo and adds them to the list, after any lines that are already there.
 5. Check the lines, then tap **Search** and go on as in [Multiline import](#multiline-import).
+
+<figure><img src="../.gitbook/assets/import-photo-list.png" alt="Multi Search with seven addresses read from a photo of a table, and the camera and paste buttons in the field" width="188"><figcaption><p>Addresses from a photo of a table</p></figcaption></figure>
 
 **How to take a photo that MyWay reads well**
 
